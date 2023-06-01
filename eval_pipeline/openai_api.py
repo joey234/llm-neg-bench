@@ -41,7 +41,7 @@ class APIParameters:
 
 OPENAI_API_BASE_URL = "https://api.openai.com/v1/engines"
 load_dotenv()
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
 
 def call_api(
     prompt: Union[str, list[str]],

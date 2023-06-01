@@ -1,0 +1,8 @@
+2022-11-29 01:04:00,411 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='monli_test_neg_prompts.csv', exp_dir='monli/neg_prompts/gpt2/acc', models=['gpt2', 'gpt2-medium', 'gpt2-large', 'gpt2-xl'], use_gpu=True, batch_size=1, task_type='classification_acc', logging_level='info')
+2022-11-29 01:04:00,411 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/monli/neg_prompts/gpt2/acc
+2022-11-29 01:04:00,412 [INFO] Copied data
+2023-01-07 00:16:15,353 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='monli_neg_prompts.csv', exp_dir='monli/neg_prompts/gpt2/acc', models=['gpt2', 'gpt2-medium', 'gpt2-large', 'gpt2-xl'], use_gpu=True, contrastive_search=False, batch_size=1, task_type='classification_acc', logging_level='info')
+2023-01-07 00:16:15,353 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/monli/neg_prompts/gpt2/acc
+2023-01-07 00:16:15,355 [INFO] Copied data

@@ -1,0 +1,16 @@
+{
+  "dataset": null,
+  "dataset_path": "rte_flan_prompts.csv",
+  "exp_dir": "rte/flan_prompts/eleutheur/acc",
+  "models": [
+    "gpt-neo-125M",
+    "gpt-neo-1.3B",
+    "gpt-neo-2.7B",
+    "gpt-j-6B"
+  ],
+  "use_gpu": true,
+  "contrastive_search": false,
+  "batch_size": 1,
+  "task_type": "classification_acc",
+  "logging_level": "info"
+}

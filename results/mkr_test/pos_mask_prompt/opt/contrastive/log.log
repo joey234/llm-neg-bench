@@ -1,0 +1,8 @@
+2022-12-09 12:22:43,576 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='mkrnq_pos_mask_prompt.csv', exp_dir='mkr_test/pos_mask_prompt/opt/contrastive', models=['opt-125m', 'opt-350m', 'opt-1.3b', 'opt-2.7b'], use_gpu=True, contrastive_search=True, batch_size=1, task_type='hitrate', logging_level='info')
+2022-12-09 12:22:43,576 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/mkr_test/pos_mask_prompt/opt/contrastive
+2022-12-09 12:22:43,577 [INFO] Copied data
+2023-01-06 11:21:44,821 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='mkrnq_pos_mask_prompt.csv', exp_dir='mkr_test/pos_mask_prompt/opt/contrastive', models=['opt-6.7b'], use_gpu=True, contrastive_search=True, batch_size=1, task_type='hitrate', logging_level='info')
+2023-01-06 11:21:44,821 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/mkr_test/pos_mask_prompt/opt/contrastive
+2023-01-06 11:21:44,825 [INFO] Copied data

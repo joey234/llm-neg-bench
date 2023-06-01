@@ -1,0 +1,13 @@
+{
+  "dataset": null,
+  "dataset_path": "monli_neg_prompts.csv",
+  "exp_dir": "monli/neg_prompts/gpt3/acc",
+  "models": [
+    "text-davinci-003"
+  ],
+  "use_gpu": false,
+  "contrastive_search": false,
+  "batch_size": 100,
+  "task_type": "classification_acc",
+  "logging_level": "info"
+}

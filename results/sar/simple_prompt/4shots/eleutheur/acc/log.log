@@ -1,0 +1,4 @@
+2023-01-12 13:46:32,782 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='sar_test_simple_4shots.csv', exp_dir='sar/simple_prompt/4shots/eleutheur/acc', models=['gpt-neo-125M', 'gpt-neo-1.3B', 'gpt-neo-2.7B', 'gpt-j-6B'], use_gpu=True, contrastive_search=False, batch_size=1, task_type='classification_acc', logging_level='info')
+2023-01-12 13:46:32,782 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/sar/simple_prompt/4shots/eleutheur/acc
+2023-01-12 13:46:32,789 [INFO] Copied data

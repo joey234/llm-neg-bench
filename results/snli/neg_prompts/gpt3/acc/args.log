@@ -1,0 +1,15 @@
+{
+  "dataset": null,
+  "dataset_path": "snli_neg_prompts.csv",
+  "exp_dir": "snli/neg_prompts/gpt3/acc",
+  "models": [
+    "text-ada-001",
+    "text-babbage-001",
+    "text-curie-001"
+  ],
+  "use_gpu": false,
+  "contrastive_search": false,
+  "batch_size": 100,
+  "task_type": "classification_acc",
+  "logging_level": "info"
+}

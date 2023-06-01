@@ -1,0 +1,3 @@
+2023-01-13 09:48:19,245 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='nan_flan_neg_prompts.csv', exp_dir='nan/flan_neg_prompts/eleutheur/acc', models=['gpt-neo-125M', 'gpt-neo-1.3B', 'gpt-neo-2.7B', 'gpt-j-6B'], use_gpu=True, contrastive_search=False, batch_size=1, task_type='classification_acc', logging_level='info')
+2023-01-13 09:48:19,245 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/nan/flan_neg_prompts/eleutheur/acc

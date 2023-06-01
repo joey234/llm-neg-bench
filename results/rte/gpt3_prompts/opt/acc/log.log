@@ -1,0 +1,4 @@
+2023-01-06 17:25:13,082 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='rte_gpt3_prompts.csv', exp_dir='rte/gpt3_prompts/opt/acc', models=['opt-125m', 'opt-350m', 'opt-1.3b', 'opt-2.7b', 'opt-6.7b'], use_gpu=True, contrastive_search=False, batch_size=1, task_type='classification_acc', logging_level='info')
+2023-01-06 17:25:13,082 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/rte/gpt3_prompts/opt/acc
+2023-01-06 17:25:13,083 [INFO] Copied data

@@ -1,0 +1,1033 @@
+prompt,classes,answer_index
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not all people have had the opportunities you have had.
+Hypothesis: Some people have not had the opportunities you have had.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not all people have had the opportunities you have had.
+Hypothesis: Some people have had the opportunities you have had.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not all people have had the opportunities you have had.
+Hypothesis: Every person has had the opportunities you have had.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not all people have had the opportunities you have had.
+Hypothesis: Not every person has had the opportunities you have had.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not all people have had the opportunities you have had.
+Hypothesis: All people have not had the opportunities you have had.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not all people have had the opportunities you have had.
+Hypothesis: All people have had the opportunities you have had.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not all people have had the opportunities you have had.
+Hypothesis: Not all people have had the opportunities you have not had.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not all people have had the opportunities you have had.
+Hypothesis: No one has had the opportunities you have had.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: I saw nothing at all.
+Hypothesis: I didn't see anything at all.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: I saw nothing at all.
+Hypothesis: I saw something.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: I saw nothing at all.
+Hypothesis: I did not see something.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not often do we see her lose her cool like that.
+Hypothesis: We do not see her lose her cool like that often.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not often do we see her lose her cool like that.
+Hypothesis: She does not lose her cool like that often.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not often do we see her lose her cool like that.
+Hypothesis: We see her lose her cool like that often.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not often do we see her lose her cool like that.
+Hypothesis: Sometimes we see her lose her cool like that.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not often do we see her lose her cool like that.
+Hypothesis: Sometimes we do not see her lose her cool like that.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not often do we see her lose her cool like that.
+Hypothesis: We do not see her often.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not often do we see her lose her cool like that.
+Hypothesis: We do not see her lose her cool like him often.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one person supported the proposal.
+Hypothesis: Some people supported the proposal.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one person supported the proposal.
+Hypothesis: Some people did not support the proposal.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one person supported the proposal.
+Hypothesis: Everyone supported the proposal.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one person supported the proposal.
+Hypothesis: Everyone did not support the proposal.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one person supported the proposal.
+Hypothesis: No one supported the proposal.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one person supported the proposal.
+Hypothesis: No one did not support the proposal.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one person supported the proposal.
+Hypothesis: One person did not support the proposal.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one person supported the proposal.
+Hypothesis: One person supported the proposal.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one person supported the proposal.
+Hypothesis: Two people did not support the proposal.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one person supported the proposal.
+Hypothesis: Two people supported the proposal.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one person supported the proposal.
+Hypothesis: Twenty people did not support the proposal.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one person supported the proposal.
+Hypothesis: Twenty people supported the proposal.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had found not one mistake.
+Hypothesis: They had found more than one mistake.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had found not one mistake.
+Hypothesis: They had not found more than one mistake.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had found not one mistake.
+Hypothesis: They had found less than one mistake.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had found not one mistake.
+Hypothesis: They had found two mistakes.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had found not one mistake.
+Hypothesis: They had not found two mistakes.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had found not one mistake.
+Hypothesis: They had found twenty mistakes.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had found not one mistake.
+Hypothesis: They had not found twenty mistakes.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had found not one mistake.
+Hypothesis: They had found some mistakes.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had found not one mistake.
+Hypothesis: They had found not all mistakes.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had found not one mistake.
+Hypothesis: They had found all mistakes.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had found not one mistake.
+Hypothesis: They had not found even one mistake.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had found not one mistake.
+Hypothesis: They had found not every mistake.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had found not one mistake.
+Hypothesis: They had found every mistake.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had found not one mistake.
+Hypothesis: They had not found only one mistake.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had found not one mistake.
+Hypothesis: They had not found any mistakes.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had found not one mistake.
+Hypothesis: They had not found some mistakes.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one, not two, but three of them made the mistake.
+Hypothesis: Three of them made the mistake.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one, not two, but three of them made the mistake.
+Hypothesis: Three of them did not make the mistake.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one, not two, but three of them made the mistake.
+Hypothesis: More than three of them made the mistake.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one, not two, but three of them made the mistake.
+Hypothesis: More than two of them made the mistake.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one, not two, but three of them made the mistake.
+Hypothesis: More than one of them made the mistake.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one, not two, but three of them made the mistake.
+Hypothesis: More than three of them did not make the mistake.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one, not two, but three of them made the mistake.
+Hypothesis: More than two of them did not make the mistake.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one, not two, but three of them made the mistake.
+Hypothesis: More than one of them did not make the mistake.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one, not two, but three of them made the mistake.
+Hypothesis: Less than three of them made the mistake.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one, not two, but three of them made the mistake.
+Hypothesis: Less than two of them made the mistake.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one, not two, but three of them made the mistake.
+Hypothesis: Less than four of them made the mistake.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one, not two, but three of them made the mistake.
+Hypothesis: One of them made the mistake.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one, not two, but three of them made the mistake.
+Hypothesis: Two of them made the mistake.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one, not two, but three of them made the mistake.
+Hypothesis: One of them did not make the mistake.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not one, not two, but three of them made the mistake.
+Hypothesis: Two of them did not make the mistake.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not two years ago this company was ranked in the top ten.
+Hypothesis: Less than two years ago this company was ranked in the top ten.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not two years ago this company was ranked in the top ten.
+Hypothesis: More than two years ago this company was ranked in the top ten.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not two years ago this company was ranked in the top ten.
+Hypothesis: Less than two years ago this company was not ranked in the top ten.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not two years ago this company was ranked in the top ten.
+Hypothesis: More than two years ago this company was not ranked in the top ten.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not two years ago this company was ranked in the top ten.
+Hypothesis: Two years ago this company was not ranked in the top ten.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not two years ago this company was ranked in the top ten.
+Hypothesis: Two years ago this company was ranked in the top ten.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not two years ago this company was ranked in the top ten.
+Hypothesis: Twenty years ago this company was not ranked in the top ten.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not two years ago this company was ranked in the top ten.
+Hypothesis: Twenty years ago this company was ranked in the top ten.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not two years ago this company was ranked in the top ten.
+Hypothesis: One year ago this company was ranked in the top ten.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not two years ago this company was ranked in the top ten.
+Hypothesis: One year ago this company was not ranked in the top ten.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: He was here not ten minutes ago.
+Hypothesis: He was here less than ten minutes ago.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: He was here not ten minutes ago.
+Hypothesis: He was not here less than ten minutes ago.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: He was here not ten minutes ago.
+Hypothesis: He was here more than ten minutes ago.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: He was here not ten minutes ago.
+Hypothesis: He was not here more than ten minutes ago.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: He was here not ten minutes ago.
+Hypothesis: He was not here ten minutes ago.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: He was here not ten minutes ago.
+Hypothesis: He was here ten minutes ago.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: He was here not ten minutes ago.
+Hypothesis: He was here one minute ago.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: He was here not ten minutes ago.
+Hypothesis: He was not here one minute ago
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: He was here not ten minutes ago.
+Hypothesis: He was here twenty minutes ago.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: He was here not ten minutes ago.
+Hypothesis: He was not here twenty minutes ago
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: His speech had caused not a little confusion.
+Hypothesis: His speech had not caused a little confusion.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: His speech had caused not a little confusion.
+Hypothesis: His speech had caused a little confusion.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: His speech had caused not a little confusion.
+Hypothesis: His speech had not caused confusion.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: His speech had caused not a little confusion.
+Hypothesis: His speech had caused confusion.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: His speech had caused not a little confusion.
+Hypothesis: His speech had caused a not little confusion.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: His speech had caused not a little confusion.
+Hypothesis: His speech had caused much confusion.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: His speech had caused not a little confusion.
+Hypothesis: His speech had not caused much confusion.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A mistake would be costly and not a little embarrassing.
+Hypothesis: A mistake would not be costly and a little embarassing
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A mistake would be costly and not a little embarrassing.
+Hypothesis: A mistake would be costly and very embarassing
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A mistake would be costly and not a little embarrassing.
+Hypothesis: A mistake would not be costly and very embarassing
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A mistake would be costly and not a little embarrassing.
+Hypothesis: A mistake would not be costly and not a little embarassing
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not even Ed approved of the plan
+Hypothesis: Even Ed did not approve of the plan.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not even Ed approved of the plan
+Hypothesis: Even Ed approved of the plan.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not even Ed approved of the plan
+Hypothesis: Not only Ed approved of the plan.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not even Ed approved of the plan
+Hypothesis: Only Ed approved of the plan.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not even Ed approved of the plan
+Hypothesis: Only Ed did not approve of the plan.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not even Ed approved of the plan
+Hypothesis: Not even Ed or Sally approve of the plan.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not only Ed approved of the plan.
+Hypothesis: Ed was not the only one who approved of the plan.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not only Ed approved of the plan.
+Hypothesis: Not even Ed approved of the plan.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not only Ed approved of the plan.
+Hypothesis: Ed approved of the plan.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not only Ed approved of the plan.
+Hypothesis: Ed not only approved of the plan.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not only Ed approved of the plan.
+Hypothesis: Only Ed approved of the plan.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not only Ed approved of the plan.
+Hypothesis: Ed and some others approved of the plan.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not even then did he lose patience.
+Hypothesis: Even then, he did not lose patience.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not even then did he lose patience.
+Hypothesis: He did not lose patience even then.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not even then did he lose patience.
+Hypothesis: Not only then did he lose patience.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not even then did he lose patience.
+Hypothesis: Only then did he lose patience.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not only was the acting appalling, the movie was far too long.
+Hypothesis: The movie was far too long and the acting was appalling.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not only was the acting appalling, the movie was far too long.
+Hypothesis: The movie was not only far too long but the acting was also appalling.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not only was the acting appalling, the movie was far too long.
+Hypothesis: The movie was far too long but the acting was not appalling.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not only was the acting appalling, the movie was far too long.
+Hypothesis: The movie was not far too long but the acting was appalling.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not only was the acting appalling, the movie was far too long.
+Hypothesis: The movie was not far too long and the acting was not appalling.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not only was the acting appalling, the movie was far too long.
+Hypothesis: The movie was too long and not even the acting was not appalling.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not only was the acting appalling, the movie was far too long.
+Hypothesis: The movie was not too long and not even the acting was appalling.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: We had a not very amicable discussion.
+Hypothesis: We did not have a very amicable discussion.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: We had a not very amicable discussion.
+Hypothesis: We did not have a discussion.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: We had a not very amicable discussion.
+Hypothesis: We had a very amicable discussion.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: We had a not very amicable discussion.
+Hypothesis: We had a very not amicable discussion.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: It somehow sounded not quite right.
+Hypothesis: It somehow did not sound quite right.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: It somehow sounded not quite right.
+Hypothesis: It somehow did not sound right.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: It somehow sounded not quite right.
+Hypothesis: It somehow sounded quite not right.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: It somehow sounded not quite right.
+Hypothesis: It somehow sounded quite right.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: It was so not funny.
+Hypothesis: It was not so funny.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: It was so not funny.
+Hypothesis: It was not funny.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: It was so not funny.
+Hypothesis: It was so boring.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: I found his story not wholly convincing.
+Hypothesis: I did not find his story wholly convincing.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: I found his story not wholly convincing.
+Hypothesis: I found his story wholly not convincing.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: I found his story not wholly convincing.
+Hypothesis: I found his story wholly convincing.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: I found his story not wholly convincing.
+Hypothesis: I did not find his story wholly not convincing.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: He spoke not very confidently.
+Hypothesis: He did not speak very confidently.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: He spoke not very confidently.
+Hypothesis: He spoke very not confidently.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: He spoke not very confidently.
+Hypothesis: He spoke very confidently.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: He spoke not very confidently.
+Hypothesis: He did not speak not very confidently.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: He spoke not very confidently.
+Hypothesis: He did not speak very not confidently.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not many of them had been damaged.
+Hypothesis: Many of them had not been damaged.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not many of them had been damaged.
+Hypothesis: Many of them had been damaged.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not many of them had been damaged.
+Hypothesis: Some of them had been damaged.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not many of them had been damaged.
+Hypothesis: Some of them had not been damaged.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: It was a not undistinguished private university with a large endowment.
+Hypothesis: It was not an undistinguished private university with a large endowment.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: It was a not undistinguished private university with a large endowment.
+Hypothesis: It was not a distinguished private university with a large endowment.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: It was a not undistinguished private university with a large endowment.
+Hypothesis: It was a distinguished private university with a large endowment.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: It was a not undistinguished private university with a large endowment.
+Hypothesis: It was an undistinguished private university with a large endowment.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: She had a not inconsiderable income.
+Hypothesis: She did not have a considerable income.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: She had a not inconsiderable income.
+Hypothesis: She had a considerable income.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: She had a not inconsiderable income.
+Hypothesis: She had a not considerable income.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: She had a not inconsiderable income.
+Hypothesis: She did not have an inconsiderable income.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: She had a not inconsiderable income.
+Hypothesis: She had an inconsiderable income.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had fixed the walls, and purchased some not inelegant furniture.
+Hypothesis: They had fixed the walls, and did not purchase any inelegant furniture.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had fixed the walls, and purchased some not inelegant furniture.
+Hypothesis: They had fixed the walls, but did not purchase any elegant furniture.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had fixed the walls, and purchased some not inelegant furniture.
+Hypothesis: They had fixed the walls, but purchased some not elegant furniture.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had fixed the walls, and purchased some not inelegant furniture.
+Hypothesis: They had fixed the walls, and purchased some inelegant furniture.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They had fixed the walls, and purchased some not inelegant furniture.
+Hypothesis: They had fixed the walls, and purchased some elegant furniture.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: That model is not available.
+Hypothesis: That model is unavailable.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Such mistakes are not common.
+Hypothesis: Such mistakes are uncommon.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not unexpectedly, Charles was late for the meeting.
+Hypothesis: Unexpectedly, Charles was not late for the meeting.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not unexpectedly, Charles was late for the meeting.
+Hypothesis: Unexpectedly, Charles was late for the meeting.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not unexpectedly, Charles was late for the meeting.
+Hypothesis: Expectedly, Charles was late for the meeting.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not unexpectedly, Charles was late for the meeting.
+Hypothesis: Expectedly, Charles was not late for the meeting.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not unreasonably, he asked for payment in advance.
+Hypothesis: Unreasonably, he did not ask for payment in advance.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not unreasonably, he asked for payment in advance.
+Hypothesis: Unreasonably, he asked for payment in advance.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not unreasonably, he asked for payment in advance.
+Hypothesis: Reasonably, he asked for payment in advance.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not unreasonably, he asked for payment in advance.
+Hypothesis: Reasonably, he did not ask for payment in advance.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not surprisingly, they didn't want any part of it.
+Hypothesis: Surprisingly, they didn't want any part of it.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not surprisingly, they didn't want any part of it.
+Hypothesis: Surprisingly, they wanted some part of it.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not surprisingly, they didn't want any part of it.
+Hypothesis: Not unsurprisingly, they didn't want any part of it.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not surprisingly, they didn't want any part of it.
+Hypothesis: Not surprisingly, they wanted some part of it.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not at any stage of the proceedings did she contemplate giving up.
+Hypothesis: She did not contemplate giving up at any stage of the proceedings.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not at any stage of the proceedings did she contemplate giving up.
+Hypothesis: She did not contemplate giving up.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not at any stage of the proceedings did she contemplate giving up.
+Hypothesis: She contemplated giving up at some stages of the proceedings.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not at any stage of the proceedings did she contemplate giving up.
+Hypothesis: At no stage of the proceedings did she contemplate giving up.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not at any stage of the proceedings did she contemplate giving up.
+Hypothesis: She did not contemplate giving up at some stages of the proceedings.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not for the first time, she felt utterly betrayed.
+Hypothesis: She did not feel utterly betrayed for the first time.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not for the first time, she felt utterly betrayed.
+Hypothesis: She did not feel utterly betrayed for the second time.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not for the first time, she felt utterly betrayed.
+Hypothesis: She did not feel utterly betrayed for the twentieth time.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not for the first time, she felt utterly betrayed.
+Hypothesis: She had not felt utterly betrayed before.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not for the first time, she felt utterly betrayed.
+Hypothesis: She had felt utterly betrayed before.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not for the first time, she felt utterly betrayed.
+Hypothesis: She did not feel utterly betrayed.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not for the first time, she felt utterly betrayed.
+Hypothesis: She felt utterly betrayed for the first time.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not for the first time, she felt utterly betrayed.
+Hypothesis: She felt utterly betrayed for the second time.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not for the first time, she felt utterly betrayed.
+Hypothesis: She felt utterly betrayed for the twentieth time.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not for the first time, she felt utterly betrayed.
+Hypothesis: It was not the first time that she felt utterly betrayed.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not an accomplished dancer, he moved rather clumsily.
+Hypothesis: Though not an accomplished dancer, he did not move clumsily.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not an accomplished dancer, he moved rather clumsily.
+Hypothesis: Being an accomplished dancer, he did not move clumsily.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not an accomplished dancer, he moved rather clumsily.
+Hypothesis: Though being an accomplished dancer, he moved rather clumsily.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not an accomplished dancer, he moved rather clumsily.
+Hypothesis: He moved rather clumsily because he was not an accomplished dancer.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not under any illusions about the matter, he continued to be cautious.
+Hypothesis: Under some illusions about the matter, he did not continue to be cautious.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not under any illusions about the matter, he continued to be cautious.
+Hypothesis: Under some illusions about the matter, he continued to be cautious.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not under any illusions about the matter, he continued to be cautious.
+Hypothesis: Though not under any illusions about the matter, he did not continue to be cautious.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not under any illusions about the matter, he continued to be cautious.
+Hypothesis: He continued to be cautious because he was not under any illusions about the matter.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not under any illusions about the matter, he continued to be cautious.
+Hypothesis: He continued to be cautious.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Not under any illusions about the matter, he continued to be cautious.
+Hypothesis: He didn't continue to be cautious.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: We need someone not afraid of taking risks.
+Hypothesis: We do not need someone afraid of taking risks.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: We need someone not afraid of taking risks.
+Hypothesis: We do not need someone not afraid of taking risks.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: We need someone not afraid of taking risks.
+Hypothesis: We need someone afraid of taking risks.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: There are spare blankets in here, not that you'll have any need of them.
+Hypothesis: There are no spare blankets in here, not that you'll have any need of them.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: There are spare blankets in here, not that you'll have any need of them.
+Hypothesis: There are no spare blankets in here, you'll need them.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: There are spare blankets in here, not that you'll have any need of them.
+Hypothesis: There are spare blankets in here, you will not have any need of them.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: There are spare blankets in here, not that you'll have any need of them.
+Hypothesis: There are spare blankets in here, you'll need them.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They are now leaving not on Friday, but on Saturday.
+Hypothesis: They are now leaving on Friday, not on Saturday.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They are now leaving not on Friday, but on Saturday.
+Hypothesis: They are now leaving on Saturday instead of Friday.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They are now leaving not on Friday, but on Saturday.
+Hypothesis: They are now leaving not on Saturday, but on Friday.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They are now leaving not on Friday, but on Saturday.
+Hypothesis: They are now leaving on Saturday.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They are now leaving not on Friday, but on Saturday.
+Hypothesis: They are now not leaving on Saturday.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They are now leaving not on Friday, but on Saturday.
+Hypothesis: They are now leaving on Friday.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They are now leaving on Saturday, not on Friday.
+Hypothesis: They are now leaving not on Saturday, but on Friday.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They are now leaving on Saturday, not on Friday.
+Hypothesis: They are now leaving on Saturday instead of Friday.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They are now leaving on Saturday, not on Friday.
+Hypothesis: They are now leaving not on Friday, but on Saturday.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They are now leaving on Saturday, not on Friday.
+Hypothesis: They are now leaving on Saturday.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They are now leaving on Saturday, not on Friday.
+Hypothesis: They are now not leaving on Saturday.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They are now leaving on Saturday, not on Friday.
+Hypothesis: They are now not leaving on Friday.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They've invited you and your brother, but not me.
+Hypothesis: They've invited you and your brother, and me.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They've invited you and your brother, but not me.
+Hypothesis: They've invited not you and your brother, but me.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They've invited you and your brother, but not me.
+Hypothesis: They've invited not you and your brother, nor me.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They've invited you and your brother, but not me.
+Hypothesis: They've invited me.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They've invited you and your brother, but not me.
+Hypothesis: They've invited you.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They've invited you and your brother, but not me.
+Hypothesis: They've invited your brother.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They've invited you and your brother, but not me.
+Hypothesis: They have not invited me.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They've invited you and your brother, but not me.
+Hypothesis: They have not invited your brother.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They've invited you and your brother, but not me.
+Hypothesis: They have not invited you.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They've invited you and your brother, but not me.
+Hypothesis: They've invited you and me, but not your brother.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.
+Hypothesis: The night turned cold under a sky with stars that twinkled, not shone, in the diamond-clear air.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.
+Hypothesis: The night turned cold under a sky with stars that did not twinkle, but shone, in the diamond-clear air.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.
+Hypothesis: The night turned cold under a sky with stars that did not shine, but twinkled, in the diamond-clear air.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.
+Hypothesis: The night turned cold under a sky with stars that shone and twinkled in the diamond-clear air.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: She rarely goes out these days.
+Hypothesis: She doesn't go out often these days.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: She rarely goes out these days.
+Hypothesis: She never goes out these days.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: She rarely goes out these days.
+Hypothesis: She doesn't go out these days.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: She rarely goes out these days.
+Hypothesis: She goes out these days, but not often.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: This phone hardly lags.
+Hypothesis: This phone never lags.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: This phone hardly lags.
+Hypothesis: This phone does not lag.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: This phone hardly lags.
+Hypothesis: This phone does not lag often.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: This phone hardly lags.
+Hypothesis: This phone lags, but not often.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Little of the liquid spilled.
+Hypothesis: Not much of the liquid spilled.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Little of the liquid spilled.
+Hypothesis: None of the liquid spilled.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Little of the liquid spilled.
+Hypothesis: Lots of the liquid spilled.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: Little of the liquid spilled.
+Hypothesis: The liquid spilled, but not much.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: One seldom sees such birds.
+Hypothesis: One doesn't often see such birds.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: One seldom sees such birds.
+Hypothesis: One doesn't see such birds.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: One seldom sees such birds.
+Hypothesis: One sees such birds, but not often.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: One seldom sees such birds.
+Hypothesis: One never sees such birds.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: None of them supported her.
+Hypothesis: Few of them supported her.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: None of them supported her.
+Hypothesis: Not one of them supported her.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: None of them supported her.
+Hypothesis: One of them supported her.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: None of them supported her.
+Hypothesis: One of them did not support her.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: None of them supported her.
+Hypothesis: Two of them supported her.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: None of them supported her.
+Hypothesis: Two of them did not support her.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: None of them supported her.
+Hypothesis: Twenty of them supported her.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: None of them supported her.
+Hypothesis: Twenty of them did not support her.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: You can not answer their letters: you're not legally required to respond.
+Hypothesis: You can answer their letters.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: You can not answer their letters.
+Hypothesis: You don't have to answer their letters.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They must not read it.
+Hypothesis: It is required that they not read it.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They must not read it.
+Hypothesis: They need not read it.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: They must not read it.
+Hypothesis: They should not read it.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: We were friends at no time.
+Hypothesis: We were friends in no time.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: We were friends at no time.
+Hypothesis: We were not friends.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: I can't stop reading this book.
+Hypothesis: I am not reading this book.
+Answer:","[' contradiction',' entailment',' neutral']",0
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: I can't stop reading this book.
+Hypothesis: I am reading this book.
+Answer:","[' contradiction',' entailment',' neutral']",1

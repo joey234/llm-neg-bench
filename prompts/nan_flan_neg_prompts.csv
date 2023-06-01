@@ -1,0 +1,2065 @@
+prompt,classes,answer_index
+"The question requires reasoning about negation. 
+Suppose Not all people have had the opportunities you have had.
+Can we infer that ""Some people have not had the opportunities you have had.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not all people have had the opportunities you have had.
+Can we infer that ""Some people have had the opportunities you have had.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not all people have had the opportunities you have had.
+Can we infer that ""Every person has had the opportunities you have had.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not all people have had the opportunities you have had.
+Can we infer that ""Not every person has had the opportunities you have had.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not all people have had the opportunities you have had.
+Can we infer that ""All people have not had the opportunities you have had.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not all people have had the opportunities you have had.
+Can we infer that ""All people have had the opportunities you have had.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not all people have had the opportunities you have had.
+Can we infer that ""Not all people have had the opportunities you have not had.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not all people have had the opportunities you have had.
+Can we infer that ""No one has had the opportunities you have had.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose I saw nothing at all.
+Can we infer that ""I didn't see anything at all.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose I saw nothing at all.
+Can we infer that ""I saw something.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose I saw nothing at all.
+Can we infer that ""I did not see something.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not often do we see her lose her cool like that.
+Can we infer that ""We do not see her lose her cool like that often.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not often do we see her lose her cool like that.
+Can we infer that ""She does not lose her cool like that often.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not often do we see her lose her cool like that.
+Can we infer that ""We see her lose her cool like that often.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not often do we see her lose her cool like that.
+Can we infer that ""Sometimes we see her lose her cool like that.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not often do we see her lose her cool like that.
+Can we infer that ""Sometimes we do not see her lose her cool like that.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not often do we see her lose her cool like that.
+Can we infer that ""We do not see her often.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not often do we see her lose her cool like that.
+Can we infer that ""We do not see her lose her cool like him often.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not one person supported the proposal.
+Can we infer that ""Some people supported the proposal.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not one person supported the proposal.
+Can we infer that ""Some people did not support the proposal.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not one person supported the proposal.
+Can we infer that ""Everyone supported the proposal.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not one person supported the proposal.
+Can we infer that ""Everyone did not support the proposal.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not one person supported the proposal.
+Can we infer that ""No one supported the proposal.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not one person supported the proposal.
+Can we infer that ""No one did not support the proposal.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not one person supported the proposal.
+Can we infer that ""One person did not support the proposal.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not one person supported the proposal.
+Can we infer that ""One person supported the proposal.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not one person supported the proposal.
+Can we infer that ""Two people did not support the proposal.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not one person supported the proposal.
+Can we infer that ""Two people supported the proposal.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not one person supported the proposal.
+Can we infer that ""Twenty people did not support the proposal.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not one person supported the proposal.
+Can we infer that ""Twenty people supported the proposal.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They had found not one mistake.
+Can we infer that ""They had found more than one mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose They had found not one mistake.
+Can we infer that ""They had not found more than one mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They had found not one mistake.
+Can we infer that ""They had found less than one mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They had found not one mistake.
+Can we infer that ""They had found two mistakes.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose They had found not one mistake.
+Can we infer that ""They had not found two mistakes.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They had found not one mistake.
+Can we infer that ""They had found twenty mistakes.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose They had found not one mistake.
+Can we infer that ""They had not found twenty mistakes.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose They had found not one mistake.
+Can we infer that ""They had found some mistakes.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose They had found not one mistake.
+Can we infer that ""They had found not all mistakes.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose They had found not one mistake.
+Can we infer that ""They had found all mistakes.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose They had found not one mistake.
+Can we infer that ""They had not found even one mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They had found not one mistake.
+Can we infer that ""They had found not every mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose They had found not one mistake.
+Can we infer that ""They had found every mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose They had found not one mistake.
+Can we infer that ""They had not found only one mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose They had found not one mistake.
+Can we infer that ""They had not found any mistakes.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They had found not one mistake.
+Can we infer that ""They had not found some mistakes.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not one, not two, but three of them made the mistake.
+Can we infer that ""Three of them made the mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not one, not two, but three of them made the mistake.
+Can we infer that ""Three of them did not make the mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not one, not two, but three of them made the mistake.
+Can we infer that ""More than three of them made the mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not one, not two, but three of them made the mistake.
+Can we infer that ""More than two of them made the mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not one, not two, but three of them made the mistake.
+Can we infer that ""More than one of them made the mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not one, not two, but three of them made the mistake.
+Can we infer that ""More than three of them did not make the mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not one, not two, but three of them made the mistake.
+Can we infer that ""More than two of them did not make the mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not one, not two, but three of them made the mistake.
+Can we infer that ""More than one of them did not make the mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not one, not two, but three of them made the mistake.
+Can we infer that ""Less than three of them made the mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not one, not two, but three of them made the mistake.
+Can we infer that ""Less than two of them made the mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not one, not two, but three of them made the mistake.
+Can we infer that ""Less than four of them made the mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not one, not two, but three of them made the mistake.
+Can we infer that ""One of them made the mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not one, not two, but three of them made the mistake.
+Can we infer that ""Two of them made the mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not one, not two, but three of them made the mistake.
+Can we infer that ""One of them did not make the mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not one, not two, but three of them made the mistake.
+Can we infer that ""Two of them did not make the mistake.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not two years ago this company was ranked in the top ten.
+Can we infer that ""Less than two years ago this company was ranked in the top ten.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not two years ago this company was ranked in the top ten.
+Can we infer that ""More than two years ago this company was ranked in the top ten.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not two years ago this company was ranked in the top ten.
+Can we infer that ""Less than two years ago this company was not ranked in the top ten.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not two years ago this company was ranked in the top ten.
+Can we infer that ""More than two years ago this company was not ranked in the top ten.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not two years ago this company was ranked in the top ten.
+Can we infer that ""Two years ago this company was not ranked in the top ten.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not two years ago this company was ranked in the top ten.
+Can we infer that ""Two years ago this company was ranked in the top ten.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not two years ago this company was ranked in the top ten.
+Can we infer that ""Twenty years ago this company was not ranked in the top ten.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not two years ago this company was ranked in the top ten.
+Can we infer that ""Twenty years ago this company was ranked in the top ten.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not two years ago this company was ranked in the top ten.
+Can we infer that ""One year ago this company was ranked in the top ten.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not two years ago this company was ranked in the top ten.
+Can we infer that ""One year ago this company was not ranked in the top ten.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose He was here not ten minutes ago.
+Can we infer that ""He was here less than ten minutes ago.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose He was here not ten minutes ago.
+Can we infer that ""He was not here less than ten minutes ago.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose He was here not ten minutes ago.
+Can we infer that ""He was here more than ten minutes ago.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose He was here not ten minutes ago.
+Can we infer that ""He was not here more than ten minutes ago.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose He was here not ten minutes ago.
+Can we infer that ""He was not here ten minutes ago.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose He was here not ten minutes ago.
+Can we infer that ""He was here ten minutes ago.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose He was here not ten minutes ago.
+Can we infer that ""He was here one minute ago.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose He was here not ten minutes ago.
+Can we infer that ""He was not here one minute ago""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose He was here not ten minutes ago.
+Can we infer that ""He was here twenty minutes ago.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose He was here not ten minutes ago.
+Can we infer that ""He was not here twenty minutes ago""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose His speech had caused not a little confusion.
+Can we infer that ""His speech had not caused a little confusion.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose His speech had caused not a little confusion.
+Can we infer that ""His speech had caused a little confusion.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose His speech had caused not a little confusion.
+Can we infer that ""His speech had not caused confusion.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose His speech had caused not a little confusion.
+Can we infer that ""His speech had caused confusion.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose His speech had caused not a little confusion.
+Can we infer that ""His speech had caused a not little confusion.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose His speech had caused not a little confusion.
+Can we infer that ""His speech had caused much confusion.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose His speech had caused not a little confusion.
+Can we infer that ""His speech had not caused much confusion.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose A mistake would be costly and not a little embarrassing.
+Can we infer that ""A mistake would not be costly and a little embarassing""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose A mistake would be costly and not a little embarrassing.
+Can we infer that ""A mistake would be costly and very embarassing""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose A mistake would be costly and not a little embarrassing.
+Can we infer that ""A mistake would not be costly and very embarassing""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose A mistake would be costly and not a little embarrassing.
+Can we infer that ""A mistake would not be costly and not a little embarassing""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not even Ed approved of the plan
+Can we infer that ""Even Ed did not approve of the plan.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not even Ed approved of the plan
+Can we infer that ""Even Ed approved of the plan.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not even Ed approved of the plan
+Can we infer that ""Not only Ed approved of the plan.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not even Ed approved of the plan
+Can we infer that ""Only Ed approved of the plan.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not even Ed approved of the plan
+Can we infer that ""Only Ed did not approve of the plan.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not even Ed approved of the plan
+Can we infer that ""Not even Ed or Sally approve of the plan.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not only Ed approved of the plan.
+Can we infer that ""Ed was not the only one who approved of the plan.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not only Ed approved of the plan.
+Can we infer that ""Not even Ed approved of the plan.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not only Ed approved of the plan.
+Can we infer that ""Ed approved of the plan.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not only Ed approved of the plan.
+Can we infer that ""Ed not only approved of the plan.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not only Ed approved of the plan.
+Can we infer that ""Only Ed approved of the plan.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not only Ed approved of the plan.
+Can we infer that ""Ed and some others approved of the plan.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not even then did he lose patience.
+Can we infer that ""Even then, he did not lose patience.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not even then did he lose patience.
+Can we infer that ""He did not lose patience even then.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not even then did he lose patience.
+Can we infer that ""Not only then did he lose patience.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not even then did he lose patience.
+Can we infer that ""Only then did he lose patience.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not only was the acting appalling, the movie was far too long.
+Can we infer that ""The movie was far too long and the acting was appalling.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not only was the acting appalling, the movie was far too long.
+Can we infer that ""The movie was not only far too long but the acting was also appalling.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not only was the acting appalling, the movie was far too long.
+Can we infer that ""The movie was far too long but the acting was not appalling.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not only was the acting appalling, the movie was far too long.
+Can we infer that ""The movie was not far too long but the acting was appalling.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not only was the acting appalling, the movie was far too long.
+Can we infer that ""The movie was not far too long and the acting was not appalling.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not only was the acting appalling, the movie was far too long.
+Can we infer that ""The movie was too long and not even the acting was not appalling.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not only was the acting appalling, the movie was far too long.
+Can we infer that ""The movie was not too long and not even the acting was appalling.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose We had a not very amicable discussion.
+Can we infer that ""We did not have a very amicable discussion.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose We had a not very amicable discussion.
+Can we infer that ""We did not have a discussion.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose We had a not very amicable discussion.
+Can we infer that ""We had a very amicable discussion.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose We had a not very amicable discussion.
+Can we infer that ""We had a very not amicable discussion.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose It somehow sounded not quite right.
+Can we infer that ""It somehow did not sound quite right.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose It somehow sounded not quite right.
+Can we infer that ""It somehow did not sound right.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose It somehow sounded not quite right.
+Can we infer that ""It somehow sounded quite not right.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose It somehow sounded not quite right.
+Can we infer that ""It somehow sounded quite right.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose It was so not funny.
+Can we infer that ""It was not so funny.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose It was so not funny.
+Can we infer that ""It was not funny.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose It was so not funny.
+Can we infer that ""It was so boring.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose I found his story not wholly convincing.
+Can we infer that ""I did not find his story wholly convincing.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose I found his story not wholly convincing.
+Can we infer that ""I found his story wholly not convincing.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose I found his story not wholly convincing.
+Can we infer that ""I found his story wholly convincing.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose I found his story not wholly convincing.
+Can we infer that ""I did not find his story wholly not convincing.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose He spoke not very confidently.
+Can we infer that ""He did not speak very confidently.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose He spoke not very confidently.
+Can we infer that ""He spoke very not confidently.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose He spoke not very confidently.
+Can we infer that ""He spoke very confidently.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose He spoke not very confidently.
+Can we infer that ""He did not speak not very confidently.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose He spoke not very confidently.
+Can we infer that ""He did not speak very not confidently.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not many of them had been damaged.
+Can we infer that ""Many of them had not been damaged.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not many of them had been damaged.
+Can we infer that ""Many of them had been damaged.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not many of them had been damaged.
+Can we infer that ""Some of them had been damaged.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not many of them had been damaged.
+Can we infer that ""Some of them had not been damaged.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose It was a not undistinguished private university with a large endowment.
+Can we infer that ""It was not an undistinguished private university with a large endowment.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose It was a not undistinguished private university with a large endowment.
+Can we infer that ""It was not a distinguished private university with a large endowment.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose It was a not undistinguished private university with a large endowment.
+Can we infer that ""It was a distinguished private university with a large endowment.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose It was a not undistinguished private university with a large endowment.
+Can we infer that ""It was an undistinguished private university with a large endowment.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose She had a not inconsiderable income.
+Can we infer that ""She did not have a considerable income.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose She had a not inconsiderable income.
+Can we infer that ""She had a considerable income.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose She had a not inconsiderable income.
+Can we infer that ""She had a not considerable income.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose She had a not inconsiderable income.
+Can we infer that ""She did not have an inconsiderable income.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose She had a not inconsiderable income.
+Can we infer that ""She had an inconsiderable income.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They had fixed the walls, and purchased some not inelegant furniture.
+Can we infer that ""They had fixed the walls, and did not purchase any inelegant furniture.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose They had fixed the walls, and purchased some not inelegant furniture.
+Can we infer that ""They had fixed the walls, but did not purchase any elegant furniture.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose They had fixed the walls, and purchased some not inelegant furniture.
+Can we infer that ""They had fixed the walls, but purchased some not elegant furniture.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose They had fixed the walls, and purchased some not inelegant furniture.
+Can we infer that ""They had fixed the walls, and purchased some inelegant furniture.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They had fixed the walls, and purchased some not inelegant furniture.
+Can we infer that ""They had fixed the walls, and purchased some elegant furniture.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose That model is not available.
+Can we infer that ""That model is unavailable.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Such mistakes are not common.
+Can we infer that ""Such mistakes are uncommon.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not unexpectedly, Charles was late for the meeting.
+Can we infer that ""Unexpectedly, Charles was not late for the meeting.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not unexpectedly, Charles was late for the meeting.
+Can we infer that ""Unexpectedly, Charles was late for the meeting.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not unexpectedly, Charles was late for the meeting.
+Can we infer that ""Expectedly, Charles was late for the meeting.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not unexpectedly, Charles was late for the meeting.
+Can we infer that ""Expectedly, Charles was not late for the meeting.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not unreasonably, he asked for payment in advance.
+Can we infer that ""Unreasonably, he did not ask for payment in advance.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not unreasonably, he asked for payment in advance.
+Can we infer that ""Unreasonably, he asked for payment in advance.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not unreasonably, he asked for payment in advance.
+Can we infer that ""Reasonably, he asked for payment in advance.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not unreasonably, he asked for payment in advance.
+Can we infer that ""Reasonably, he did not ask for payment in advance.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not surprisingly, they didn't want any part of it.
+Can we infer that ""Surprisingly, they didn't want any part of it.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not surprisingly, they didn't want any part of it.
+Can we infer that ""Surprisingly, they wanted some part of it.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not surprisingly, they didn't want any part of it.
+Can we infer that ""Not unsurprisingly, they didn't want any part of it.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not surprisingly, they didn't want any part of it.
+Can we infer that ""Not surprisingly, they wanted some part of it.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not at any stage of the proceedings did she contemplate giving up.
+Can we infer that ""She did not contemplate giving up at any stage of the proceedings.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not at any stage of the proceedings did she contemplate giving up.
+Can we infer that ""She did not contemplate giving up.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not at any stage of the proceedings did she contemplate giving up.
+Can we infer that ""She contemplated giving up at some stages of the proceedings.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not at any stage of the proceedings did she contemplate giving up.
+Can we infer that ""At no stage of the proceedings did she contemplate giving up.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not at any stage of the proceedings did she contemplate giving up.
+Can we infer that ""She did not contemplate giving up at some stages of the proceedings.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not for the first time, she felt utterly betrayed.
+Can we infer that ""She did not feel utterly betrayed for the first time.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not for the first time, she felt utterly betrayed.
+Can we infer that ""She did not feel utterly betrayed for the second time.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not for the first time, she felt utterly betrayed.
+Can we infer that ""She did not feel utterly betrayed for the twentieth time.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not for the first time, she felt utterly betrayed.
+Can we infer that ""She had not felt utterly betrayed before.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not for the first time, she felt utterly betrayed.
+Can we infer that ""She had felt utterly betrayed before.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not for the first time, she felt utterly betrayed.
+Can we infer that ""She did not feel utterly betrayed.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not for the first time, she felt utterly betrayed.
+Can we infer that ""She felt utterly betrayed for the first time.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not for the first time, she felt utterly betrayed.
+Can we infer that ""She felt utterly betrayed for the second time.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not for the first time, she felt utterly betrayed.
+Can we infer that ""She felt utterly betrayed for the twentieth time.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose Not for the first time, she felt utterly betrayed.
+Can we infer that ""It was not the first time that she felt utterly betrayed.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not an accomplished dancer, he moved rather clumsily.
+Can we infer that ""Though not an accomplished dancer, he did not move clumsily.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not an accomplished dancer, he moved rather clumsily.
+Can we infer that ""Being an accomplished dancer, he did not move clumsily.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not an accomplished dancer, he moved rather clumsily.
+Can we infer that ""Though being an accomplished dancer, he moved rather clumsily.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not an accomplished dancer, he moved rather clumsily.
+Can we infer that ""He moved rather clumsily because he was not an accomplished dancer.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not under any illusions about the matter, he continued to be cautious.
+Can we infer that ""Under some illusions about the matter, he did not continue to be cautious.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not under any illusions about the matter, he continued to be cautious.
+Can we infer that ""Under some illusions about the matter, he continued to be cautious.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not under any illusions about the matter, he continued to be cautious.
+Can we infer that ""Though not under any illusions about the matter, he did not continue to be cautious.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Not under any illusions about the matter, he continued to be cautious.
+Can we infer that ""He continued to be cautious because he was not under any illusions about the matter.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not under any illusions about the matter, he continued to be cautious.
+Can we infer that ""He continued to be cautious.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Not under any illusions about the matter, he continued to be cautious.
+Can we infer that ""He didn't continue to be cautious.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose We need someone not afraid of taking risks.
+Can we infer that ""We do not need someone afraid of taking risks.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose We need someone not afraid of taking risks.
+Can we infer that ""We do not need someone not afraid of taking risks.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose We need someone not afraid of taking risks.
+Can we infer that ""We need someone afraid of taking risks.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose There are spare blankets in here, not that you'll have any need of them.
+Can we infer that ""There are no spare blankets in here, not that you'll have any need of them.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose There are spare blankets in here, not that you'll have any need of them.
+Can we infer that ""There are no spare blankets in here, you'll need them.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose There are spare blankets in here, not that you'll have any need of them.
+Can we infer that ""There are spare blankets in here, you will not have any need of them.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose There are spare blankets in here, not that you'll have any need of them.
+Can we infer that ""There are spare blankets in here, you'll need them.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They are now leaving not on Friday, but on Saturday.
+Can we infer that ""They are now leaving on Friday, not on Saturday.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They are now leaving not on Friday, but on Saturday.
+Can we infer that ""They are now leaving on Saturday instead of Friday.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose They are now leaving not on Friday, but on Saturday.
+Can we infer that ""They are now leaving not on Saturday, but on Friday.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They are now leaving not on Friday, but on Saturday.
+Can we infer that ""They are now leaving on Saturday.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose They are now leaving not on Friday, but on Saturday.
+Can we infer that ""They are now not leaving on Saturday.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They are now leaving not on Friday, but on Saturday.
+Can we infer that ""They are now leaving on Friday.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They are now leaving on Saturday, not on Friday.
+Can we infer that ""They are now leaving not on Saturday, but on Friday.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They are now leaving on Saturday, not on Friday.
+Can we infer that ""They are now leaving on Saturday instead of Friday.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose They are now leaving on Saturday, not on Friday.
+Can we infer that ""They are now leaving not on Friday, but on Saturday.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose They are now leaving on Saturday, not on Friday.
+Can we infer that ""They are now leaving on Saturday.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose They are now leaving on Saturday, not on Friday.
+Can we infer that ""They are now not leaving on Saturday.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They are now leaving on Saturday, not on Friday.
+Can we infer that ""They are now not leaving on Friday.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose They've invited you and your brother, but not me.
+Can we infer that ""They've invited you and your brother, and me.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They've invited you and your brother, but not me.
+Can we infer that ""They've invited not you and your brother, but me.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They've invited you and your brother, but not me.
+Can we infer that ""They've invited not you and your brother, nor me.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They've invited you and your brother, but not me.
+Can we infer that ""They've invited me.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They've invited you and your brother, but not me.
+Can we infer that ""They've invited you.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose They've invited you and your brother, but not me.
+Can we infer that ""They've invited your brother.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose They've invited you and your brother, but not me.
+Can we infer that ""They have not invited me.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose They've invited you and your brother, but not me.
+Can we infer that ""They have not invited your brother.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They've invited you and your brother, but not me.
+Can we infer that ""They have not invited you.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose They've invited you and your brother, but not me.
+Can we infer that ""They've invited you and me, but not your brother.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.
+Can we infer that ""The night turned cold under a sky with stars that twinkled, not shone, in the diamond-clear air.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.
+Can we infer that ""The night turned cold under a sky with stars that did not twinkle, but shone, in the diamond-clear air.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.
+Can we infer that ""The night turned cold under a sky with stars that did not shine, but twinkled, in the diamond-clear air.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.
+Can we infer that ""The night turned cold under a sky with stars that shone and twinkled in the diamond-clear air.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose She rarely goes out these days.
+Can we infer that ""She doesn't go out often these days.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose She rarely goes out these days.
+Can we infer that ""She never goes out these days.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose She rarely goes out these days.
+Can we infer that ""She doesn't go out these days.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose She rarely goes out these days.
+Can we infer that ""She goes out these days, but not often.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose This phone hardly lags.
+Can we infer that ""This phone never lags.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose This phone hardly lags.
+Can we infer that ""This phone does not lag.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose This phone hardly lags.
+Can we infer that ""This phone does not lag often.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose This phone hardly lags.
+Can we infer that ""This phone lags, but not often.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Little of the liquid spilled.
+Can we infer that ""Not much of the liquid spilled.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose Little of the liquid spilled.
+Can we infer that ""None of the liquid spilled.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Little of the liquid spilled.
+Can we infer that ""Lots of the liquid spilled.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose Little of the liquid spilled.
+Can we infer that ""The liquid spilled, but not much.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose One seldom sees such birds.
+Can we infer that ""One doesn't often see such birds.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose One seldom sees such birds.
+Can we infer that ""One doesn't see such birds.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose One seldom sees such birds.
+Can we infer that ""One sees such birds, but not often.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose One seldom sees such birds.
+Can we infer that ""One never sees such birds.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose None of them supported her.
+Can we infer that ""Few of them supported her.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose None of them supported her.
+Can we infer that ""Not one of them supported her.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose None of them supported her.
+Can we infer that ""One of them supported her.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose None of them supported her.
+Can we infer that ""One of them did not support her.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose None of them supported her.
+Can we infer that ""Two of them supported her.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose None of them supported her.
+Can we infer that ""Two of them did not support her.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose None of them supported her.
+Can we infer that ""Twenty of them supported her.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose None of them supported her.
+Can we infer that ""Twenty of them did not support her.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose You can not answer their letters: you're not legally required to respond.
+Can we infer that ""You can answer their letters.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose You can not answer their letters.
+Can we infer that ""You don't have to answer their letters.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose They must not read it.
+Can we infer that ""It is required that they not read it.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose They must not read it.
+Can we infer that ""They need not read it.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",2
+"The question requires reasoning about negation. 
+Suppose They must not read it.
+Can we infer that ""They should not read it.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose We were friends at no time.
+Can we infer that ""We were friends in no time.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose We were friends at no time.
+Can we infer that ""We were not friends.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0
+"The question requires reasoning about negation. 
+Suppose I can't stop reading this book.
+Can we infer that ""I am not reading this book.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",1
+"The question requires reasoning about negation. 
+Suppose I can't stop reading this book.
+Can we infer that ""I am reading this book.""?
+OPTIONS
+- Yes
+- No
+- Maybe
+Answer:","[' Yes',' No',' Maybe']",0

@@ -1,0 +1,13 @@
+{
+  "dataset": null,
+  "dataset_path": "mkrnq_pos_discourse_prompt.csv",
+  "exp_dir": "mkr_test/pos_discourse_prompt/gpt3",
+  "models": [
+    "text-davinci-003"
+  ],
+  "use_gpu": true,
+  "contrastive_search": true,
+  "batch_size": 100,
+  "task_type": "hitrate",
+  "logging_level": "info"
+}

@@ -1,0 +1,4 @@
+2023-01-12 16:57:25,322 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='mnli_flan_neg_prompts.csv', exp_dir='mnli/flan_neg_prompts/gpt3/acc', models=['ada'], use_gpu=False, contrastive_search=False, batch_size=100, task_type='classification_acc', logging_level='info')
+2023-01-12 16:57:25,322 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/mnli/flan_neg_prompts/gpt3/acc
+2023-01-12 16:57:25,325 [INFO] Copied data

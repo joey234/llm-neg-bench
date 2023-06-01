@@ -1,0 +1,4 @@
+2023-02-06 11:49:40,054 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='sar_test_normal_prompt.csv', exp_dir='sar/gpt3-001/acc', models=['text-davinci-001'], use_gpu=False, contrastive_search=False, batch_size=100, task_type='classification_acc', logging_level='info')
+2023-02-06 11:49:40,054 [INFO] Saving to results to /home/hungthinht/inverse-scaling-eval-pipeline/results/sar/gpt3-001/acc
+2023-02-06 11:49:40,055 [INFO] Copied data

@@ -1,0 +1,4 @@
+2022-12-07 23:47:25,968 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='mkrnq_prompt.csv', exp_dir='mkr_test/gpt2/greedy', models=['gpt2', 'gpt2-medium', 'gpt2-large', 'gpt2-xl'], use_gpu=True, contrastive_search=False, batch_size=1, task_type='hitrate', logging_level='info')
+2022-12-07 23:47:25,968 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/mkr_test/gpt2/greedy
+2022-12-07 23:47:25,969 [INFO] Copied data

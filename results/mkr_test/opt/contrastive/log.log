@@ -1,0 +1,8 @@
+2022-12-08 10:54:34,184 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='mkrnq_prompt.csv', exp_dir='mkr_test/opt/contrastive', models=['opt-125m', 'opt-350m', 'opt-1.3b', 'opt-2.7b'], use_gpu=True, contrastive_search=True, batch_size=1, task_type='hitrate', logging_level='info')
+2022-12-08 10:54:34,184 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/mkr_test/opt/contrastive
+2022-12-08 10:54:34,185 [INFO] Copied data
+2023-01-06 11:30:47,195 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='mkrnq_prompt.csv', exp_dir='mkr_test/opt/contrastive', models=['opt-6.7b'], use_gpu=True, contrastive_search=True, batch_size=1, task_type='hitrate', logging_level='info')
+2023-01-06 11:30:47,195 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/mkr_test/opt/contrastive
+2023-01-06 11:30:47,200 [INFO] Copied data

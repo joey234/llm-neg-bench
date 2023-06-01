@@ -1,0 +1,13 @@
+{
+  "dataset": null,
+  "dataset_path": "negnli_gpt3_prompts.csv",
+  "exp_dir": "negnli/gpt3_prompts/opt/acc",
+  "models": [
+    "opt-6.7b",
+    "opt-13b"
+  ],
+  "use_gpu": true,
+  "batch_size": 1,
+  "task_type": "classification_acc",
+  "logging_level": "info"
+}

@@ -10,7 +10,7 @@ from typing import Optional, cast
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-
+import matplotlib
 from eval_pipeline.dataset import TaskType
 
 np.random.seed(42)
@@ -28,7 +28,9 @@ size_dict = {
     "text-ada-001": 350_000_000,
     "text-babbage-001": 1_300_000_000,
     "text-curie-001": 6_700_000_000,
+    "text-davinci-003": 175_000_000_000,
     "text-davinci-001": 175_000_000_000,
+
     # gpt neo sizes from their names
     "gpt-neo-125M": 125_000_000,
     "gpt-neo-1.3B": 1_300_000_000,
@@ -41,8 +43,25 @@ size_dict = {
     "opt-2.7b": 2_700_000_000,
     "opt-6.7b": 6_700_000_000,
     "opt-13b": 13_000_000_000,
+    #T0
+    "T0_3B": 3_000_000_000,
+    "T0": 11_000_000_000,
+    "T0pp":11_000_000_000,
+    #FLAN-T5
+    "flan-t5-small": 80_000_000,
+    "flan-t5-base": 250_000_000,
+    "flan-t5-large": 780_000_000,
+    "flan-t5-xl": 3_000_000_000,
+    "flan-t5-xxl": 11_000_000_000,
+    "t5-small": 80_000_000,
+    "t5-base": 250_000_000,
+    "t5-large": 780_000_000,
+    "t5-3b": 3_000_000_000,
+    "t5-11b": 11_000_000_000
+
 }
 
+matplotlib.rcParams.update({'font.size': 30})
 
 def main():
     args = parse_args(sys.argv[1:])
@@ -64,8 +83,49 @@ def main():
         plot_numeric_loss(exp_dir)
     elif args.task_type in ["logodds", "absolute_logodds"]:
         plot_logodds_loss(exp_dir, args.task_type, args.dataset_sizes)
+    elif args.task_type == "hitrate":
+        plot_whr(exp_dir)
     else:
         raise ValueError(f"unknown task type {args.task_type}")
+
+
+def plot_whr(exp_dir: Path):
+    print(exp_dir)
+    whr_csvs = [f for f in exp_dir.glob("*.csv") if f.name != "data.csv"]
+    print(whr_csvs)
+    if Path(exp_dir, "data.csv").exists():
+        data_df = pd.read_csv(Path(exp_dir, "data.csv"), index_col=0).reset_index(
+            drop=True
+        )    
+    dfs = {csv_file.stem: pd.read_csv(csv_file, index_col=0) for csv_file in whr_csvs}
+    print(dfs)
+    separate_plot_dict = {}
+    # separate_average_coverages = {}
+    
+    size_dfs = {name: cast(pd.DataFrame, df) for name, df in dfs.items()}
+    
+    avg_whr1 = {model_name: np.mean(df['WHR@1']) for model_name, df in size_dfs.items()}
+    print(avg_whr1)
+    avg_whr3 = {
+        model_name: np.mean(df['WHR@3']) for model_name, df in size_dfs.items() 
+    }
+
+    avg_whr5 = {
+        model_name: np.mean(df['WHR@5']) for model_name, df in size_dfs.items() 
+    }
+    
+    separate_plot_dict[0] = (avg_whr1, None, "WHR@1")
+    separate_plot_dict[1] = (avg_whr3, None, "WHR@3")
+    separate_plot_dict[2] = (avg_whr5, None, "WHR@5")
+
+    plot_loss(
+        exp_dir,
+        baseline = None,
+        separate_plots_dict = separate_plot_dict, 
+        task_type = "hitrate",
+        invert = False,
+        show=False,
+    )
 
 
 def plot_logodds_loss(exp_dir: Path, task_type: TaskType, dataset_sizes: list[int]):
@@ -201,6 +261,9 @@ def plot_classification_loss(
     if task_type == "sequence_prob":
         separate_average_coverages = None
 
+    # print(separate_plot_dict)
+    # print(separate_average_coverages)
+
     plot_loss(
         exp_dir,
         separate_plot_dict,
@@ -210,6 +273,154 @@ def plot_classification_loss(
         separate_average_coverages,
         show,
     )
+
+
+def get_classification_loss(
+    exp_dir: Path,
+    dataset_sizes: list[int],
+    task_type: TaskType,
+    invert: bool,
+    show: bool,
+):
+    loss_csvs = [f for f in exp_dir.glob("*.csv") if f.name != "data.csv"]
+    if Path(exp_dir, "data.csv").exists():
+        data_df = pd.read_csv(Path(exp_dir, "data.csv"), index_col=0).reset_index(
+            drop=True
+        )
+    elif Path(exp_dir, "data.jsonl").exists():
+        data_df = pd.read_json(Path(exp_dir, "data.jsonl"), lines=True).reset_index(
+            drop=True
+        )
+    else:
+        raise ValueError("Need data.csv or data.jsonl")
+    dfs = {csv_file.stem: pd.read_csv(csv_file, index_col=0) for csv_file in loss_csvs}
+
+    if task_type == "classification_acc":
+        n_classes_per_example = np.array([len(literal_eval(str(x))) for x in data_df["classes"]])
+        # the baseline puts equal probability on each class, so we are considering a uniform distribution
+        baseline = (1 / n_classes_per_example).mean()
+        output_name = "correct"
+        if invert:
+            for df in dfs.values():
+                df.loc[:, output_name] = df[output_name].apply(
+                    lambda correct: np.abs(correct - 1)
+                )
+
+    # NOTE: the default plot type is now loss because that's what we ask for in the submission
+    elif task_type == "classification_loss" or task_type == "classification":
+        n_classes_per_example = np.array([len(literal_eval(str(x))) for x in data_df["classes"]])
+        # the baseline puts equal probability on each class, so we are considering a uniform distribution
+        baseline = (-np.log(1 / n_classes_per_example)).mean()
+        output_name = "loss"
+        if invert:
+            for df in dfs.values():
+                df.loc[:, output_name] = df[output_name].apply(
+                    lambda loss: -np.log(1 - np.exp(-loss))
+                )
+
+    else:
+        baseline = None
+        output_name = "loss"
+        if invert:
+            for df in dfs.values():
+                df.loc[:, output_name] = df[output_name].apply(
+                    lambda loss: -np.log(1 - np.exp(-loss))
+                )
+
+    if len(loss_csvs) == 0:
+        raise ValueError(f"{exp_dir} does not exist or contains no output files")
+
+    # one dict containing all different plots to be made, with their labels as keys
+    separate_plot_dict = {}
+    separate_average_coverages = {}
+    for index, size in enumerate(dataset_sizes):
+        if size != -1:
+            size_dfs = {
+                name: cast(pd.DataFrame, df.sample(n=size)) for name, df in dfs.items()
+            }
+        else:
+            size_dfs = {name: cast(pd.DataFrame, df) for name, df in dfs.items()}
+        averages = {
+            model_name: np.mean(df[output_name]) for model_name, df in size_dfs.items()
+        }
+        standard_errors = {
+            model_name: np.std(df[output_name]) / np.sqrt(len(df[output_name]))
+            for model_name, df in size_dfs.items()
+        }
+        if task_type != "sequence_prob":
+            # the average amount of probability covered by the class tokens
+            average_coverages = {
+                model_name: np.mean(np.exp(df["total_logprob"]))
+                for model_name, df in size_dfs.items()
+            }
+        else:
+            average_coverages = None
+
+        size_name = str(size) if size != -1 else len(list(dfs.values())[0])
+        separate_plot_dict[index] = (averages, standard_errors, size_name)
+        separate_average_coverages[index] = (average_coverages, size_name)
+    if task_type == "sequence_prob":
+        separate_average_coverages = None
+
+    return separate_plot_dict, separate_average_coverages
+
+def plot_classification_loss_negnli(
+    exp_dir: Path,
+    dataset_sizes: list[int],
+    task_type: TaskType,
+    invert: bool,
+    show: bool,
+):
+    exp_dir_snli = exp_dir
+    exp_dir_rte = exp_dir.replace('snli','rte')
+    exp_dir_mnli = exp_dir.replace('snli','rte')
+
+    snli_plot, snli_coverages = get_classification_loss(exp_dir_snli,dataset_sizes, task_type, invert, show)
+    rte_plot, rte_coverages = get_classification_loss(exp_dir_rte,dataset_sizes, task_type, invert, show)
+    mnli_plot, mnli_ceverages = get_classification_loss(exp_dir_mnli,dataset_sizes, task_type, invert, show)
+
+    # dataset_sizes = dataset_sizes*3
+    separate_plot_dict = {}
+    separate_average_coverages = {}
+    for index, size in enumerate(dataset_sizes):
+        if size != -1:
+            size_dfs = {
+                name: cast(pd.DataFrame, df.sample(n=size)) for name, df in dfs.items()
+            }
+        else:
+            size_dfs = {name: cast(pd.DataFrame, df) for name, df in dfs.items()}
+        averages = {
+            model_name: np.mean(df[output_name]) for model_name, df in size_dfs.items()
+        }
+        standard_errors = {
+            model_name: np.std(df[output_name]) / np.sqrt(len(df[output_name]))
+            for model_name, df in size_dfs.items()
+        }
+        if task_type != "sequence_prob":
+            # the average amount of probability covered by the class tokens
+            average_coverages = {
+                model_name: np.mean(np.exp(df["total_logprob"]))
+                for model_name, df in size_dfs.items()
+            }
+        else:
+            average_coverages = None
+
+        size_name = str(size) if size != -1 else len(list(dfs.values())[0])
+        separate_plot_dict[index] = (averages, standard_errors, size_name)
+        separate_average_coverages[index] = (average_coverages, size_name)
+    if task_type == "sequence_prob":
+        separate_average_coverages = None
+
+    plot_loss(
+        exp_dir,
+        separate_plot_dict,
+        baseline,
+        task_type,
+        invert,
+        separate_average_coverages,
+        show,
+    )
+
 
 
 def plot_numeric_loss(exp_dir: Path):
@@ -233,9 +444,12 @@ def plot_loss(
     average_coverages: Optional[dict[int, dict]] = None,
     show: bool = True,
 ) -> None:
+    print(exp_dir)
+    # task_name = exp_dir.split('/')
     plt.style.use("ggplot")
+    matplotlib.rcParams.update({'font.size': 20})
 
-    fig = plt.figure(figsize=(6, 4))
+    fig = plt.figure(figsize=(10, 8))
 
     if baseline is not None:
         plt.axhline(
@@ -244,7 +458,7 @@ def plot_loss(
             color="k",
             label="Baseline (equal probability)",
         )
-
+    print(separate_plots_dict)
     for index, (loss_dict, standard_errors, label) in separate_plots_dict.items():
         if standard_errors is not None and task_type != "classification_acc":
             errorbar_data = [
@@ -254,9 +468,16 @@ def plot_loss(
             xs, ys, yerrs = zip(*sorted(errorbar_data, key=lambda pair: pair[0]))
             plt.errorbar(xs, ys, yerrs, label=f"{label} examples (with SEM)")
         else:
+            # print(loss_dict)
             xy_pairs = [(size_dict[size], loss) for size, loss in loss_dict.items()]
+            # print(xy_pairs)
             xs, ys = zip(*sorted(xy_pairs, key=lambda pair: pair[0]))
-            plt.plot(xs, ys, label=f"{label} examples")
+            # plt.plot(xs, ys, label=f"{label}")
+            if task_type == 'hitrate':
+                plt.plot(xs, ys, label=f"{label}", marker='o', markersize=12, linewidth=2)
+            else:
+                plt.plot(xs, ys, marker='o', markersize=12, linewidth=2)
+            print(label)
 
     labels, ticks = zip(
         *[
@@ -267,9 +488,9 @@ def plot_loss(
     )
 
     plt.xscale("log")
-    plt.xlabel("Model size")
-    # plt.xticks(ticks, labels, rotation=45)
-    plt.xticks(ticks, labels)
+    # plt.xlabel("Model size")
+    plt.xticks(ticks, labels, rotation=25)
+    # plt.xticks(ticks, labels)
 
     if task_type == "classification_loss" or task_type == "classification" or task_type == "sequence_prob":
         plt.yscale("log")
@@ -289,7 +510,9 @@ def plot_loss(
     elif task_type == "absolute_logodds":
         plt.ylabel("Absolute logodds difference")
         title = "Log plot of absolute logodds differences vs model size"
-
+    elif task_type == "hitrate":
+        plt.ylabel("Weighted hit rate")
+        title = "Log plot of weighted hit rate vs model size"
     else:
         raise ValueError(f"Unknown task type {task_type}")
     if invert:
@@ -301,12 +524,20 @@ def plot_loss(
         for model, coverage in coverages[0].items():
             print(f"For the model '{model}', the class labels got {coverage * 100:0.2f}% of the probability mass")
 
-    plt.title(title)
+    # plt.title(title)
     plt.legend()
     plt.tight_layout()
     plt.savefig(Path(exp_dir, "loss_plot.svg"), format="svg")
+    plt.savefig(Path(exp_dir, "loss_plot.png"), format="png")
     if show:
         plt.show()
+
+
+
+def plot_combine(subfigs):
+    fig, axes = plt.subplots(3, 3, figsize=(15, 6))
+    plt.subplots_adjust(wspace=0.75, hspace=0.35)
+
 
 
 def parse_args(args) -> argparse.Namespace:
@@ -333,6 +564,7 @@ def parse_args(args) -> argparse.Namespace:
             "sequence_prob",
             "logodds",
             "absolute_logodds",
+            "hitrate"
         ],
         help="The type of task to plot",
     )

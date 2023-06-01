@@ -1,0 +1,4 @@
+2022-11-17 16:07:01,318 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='nan_nli_gpt3_prompts.csv', exp_dir='nan/gpt3_prompts/flant5/contrastive/acc', models=['flan-t5-small', 'flan-t5-base', 'flan-t5-large', 'flan-t5-xl', 'flan-t5-xxl'], use_gpu=True, batch_size=1, task_type='classification_acc', logging_level='info')
+2022-11-17 16:07:01,319 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/nan/gpt3_prompts/flant5/contrastive/acc
+2022-11-17 16:07:01,319 [INFO] Copied data

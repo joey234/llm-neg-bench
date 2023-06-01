@@ -1,0 +1,16 @@
+{
+  "dataset": null,
+  "dataset_path": "mkrnq_prompt.csv",
+  "exp_dir": "mkr_test/gpt3",
+  "models": [
+    "text-ada-001",
+    "text-babbage-001",
+    "text-curie-001",
+    "text-davinci-003"
+  ],
+  "use_gpu": true,
+  "contrastive_search": true,
+  "batch_size": 100,
+  "task_type": "hitrate",
+  "logging_level": "info"
+}

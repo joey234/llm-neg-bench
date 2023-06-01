@@ -1,0 +1,15 @@
+{
+  "dataset": null,
+  "dataset_path": "nan_nli_prompt.csv",
+  "exp_dir": "nan/eleutheur/contrastive/loss",
+  "models": [
+    "gpt-neo-125M",
+    "gpt-neo-1.3B",
+    "gpt-neo-2.7B",
+    "gpt-j-6B"
+  ],
+  "use_gpu": true,
+  "batch_size": 1,
+  "task_type": "classification",
+  "logging_level": "info"
+}

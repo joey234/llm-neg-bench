@@ -1,0 +1,13 @@
+{
+  "dataset": null,
+  "dataset_path": "sar_test_8shots.csv",
+  "exp_dir": "sar/8shots/flant5/acc",
+  "models": [
+    "flan-t5-xxl"
+  ],
+  "use_gpu": true,
+  "contrastive_search": false,
+  "batch_size": 1,
+  "task_type": "classification_acc",
+  "logging_level": "info"
+}

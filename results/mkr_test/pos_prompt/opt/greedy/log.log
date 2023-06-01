@@ -1,0 +1,4 @@
+2022-12-08 12:26:12,240 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='mkrnq_pos_prompt.csv', exp_dir='mkr_test/pos_prompt/opt/greedy', models=['opt-125m', 'opt-350m', 'opt-1.3b', 'opt-2.7b'], use_gpu=True, contrastive_search=True, batch_size=1, task_type='hitrate', logging_level='info')
+2022-12-08 12:26:12,241 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/mkr_test/pos_prompt/opt/greedy
+2022-12-08 12:26:12,244 [INFO] Copied data

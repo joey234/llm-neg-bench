@@ -1,0 +1,15 @@
+{
+  "dataset": null,
+  "dataset_path": "monli_test.csv",
+  "exp_dir": "monli/gpt3_prompts/gpt2/loss",
+  "models": [
+    "gpt2",
+    "gpt2-medium",
+    "gpt2-large",
+    "gpt2-xl"
+  ],
+  "use_gpu": true,
+  "batch_size": 1,
+  "task_type": "classification",
+  "logging_level": "info"
+}

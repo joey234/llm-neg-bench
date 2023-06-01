@@ -1,0 +1,4 @@
+2022-11-29 13:40:59,238 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='nan_neg_prompts.csv', exp_dir='nan/neg_prompts/flant5/acc', models=['flan-t5-small', 'flan-t5-base', 'flan-t5-large', 'flan-t5-xl', 'flan-t5-xxl'], use_gpu=True, batch_size=1, task_type='classification_acc', logging_level='info')
+2022-11-29 13:40:59,238 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/nan/neg_prompts/flant5/acc
+2022-11-29 13:40:59,240 [INFO] Copied data

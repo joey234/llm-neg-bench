@@ -1,0 +1,16 @@
+{
+  "dataset": null,
+  "dataset_path": "mkrnq_pos_prompt.csv",
+  "exp_dir": "mkr_test/pos_prompt/eleutheur/contrastive",
+  "models": [
+    "gpt-neo-125M",
+    "gpt-neo-1.3B",
+    "gpt-neo-2.7B",
+    "gpt-j-6B"
+  ],
+  "use_gpu": true,
+  "contrastive_search": true,
+  "batch_size": 1,
+  "task_type": "hitrate",
+  "logging_level": "info"
+}

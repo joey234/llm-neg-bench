@@ -1,0 +1,13 @@
+{
+  "dataset": null,
+  "dataset_path": "replace_mkrnq_prompt.csv",
+  "exp_dir": "mkr_test/replace_prompts/flant5/contrastive",
+  "models": [
+    "flan-t5-base",
+    "flan-t5-xxl"
+  ],
+  "use_gpu": true,
+  "batch_size": 1,
+  "task_type": "hitrate",
+  "logging_level": "info"
+}

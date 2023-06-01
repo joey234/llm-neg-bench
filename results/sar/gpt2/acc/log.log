@@ -1,0 +1,4 @@
+2022-11-15 17:30:07,110 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='sar_test_prompt.csv', exp_dir='sar/gpt2/acc', models=['gpt2', 'gpt2-medium', 'gpt2-large', 'gpt2-xl'], use_gpu=True, batch_size=1, task_type='classification_acc', logging_level='info')
+2022-11-15 17:30:07,110 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/sar/gpt2/acc
+2022-11-15 17:30:07,112 [INFO] Copied data

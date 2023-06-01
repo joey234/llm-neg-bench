@@ -1,0 +1,4 @@
+2022-11-24 14:18:10,808 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='negnli_gpt3_prompts.csv', exp_dir='negnli/gpt3_prompts/gpt2/acc', models=['gpt2', 'gpt2-medium', 'gpt2-large', 'gpt2-xl'], use_gpu=True, batch_size=1, task_type='classification_acc', logging_level='info')
+2022-11-24 14:18:10,808 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/negnli/gpt3_prompts/gpt2/acc
+2022-11-24 14:18:10,812 [INFO] Copied data

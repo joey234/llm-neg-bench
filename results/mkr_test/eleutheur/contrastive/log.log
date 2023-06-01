@@ -1,0 +1,8 @@
+2022-11-14 15:15:51,477 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='mkrnq_prompt.csv', exp_dir='mkr_test/eleutheur/contrastive', models=['gpt-neo-125M', 'gpt-neo-1.3B', 'gpt-neo-2.7B'], use_gpu=True, batch_size=1, task_type='hitrate', logging_level='info')
+2022-11-14 15:15:51,477 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/mkr_test/eleutheur/contrastive
+2022-11-14 15:15:51,478 [INFO] Copied data
+2022-11-15 11:41:53,647 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='mkrnq_prompt.csv', exp_dir='mkr_test/eleutheur/contrastive', models=['gpt-j-6B'], use_gpu=True, batch_size=1, task_type='hitrate', logging_level='info')
+2022-11-15 11:41:53,650 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/mkr_test/eleutheur/contrastive
+2022-11-15 11:41:53,670 [INFO] Copied data

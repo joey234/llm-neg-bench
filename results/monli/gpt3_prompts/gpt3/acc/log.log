@@ -1,0 +1,5 @@
+2023-01-19 12:01:25,672 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='monli_gpt3_prompts.csv', exp_dir='monli/gpt3_prompts/gpt3/acc', models=['text-ada-001', 'text-babbage-001', 'text-curie-001', 'text-davinci-003'], use_gpu=False, contrastive_search=False, batch_size=100, task_type='classification_acc', logging_level='info')
+2023-01-19 12:01:25,673 [INFO] Saving to results to /home/hungthinht/inverse-scaling-eval-pipeline/results/monli/gpt3_prompts/gpt3/acc
+2023-01-19 12:01:25,673 [INFO] Copied data
+2023-01-19 12:02:11,238 [INFO] Retrying after error 503: {'message': 'That model is currently overloaded with other requests. You can retry your request, or contact us through our help center at help.openai.com if the error persists. (Please include the request ID a56fd918855a8f8c2b5ea22e1085ba83 in your message.)', 'type': 'server_error', 'param': None, 'code': None}

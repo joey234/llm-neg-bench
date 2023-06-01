@@ -1,0 +1,16 @@
+{
+  "dataset": null,
+  "dataset_path": "negnli_neg_prompts.csv",
+  "exp_dir": "negnli/neg_prompts/flant5/acc",
+  "models": [
+    "flan-t5-small",
+    "flan-t5-base",
+    "flan-t5-large",
+    "flan-t5-xl",
+    "flan-t5-xxl"
+  ],
+  "use_gpu": true,
+  "batch_size": 1,
+  "task_type": "classification_acc",
+  "logging_level": "info"
+}

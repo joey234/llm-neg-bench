@@ -1,0 +1,801 @@
+prompt,classes,answer_index
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a mammal
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a mammal
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own an animal
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own an animal
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a pinscher
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a pinscher
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a sheepdog
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a sheepdog
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a greyhound
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a greyhound
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a hound
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a hound
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a husky
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a husky
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a dachshund
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dachshund
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a Chihuahua
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a Chihuahua
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a spaniel
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a spaniel
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a pug
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a pug
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a beagle
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a beagle
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a malamute
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a malamute
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a Maltese
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a Maltese
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a Doberman
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a Doberman
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a bulldog
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a bulldog
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a collie
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a collie
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a poodle
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a poodle
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a Pomeranian
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a Pomeranian
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a retriever
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a retriever
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a schnauzer
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a schnauzer
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a terrier
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a terrier
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a corgi
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a corgi
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a Rottweiler
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a Rottweiler
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a Shetland
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a Shetland
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dog
+Hypothesis: the man does not own a dalmatian
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: the man does not own a dalmatian
+Hypothesis: the man does not own a dog
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed mammal as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed mammal as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed animal as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed animal as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed pug as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed pug as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed husky as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed husky as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed corgi as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed corgi as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed hound as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed hound as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed bulldog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed bulldog as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed terrier as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed terrier as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed poodle as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed poodle as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed dalmatian as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dalmatian as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed Shetland as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed Shetland as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed pinscher as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed pinscher as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed dachshund as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dachshund as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed Doberman as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed Doberman as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed Pomeranian as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed Pomeranian as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed beagle as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed beagle as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed retriever as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed retriever as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed Rottweiler as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed Rottweiler as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed malamute as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed malamute as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed schnauzer as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed schnauzer as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed greyhound as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed greyhound as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed dog as a gift.
+Hypothesis: The girl will not get a stuffed Chihuahua as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The girl will not get a stuffed Chihuahua as a gift.
+Hypothesis: The girl will not get a stuffed dog as a gift.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a house.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a house.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a casino.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a casino.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a chapel.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a chapel.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a restaurant.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a restaurant.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a cabin.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a cabin.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a school.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a school.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a court.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a court.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside an opera.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside an opera.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a monastery.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a monastery.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a pub.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a pub.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a steakhouse.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a steakhouse.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a courthouse.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a courthouse.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a cathedral.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a cathedral.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a club.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a club.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a villa.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a villa.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside an embassy.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside an embassy.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a temple.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a temple.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a hotel.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a hotel.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a bungalow.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a bungalow.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a cafeteria.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a cafeteria.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a dormitory.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a dormitory.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a planetarium.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a planetarium.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a diner.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a diner.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a cafe.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a cafe.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a clinic.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a clinic.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a skyscraper.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a skyscraper.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a hospital.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a hospital.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a manor.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a manor.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a cinema.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a cinema.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a motel.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a motel.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside a library.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a library.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside a building.
+Hypothesis: A person reading a paper is not currently sitting inside an inn.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A person reading a paper is not currently sitting inside an inn.
+Hypothesis: A person reading a paper is not currently sitting inside a building.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A dog did not catch any ball.
+Hypothesis: A dog did not catch any basketball.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A dog did not catch any basketball.
+Hypothesis: A dog did not catch any ball.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A dog did not catch any ball.
+Hypothesis: A dog did not catch any football.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A dog did not catch any football.
+Hypothesis: A dog did not catch any ball.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A dog did not catch any ball.
+Hypothesis: A dog did not catch any handball.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A dog did not catch any handball.
+Hypothesis: A dog did not catch any ball.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A dog did not catch any ball.
+Hypothesis: A dog did not catch any softball.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A dog did not catch any softball.
+Hypothesis: A dog did not catch any ball.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A dog did not catch any ball.
+Hypothesis: A dog did not catch any racquetball.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A dog did not catch any racquetball.
+Hypothesis: A dog did not catch any ball.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A dog did not catch any ball.
+Hypothesis: A dog did not catch any volleyball.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A dog did not catch any volleyball.
+Hypothesis: A dog did not catch any ball.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A dog did not catch any ball.
+Hypothesis: A dog did not catch any baseball.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: A dog did not catch any baseball.
+Hypothesis: A dog did not catch any ball.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The players did not have a ball.
+Hypothesis: The players did not have a baseball.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The players did not have a baseball.
+Hypothesis: The players did not have a ball.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The players did not have a ball.
+Hypothesis: The players did not have a basketball.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The players did not have a basketball.
+Hypothesis: The players did not have a ball.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The players did not have a ball.
+Hypothesis: The players did not have a volleyball.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The players did not have a volleyball.
+Hypothesis: The players did not have a ball.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The players did not have a ball.
+Hypothesis: The players did not have a handball.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The players did not have a handball.
+Hypothesis: The players did not have a ball.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The players did not have a ball.
+Hypothesis: The players did not have a football.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The players did not have a football.
+Hypothesis: The players did not have a ball.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The players did not have a ball.
+Hypothesis: The players did not have a racquetball.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The players did not have a racquetball.
+Hypothesis: The players did not have a ball.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The players did not have a ball.
+Hypothesis: The players did not have a softball.
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The players did not have a softball.
+Hypothesis: The players did not have a ball.
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The man is not steering a car
+Hypothesis: The man is not steering a taxi
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The man is not steering a taxi
+Hypothesis: The man is not steering a car
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The man is not steering a car
+Hypothesis: The man is not steering a SUV
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The man is not steering a SUV
+Hypothesis: The man is not steering a car
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The man is not steering a car
+Hypothesis: The man is not steering a subcompact
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The man is not steering a subcompact
+Hypothesis: The man is not steering a car
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The man is not steering a car
+Hypothesis: The man is not steering a convertible
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The man is not steering a convertible
+Hypothesis: The man is not steering a car
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The man is not steering a car
+Hypothesis: The man is not steering a jeep
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The man is not steering a jeep
+Hypothesis: The man is not steering a car
+Answer:","[' contradiction',' entailment',' neutral']",2
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The man is not steering a car
+Hypothesis: The man is not steering a sedan
+Answer:","[' contradiction',' entailment',' neutral']",1
+"In this task, you're expected to infer the relationship between sentences pairs involving reasoning about negation. The relationships include ""contradiction"", ""entailment"", ""neutral"".
+Premise: The man is not steering a sedan
+Hypothesis: The man is not steering a car
+Answer:","[' contradiction',' entailment',' neutral']",2

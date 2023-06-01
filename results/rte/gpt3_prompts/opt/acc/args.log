@@ -1,0 +1,17 @@
+{
+  "dataset": null,
+  "dataset_path": "rte_gpt3_prompts.csv",
+  "exp_dir": "rte/gpt3_prompts/opt/acc",
+  "models": [
+    "opt-125m",
+    "opt-350m",
+    "opt-1.3b",
+    "opt-2.7b",
+    "opt-6.7b"
+  ],
+  "use_gpu": true,
+  "contrastive_search": false,
+  "batch_size": 1,
+  "task_type": "classification_acc",
+  "logging_level": "info"
+}

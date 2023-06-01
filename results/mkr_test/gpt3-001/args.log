@@ -1,0 +1,13 @@
+{
+  "dataset": null,
+  "dataset_path": "mkrnq_prompt.csv",
+  "exp_dir": "mkr_test/gpt3-001",
+  "models": [
+    "text-davinci-001"
+  ],
+  "use_gpu": true,
+  "contrastive_search": true,
+  "batch_size": 100,
+  "task_type": "hitrate",
+  "logging_level": "info"
+}

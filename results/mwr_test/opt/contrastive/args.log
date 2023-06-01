@@ -1,0 +1,13 @@
+{
+  "dataset": null,
+  "dataset_path": "mwr_prompt.csv",
+  "exp_dir": "mwr_test/opt/contrastive",
+  "models": [
+    "opt-6.7b"
+  ],
+  "use_gpu": true,
+  "contrastive_search": true,
+  "batch_size": 1,
+  "task_type": "hitrate",
+  "logging_level": "info"
+}

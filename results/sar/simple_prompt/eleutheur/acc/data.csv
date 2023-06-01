@@ -1,0 +1,4001 @@
+prompt,classes,answer_index
+"cardiac and noncardiac are similar. True or False?
+Answer:","[' True', ' False']",1
+"forwards and backward are similar. True or False?
+Answer:","[' True', ' False']",1
+"inconsequentiality and consequentiality are similar. True or False?
+Answer:","[' True', ' False']",1
+"second and twoth are similar. True or False?
+Answer:","[' True', ' False']",0
+"enteroceptor and interoceptor are similar. True or False?
+Answer:","[' True', ' False']",0
+"source code and source are similar. True or False?
+Answer:","[' True', ' False']",0
+"heavyweight and colossus are similar. True or False?
+Answer:","[' True', ' False']",0
+"picasso and pablo picasso are similar. True or False?
+Answer:","[' True', ' False']",0
+"ness and cape are similar. True or False?
+Answer:","[' True', ' False']",0
+"carbon tetrahydride and hydrogen carbide are similar. True or False?
+Answer:","[' True', ' False']",0
+"idiomatic and nonidiomatic are similar. True or False?
+Answer:","[' True', ' False']",1
+"longways and lengthways are similar. True or False?
+Answer:","[' True', ' False']",0
+"compartmentalization and decompartmentalization are similar. True or False?
+Answer:","[' True', ' False']",1
+"inconsiderateness and considerateness are similar. True or False?
+Answer:","[' True', ' False']",1
+"sleep deprivation and narcolepsy are similar. True or False?
+Answer:","[' True', ' False']",1
+"just and condign are similar. True or False?
+Answer:","[' True', ' False']",0
+"gaelic and goidelic are similar. True or False?
+Answer:","[' True', ' False']",0
+"keep and let are similar. True or False?
+Answer:","[' True', ' False']",1
+"cathode ray oscilloscope and oscilloscope are similar. True or False?
+Answer:","[' True', ' False']",0
+"lamb and paschal lamb are similar. True or False?
+Answer:","[' True', ' False']",0
+"amorphous and unstructured are similar. True or False?
+Answer:","[' True', ' False']",0
+"plant and animal are similar. True or False?
+Answer:","[' True', ' False']",1
+"warmed and cooled are similar. True or False?
+Answer:","[' True', ' False']",1
+"spuriosity and authenticity are similar. True or False?
+Answer:","[' True', ' False']",1
+"ferraiolo and ferraiolone are similar. True or False?
+Answer:","[' True', ' False']",0
+"break apart and disassemble are similar. True or False?
+Answer:","[' True', ' False']",0
+"fore wing and hind wing are similar. True or False?
+Answer:","[' True', ' False']",1
+"st francis and saint francis are similar. True or False?
+Answer:","[' True', ' False']",0
+"unnecessariness and necessity are similar. True or False?
+Answer:","[' True', ' False']",1
+"smoke and pot are similar. True or False?
+Answer:","[' True', ' False']",0
+"group and solo are similar. True or False?
+Answer:","[' True', ' False']",1
+"denary and tenfold are similar. True or False?
+Answer:","[' True', ' False']",0
+"saltwater and freshwater are similar. True or False?
+Answer:","[' True', ' False']",1
+"heteromolecular and homomolecular are similar. True or False?
+Answer:","[' True', ' False']",1
+"procrastination and precrastination are similar. True or False?
+Answer:","[' True', ' False']",1
+"run by and run past are similar. True or False?
+Answer:","[' True', ' False']",0
+"amiability and good naturedness are similar. True or False?
+Answer:","[' True', ' False']",0
+"out of shape and in shape are similar. True or False?
+Answer:","[' True', ' False']",1
+"frequently and rarely are similar. True or False?
+Answer:","[' True', ' False']",1
+"debigulate and embiggen are similar. True or False?
+Answer:","[' True', ' False']",1
+"embrocation and liniment are similar. True or False?
+Answer:","[' True', ' False']",0
+"seasoning and drunkenness are similar. True or False?
+Answer:","[' True', ' False']",0
+"genus eburophyton and eburophyton are similar. True or False?
+Answer:","[' True', ' False']",0
+"attack and fire are similar. True or False?
+Answer:","[' True', ' False']",1
+"divorced and connected are similar. True or False?
+Answer:","[' True', ' False']",1
+"little dick fisher and little dick are similar. True or False?
+Answer:","[' True', ' False']",0
+"sick and healthy are similar. True or False?
+Answer:","[' True', ' False']",1
+"cost and markup are similar. True or False?
+Answer:","[' True', ' False']",1
+"vaginoperineorrhaphy and colpoperineorrhaphy are similar. True or False?
+Answer:","[' True', ' False']",0
+"symmetric and asymmetric are similar. True or False?
+Answer:","[' True', ' False']",1
+"jump for joy and leap for joy are similar. True or False?
+Answer:","[' True', ' False']",0
+"tax and free are similar. True or False?
+Answer:","[' True', ' False']",1
+"conglobe and conglobate are similar. True or False?
+Answer:","[' True', ' False']",0
+"infinitesimal and enormous are similar. True or False?
+Answer:","[' True', ' False']",1
+"nasalness and nasality are similar. True or False?
+Answer:","[' True', ' False']",0
+"march and standing are similar. True or False?
+Answer:","[' True', ' False']",1
+"micronutrient and macronutrient are similar. True or False?
+Answer:","[' True', ' False']",1
+"mechanise and mechanize are similar. True or False?
+Answer:","[' True', ' False']",0
+"melancholy and mirthful are similar. True or False?
+Answer:","[' True', ' False']",1
+"infravision and darkvision are similar. True or False?
+Answer:","[' True', ' False']",0
+"donatio inter vivos and donatio mortis causa are similar. True or False?
+Answer:","[' True', ' False']",1
+"guilty and not proven are similar. True or False?
+Answer:","[' True', ' False']",1
+"granddaughter and grandson are similar. True or False?
+Answer:","[' True', ' False']",1
+"entrap and ensnare are similar. True or False?
+Answer:","[' True', ' False']",0
+"home and away are similar. True or False?
+Answer:","[' True', ' False']",1
+"intranslatability and translatableness are similar. True or False?
+Answer:","[' True', ' False']",1
+"prem and preemie are similar. True or False?
+Answer:","[' True', ' False']",0
+"genus sphyrna and sphyrna are similar. True or False?
+Answer:","[' True', ' False']",0
+"eustress and distress are similar. True or False?
+Answer:","[' True', ' False']",1
+"incompetent and competent are similar. True or False?
+Answer:","[' True', ' False']",1
+"noah's flood and noah and flood are similar. True or False?
+Answer:","[' True', ' False']",0
+"al quds and bayt al maqdis are similar. True or False?
+Answer:","[' True', ' False']",0
+"auntlike and auntish are similar. True or False?
+Answer:","[' True', ' False']",0
+"corrigibility and incorrigibility are similar. True or False?
+Answer:","[' True', ' False']",1
+"print and write are similar. True or False?
+Answer:","[' True', ' False']",1
+"prepare and raw are similar. True or False?
+Answer:","[' True', ' False']",1
+"light and darkness are similar. True or False?
+Answer:","[' True', ' False']",1
+"necessary and swap cs are similar. True or False?
+Answer:","[' True', ' False']",1
+"crowd and two are similar. True or False?
+Answer:","[' True', ' False']",1
+"thymidine and deoxythymidine are similar. True or False?
+Answer:","[' True', ' False']",0
+"gainwise and counter are similar. True or False?
+Answer:","[' True', ' False']",0
+"triticum dicoccum dicoccoides and wild wheat are similar. True or False?
+Answer:","[' True', ' False']",0
+"undamaging and damaging are similar. True or False?
+Answer:","[' True', ' False']",1
+"dummy and pacifier are similar. True or False?
+Answer:","[' True', ' False']",0
+"foresee and anticipate are similar. True or False?
+Answer:","[' True', ' False']",0
+"multiplatform and single platform are similar. True or False?
+Answer:","[' True', ' False']",1
+"permit and prohibit are similar. True or False?
+Answer:","[' True', ' False']",0
+"allium canadense and canada garlic are similar. True or False?
+Answer:","[' True', ' False']",0
+"ergolytic and ergogenic are similar. True or False?
+Answer:","[' True', ' False']",1
+"overpowered and underpowered are similar. True or False?
+Answer:","[' True', ' False']",1
+"essential and adscititious are similar. True or False?
+Answer:","[' True', ' False']",1
+"deglomeration and agglomeration are similar. True or False?
+Answer:","[' True', ' False']",1
+"goddard thorn theorem and no ghost theorem are similar. True or False?
+Answer:","[' True', ' False']",0
+"kick in and contribute are similar. True or False?
+Answer:","[' True', ' False']",0
+"never and continually are similar. True or False?
+Answer:","[' True', ' False']",1
+"phone company and telephone company are similar. True or False?
+Answer:","[' True', ' False']",0
+"tea and coffee are similar. True or False?
+Answer:","[' True', ' False']",1
+"beanie and beanie hat are similar. True or False?
+Answer:","[' True', ' False']",0
+"haramization and halalization are similar. True or False?
+Answer:","[' True', ' False']",1
+"stringy and unchewable are similar. True or False?
+Answer:","[' True', ' False']",0
+"crystal mike and crystal microphone are similar. True or False?
+Answer:","[' True', ' False']",0
+"spanish gorse and spanish broom are similar. True or False?
+Answer:","[' True', ' False']",0
+"departure and arrival are similar. True or False?
+Answer:","[' True', ' False']",1
+"hill and valley are similar. True or False?
+Answer:","[' True', ' False']",1
+"windowed and unwindowed are similar. True or False?
+Answer:","[' True', ' False']",1
+"hard boiled egg and soft boiled egg are similar. True or False?
+Answer:","[' True', ' False']",1
+"paxton and sir joseph paxton are similar. True or False?
+Answer:","[' True', ' False']",0
+"definability and indefinability are similar. True or False?
+Answer:","[' True', ' False']",1
+"possible and unlikely are similar. True or False?
+Answer:","[' True', ' False']",1
+"pants and shirt are similar. True or False?
+Answer:","[' True', ' False']",1
+"interrelationship and interrelation are similar. True or False?
+Answer:","[' True', ' False']",0
+"cunt and snatch are similar. True or False?
+Answer:","[' True', ' False']",0
+"filter and ideal are similar. True or False?
+Answer:","[' True', ' False']",1
+"have all and have nothing are similar. True or False?
+Answer:","[' True', ' False']",1
+"ruralization and urbanization are similar. True or False?
+Answer:","[' True', ' False']",1
+"precise and inexact are similar. True or False?
+Answer:","[' True', ' False']",1
+"parisyllabic and imparisyllabic are similar. True or False?
+Answer:","[' True', ' False']",1
+"cover and covering are similar. True or False?
+Answer:","[' True', ' False']",0
+"pico and tera are similar. True or False?
+Answer:","[' True', ' False']",1
+"optical fibre and optical fiber are similar. True or False?
+Answer:","[' True', ' False']",0
+"upas and bohun upas are similar. True or False?
+Answer:","[' True', ' False']",0
+"lesser armenia and armenia inferior are similar. True or False?
+Answer:","[' True', ' False']",0
+"rock hard and soft are similar. True or False?
+Answer:","[' True', ' False']",1
+"beautifier and uglifier are similar. True or False?
+Answer:","[' True', ' False']",1
+"irreproducible and reproducible are similar. True or False?
+Answer:","[' True', ' False']",1
+"beggar and wealthy man are similar. True or False?
+Answer:","[' True', ' False']",1
+"quality and bad workmanship are similar. True or False?
+Answer:","[' True', ' False']",1
+"self destruction and suicide are similar. True or False?
+Answer:","[' True', ' False']",0
+"bathetic and sentimental are similar. True or False?
+Answer:","[' True', ' False']",0
+"ceiling and floor are similar. True or False?
+Answer:","[' True', ' False']",1
+"wave and water are similar. True or False?
+Answer:","[' True', ' False']",1
+"egodystonicity and egosyntonicity are similar. True or False?
+Answer:","[' True', ' False']",1
+"lookahead and lookbehind are similar. True or False?
+Answer:","[' True', ' False']",1
+"sidereal astrology and tropical astrology are similar. True or False?
+Answer:","[' True', ' False']",1
+"odd pinnate and even pinnate are similar. True or False?
+Answer:","[' True', ' False']",1
+"japonism and japonisme are similar. True or False?
+Answer:","[' True', ' False']",0
+"veer and back are similar. True or False?
+Answer:","[' True', ' False']",1
+"zwitterion and inner salt are similar. True or False?
+Answer:","[' True', ' False']",0
+"frequency and period are similar. True or False?
+Answer:","[' True', ' False']",1
+"arise and spring up are similar. True or False?
+Answer:","[' True', ' False']",0
+"figuratively and literally are similar. True or False?
+Answer:","[' True', ' False']",1
+"television set and television receiver are similar. True or False?
+Answer:","[' True', ' False']",0
+"purpose and aimless are similar. True or False?
+Answer:","[' True', ' False']",1
+"calmness and disturbance are similar. True or False?
+Answer:","[' True', ' False']",1
+"triton and tritium are similar. True or False?
+Answer:","[' True', ' False']",0
+"perspectivation and perspectivization are similar. True or False?
+Answer:","[' True', ' False']",0
+"illiberal and generous are similar. True or False?
+Answer:","[' True', ' False']",1
+"unorthodox and orthodox are similar. True or False?
+Answer:","[' True', ' False']",1
+"semismart and semistupid are similar. True or False?
+Answer:","[' True', ' False']",1
+"hire and sack are similar. True or False?
+Answer:","[' True', ' False']",1
+"tarzan and tarzan of apes are similar. True or False?
+Answer:","[' True', ' False']",0
+"productive and ruinous are similar. True or False?
+Answer:","[' True', ' False']",1
+"anellarioid and galerinoid are similar. True or False?
+Answer:","[' True', ' False']",0
+"mononucleosis and glandular fever are similar. True or False?
+Answer:","[' True', ' False']",0
+"main and peripheral are similar. True or False?
+Answer:","[' True', ' False']",1
+"nonunionized and nonunionised are similar. True or False?
+Answer:","[' True', ' False']",0
+"north atlantic and north atlantic ocean are similar. True or False?
+Answer:","[' True', ' False']",0
+"describability and undescribability are similar. True or False?
+Answer:","[' True', ' False']",1
+"separable and annexable are similar. True or False?
+Answer:","[' True', ' False']",1
+"soubriquet and nickname are similar. True or False?
+Answer:","[' True', ' False']",0
+"unbecoming and becoming are similar. True or False?
+Answer:","[' True', ' False']",1
+"pogey and dole are similar. True or False?
+Answer:","[' True', ' False']",0
+"term and locution are similar. True or False?
+Answer:","[' True', ' False']",0
+"peaceful and warring are similar. True or False?
+Answer:","[' True', ' False']",1
+"date fish and date shell are similar. True or False?
+Answer:","[' True', ' False']",0
+"chromite and ferrochromite are similar. True or False?
+Answer:","[' True', ' False']",0
+"deimination and citrullination are similar. True or False?
+Answer:","[' True', ' False']",0
+"play possum and act possum are similar. True or False?
+Answer:","[' True', ' False']",0
+"swizzle and unswizzle are similar. True or False?
+Answer:","[' True', ' False']",1
+"broad and narrow are similar. True or False?
+Answer:","[' True', ' False']",1
+"breaking wheel and catherine wheel are similar. True or False?
+Answer:","[' True', ' False']",0
+"ruiner and founder are similar. True or False?
+Answer:","[' True', ' False']",1
+"dad and mom are similar. True or False?
+Answer:","[' True', ' False']",1
+"exacerbation and amelioration are similar. True or False?
+Answer:","[' True', ' False']",1
+"reply and exclaim are similar. True or False?
+Answer:","[' True', ' False']",1
+"sorrow and joy are similar. True or False?
+Answer:","[' True', ' False']",1
+"principal ultrafilter and free ultrafilter are similar. True or False?
+Answer:","[' True', ' False']",1
+"invalid and valid are similar. True or False?
+Answer:","[' True', ' False']",1
+"headpiece and headgear are similar. True or False?
+Answer:","[' True', ' False']",0
+"steam and condensate are similar. True or False?
+Answer:","[' True', ' False']",1
+"kalimantan and indonesian borneo are similar. True or False?
+Answer:","[' True', ' False']",0
+"presence and absence are similar. True or False?
+Answer:","[' True', ' False']",1
+"antipattern and pattern are similar. True or False?
+Answer:","[' True', ' False']",1
+"gently and roughly are similar. True or False?
+Answer:","[' True', ' False']",1
+"bright and super are similar. True or False?
+Answer:","[' True', ' False']",1
+"flattering and flattery are similar. True or False?
+Answer:","[' True', ' False']",0
+"probable and improbable are similar. True or False?
+Answer:","[' True', ' False']",1
+"hydrated oxide and hydroxide are similar. True or False?
+Answer:","[' True', ' False']",0
+"funny farm and nuthouse are similar. True or False?
+Answer:","[' True', ' False']",0
+"baby and elder are similar. True or False?
+Answer:","[' True', ' False']",1
+"romance and platonic are similar. True or False?
+Answer:","[' True', ' False']",1
+"capricorn and capricornus are similar. True or False?
+Answer:","[' True', ' False']",0
+"family oxyuridae and oxyuridae are similar. True or False?
+Answer:","[' True', ' False']",0
+"leisurelily and leisurely are similar. True or False?
+Answer:","[' True', ' False']",0
+"seed and full grown are similar. True or False?
+Answer:","[' True', ' False']",1
+"covetousness and avarice are similar. True or False?
+Answer:","[' True', ' False']",0
+"ensemblist and soloist are similar. True or False?
+Answer:","[' True', ' False']",1
+"mono and glandular fever are similar. True or False?
+Answer:","[' True', ' False']",0
+"mycteria americana and wood ibis are similar. True or False?
+Answer:","[' True', ' False']",0
+"judicially and illegally are similar. True or False?
+Answer:","[' True', ' False']",1
+"misanthropic and philanthropic are similar. True or False?
+Answer:","[' True', ' False']",1
+"snatcher and kidnapper are similar. True or False?
+Answer:","[' True', ' False']",0
+"un rousseauesque and rousseau esque are similar. True or False?
+Answer:","[' True', ' False']",1
+"let me see and let's see are similar. True or False?
+Answer:","[' True', ' False']",0
+"penalty spot and penalty mark are similar. True or False?
+Answer:","[' True', ' False']",0
+"family rhinolophidae and rhinolophidae are similar. True or False?
+Answer:","[' True', ' False']",0
+"pliable and lithy are similar. True or False?
+Answer:","[' True', ' False']",0
+"meltable and nonmeltable are similar. True or False?
+Answer:","[' True', ' False']",1
+"mallorcan and mallorquin are similar. True or False?
+Answer:","[' True', ' False']",0
+"must and have to are similar. True or False?
+Answer:","[' True', ' False']",1
+"forgetfulness and oblivion are similar. True or False?
+Answer:","[' True', ' False']",0
+"past and future are similar. True or False?
+Answer:","[' True', ' False']",1
+"wearily and tiredly are similar. True or False?
+Answer:","[' True', ' False']",0
+"triiodomethane and iodoform are similar. True or False?
+Answer:","[' True', ' False']",0
+"anxiety and anxiousness are similar. True or False?
+Answer:","[' True', ' False']",0
+"sheep and done are similar. True or False?
+Answer:","[' True', ' False']",1
+"compression and decompression are similar. True or False?
+Answer:","[' True', ' False']",1
+"workably and unworkably are similar. True or False?
+Answer:","[' True', ' False']",1
+"precocious and altricious are similar. True or False?
+Answer:","[' True', ' False']",1
+"experience and naive are similar. True or False?
+Answer:","[' True', ' False']",1
+"cotard's syndrome and cotard delusion are similar. True or False?
+Answer:","[' True', ' False']",0
+"epanadiplosis and epanalepsis are similar. True or False?
+Answer:","[' True', ' False']",0
+"white bean and navy bean are similar. True or False?
+Answer:","[' True', ' False']",0
+"beneath and above are similar. True or False?
+Answer:","[' True', ' False']",1
+"steles and stelai are similar. True or False?
+Answer:","[' True', ' False']",0
+"genus eragrostis and eragrostis are similar. True or False?
+Answer:","[' True', ' False']",0
+"take on and fire are similar. True or False?
+Answer:","[' True', ' False']",1
+"michiganian and michigander are similar. True or False?
+Answer:","[' True', ' False']",0
+"lengthen and shorten are similar. True or False?
+Answer:","[' True', ' False']",1
+"unseat and seat are similar. True or False?
+Answer:","[' True', ' False']",1
+"toeside and heelside are similar. True or False?
+Answer:","[' True', ' False']",1
+"sometime and one day are similar. True or False?
+Answer:","[' True', ' False']",0
+"shear thinning and pseudoplastic are similar. True or False?
+Answer:","[' True', ' False']",0
+"perdition and underworld are similar. True or False?
+Answer:","[' True', ' False']",0
+"unmergeable and indivisible are similar. True or False?
+Answer:","[' True', ' False']",1
+"immortality and mortality are similar. True or False?
+Answer:","[' True', ' False']",1
+"dodgeable and evitable are similar. True or False?
+Answer:","[' True', ' False']",0
+"home and street are similar. True or False?
+Answer:","[' True', ' False']",1
+"deterministic and nondeterministic are similar. True or False?
+Answer:","[' True', ' False']",1
+"plain and ornate are similar. True or False?
+Answer:","[' True', ' False']",1
+"malpighian corpuscle and malpighian body are similar. True or False?
+Answer:","[' True', ' False']",0
+"select and deselect are similar. True or False?
+Answer:","[' True', ' False']",1
+"genus chlamydosaurus and chlamydosaurus are similar. True or False?
+Answer:","[' True', ' False']",0
+"tramp's spurge and wild spurge are similar. True or False?
+Answer:","[' True', ' False']",0
+"clenched and unclenched are similar. True or False?
+Answer:","[' True', ' False']",1
+"green and sop are similar. True or False?
+Answer:","[' True', ' False']",1
+"mistakable and distinct are similar. True or False?
+Answer:","[' True', ' False']",1
+"nonblended and unblended are similar. True or False?
+Answer:","[' True', ' False']",0
+"long term and short term are similar. True or False?
+Answer:","[' True', ' False']",1
+"arhat and lohan are similar. True or False?
+Answer:","[' True', ' False']",0
+"illiteracy and can read are similar. True or False?
+Answer:","[' True', ' False']",1
+"priacanthus arenatus and catalufa are similar. True or False?
+Answer:","[' True', ' False']",0
+"locationist and localizationist are similar. True or False?
+Answer:","[' True', ' False']",0
+"plate and her are similar. True or False?
+Answer:","[' True', ' False']",1
+"policeman and criminal are similar. True or False?
+Answer:","[' True', ' False']",1
+"farside and nearside are similar. True or False?
+Answer:","[' True', ' False']",1
+"wireless and cordless are similar. True or False?
+Answer:","[' True', ' False']",0
+"geometric and geometrical are similar. True or False?
+Answer:","[' True', ' False']",0
+"considerable and ignorable are similar. True or False?
+Answer:","[' True', ' False']",1
+"achromatopia and achromatism are similar. True or False?
+Answer:","[' True', ' False']",0
+"agnomen and agname are similar. True or False?
+Answer:","[' True', ' False']",0
+"mollify and pacify are similar. True or False?
+Answer:","[' True', ' False']",0
+"malaclemys centrata and diamondback terrapin are similar. True or False?
+Answer:","[' True', ' False']",0
+"conduct oneself and behave are similar. True or False?
+Answer:","[' True', ' False']",0
+"rotated and revolved are similar. True or False?
+Answer:","[' True', ' False']",0
+"excludable and inexcludable are similar. True or False?
+Answer:","[' True', ' False']",1
+"chewable and unchewable are similar. True or False?
+Answer:","[' True', ' False']",1
+"non creational and creationary are similar. True or False?
+Answer:","[' True', ' False']",1
+"direct product and categorical product are similar. True or False?
+Answer:","[' True', ' False']",0
+"cul de sac and dead end are similar. True or False?
+Answer:","[' True', ' False']",0
+"vaporous and vapourous are similar. True or False?
+Answer:","[' True', ' False']",0
+"marketable and merchantable are similar. True or False?
+Answer:","[' True', ' False']",0
+"iod and ioi are similar. True or False?
+Answer:","[' True', ' False']",1
+"stuff and doodad are similar. True or False?
+Answer:","[' True', ' False']",0
+"harvest and effect are similar. True or False?
+Answer:","[' True', ' False']",0
+"streetwise and street smart are similar. True or False?
+Answer:","[' True', ' False']",0
+"wild cavy and aperea are similar. True or False?
+Answer:","[' True', ' False']",0
+"enough and much are similar. True or False?
+Answer:","[' True', ' False']",1
+"preempt and preemptive bid are similar. True or False?
+Answer:","[' True', ' False']",0
+"burial and interment are similar. True or False?
+Answer:","[' True', ' False']",0
+"dronelike and drony are similar. True or False?
+Answer:","[' True', ' False']",0
+"logizomechanophobia and computerphobia are similar. True or False?
+Answer:","[' True', ' False']",0
+"bill and coins are similar. True or False?
+Answer:","[' True', ' False']",1
+"lepas fascicularis and goose barnacle are similar. True or False?
+Answer:","[' True', ' False']",0
+"tear and rend are similar. True or False?
+Answer:","[' True', ' False']",0
+"acrophase and trough are similar. True or False?
+Answer:","[' True', ' False']",1
+"savory and sweet are similar. True or False?
+Answer:","[' True', ' False']",1
+"me neither and me too are similar. True or False?
+Answer:","[' True', ' False']",1
+"upright and wrong are similar. True or False?
+Answer:","[' True', ' False']",1
+"untranslatableness and translatableness are similar. True or False?
+Answer:","[' True', ' False']",1
+"polyvinyl and polyvinylic are similar. True or False?
+Answer:","[' True', ' False']",0
+"butea monosperma and dhak are similar. True or False?
+Answer:","[' True', ' False']",0
+"trouble and good behavior are similar. True or False?
+Answer:","[' True', ' False']",1
+"disfavour and favour are similar. True or False?
+Answer:","[' True', ' False']",1
+"sfaik and afaik are similar. True or False?
+Answer:","[' True', ' False']",0
+"valour and fearlessness are similar. True or False?
+Answer:","[' True', ' False']",0
+"rankness and richness are similar. True or False?
+Answer:","[' True', ' False']",0
+"bad off and well off are similar. True or False?
+Answer:","[' True', ' False']",1
+"naysayer and yeasayer are similar. True or False?
+Answer:","[' True', ' False']",1
+"brothel and nunnery are similar. True or False?
+Answer:","[' True', ' False']",0
+"off site and on site are similar. True or False?
+Answer:","[' True', ' False']",1
+"bad and advantageous are similar. True or False?
+Answer:","[' True', ' False']",1
+"benefit and advantage are similar. True or False?
+Answer:","[' True', ' False']",0
+"ochotona collaris and collared pika are similar. True or False?
+Answer:","[' True', ' False']",0
+"sabre and cavalry sword are similar. True or False?
+Answer:","[' True', ' False']",0
+"hypergamy and marrying up are similar. True or False?
+Answer:","[' True', ' False']",0
+"respighi and ottorino respighi are similar. True or False?
+Answer:","[' True', ' False']",0
+"massive and dwarf are similar. True or False?
+Answer:","[' True', ' False']",1
+"endanger and peril are similar. True or False?
+Answer:","[' True', ' False']",0
+"brigadier general and brigadier are similar. True or False?
+Answer:","[' True', ' False']",0
+"apophatic and cataphatic are similar. True or False?
+Answer:","[' True', ' False']",1
+"gloss and explanation are similar. True or False?
+Answer:","[' True', ' False']",0
+"halt and proceed are similar. True or False?
+Answer:","[' True', ' False']",1
+"fixation and preoccupation are similar. True or False?
+Answer:","[' True', ' False']",0
+"give flying fuck and give fuck are similar. True or False?
+Answer:","[' True', ' False']",0
+"molotov cocktail and mollie are similar. True or False?
+Answer:","[' True', ' False']",0
+"unconscionable and conscienceless are similar. True or False?
+Answer:","[' True', ' False']",0
+"bearable and supportable are similar. True or False?
+Answer:","[' True', ' False']",0
+"xiphoidalgia and xiphodynia are similar. True or False?
+Answer:","[' True', ' False']",0
+"screw jack and jackscrew are similar. True or False?
+Answer:","[' True', ' False']",0
+"benefit and detriment are similar. True or False?
+Answer:","[' True', ' False']",1
+"inadequately and adequately are similar. True or False?
+Answer:","[' True', ' False']",1
+"automatic transmission and manual transmission are similar. True or False?
+Answer:","[' True', ' False']",1
+"fretless and fretted are similar. True or False?
+Answer:","[' True', ' False']",1
+"last and disintegrate are similar. True or False?
+Answer:","[' True', ' False']",1
+"sdr and transversal are similar. True or False?
+Answer:","[' True', ' False']",0
+"brath and snell are similar. True or False?
+Answer:","[' True', ' False']",0
+"macca's and mickey d's are similar. True or False?
+Answer:","[' True', ' False']",0
+"dazedly and torpidly are similar. True or False?
+Answer:","[' True', ' False']",0
+"mature and suppurate are similar. True or False?
+Answer:","[' True', ' False']",0
+"forename and aftername are similar. True or False?
+Answer:","[' True', ' False']",1
+"dustman and bin man are similar. True or False?
+Answer:","[' True', ' False']",0
+"family diaspididae and diaspididae are similar. True or False?
+Answer:","[' True', ' False']",0
+"wednesday and humpday are similar. True or False?
+Answer:","[' True', ' False']",0
+"peacespeak and warspeak are similar. True or False?
+Answer:","[' True', ' False']",1
+"coquaternion and split quaternion are similar. True or False?
+Answer:","[' True', ' False']",0
+"nonpartisanship and impartiality are similar. True or False?
+Answer:","[' True', ' False']",0
+"retirement and privacy are similar. True or False?
+Answer:","[' True', ' False']",0
+"united stateser and united stater are similar. True or False?
+Answer:","[' True', ' False']",0
+"calced and barefoot are similar. True or False?
+Answer:","[' True', ' False']",1
+"arise and abed are similar. True or False?
+Answer:","[' True', ' False']",1
+"butcher and gentle are similar. True or False?
+Answer:","[' True', ' False']",1
+"strict and lenient are similar. True or False?
+Answer:","[' True', ' False']",1
+"premier and first lieutenant are similar. True or False?
+Answer:","[' True', ' False']",0
+"validly and invalidly are similar. True or False?
+Answer:","[' True', ' False']",1
+"game and quarry are similar. True or False?
+Answer:","[' True', ' False']",0
+"tee up and tee are similar. True or False?
+Answer:","[' True', ' False']",0
+"towing path and towpath are similar. True or False?
+Answer:","[' True', ' False']",0
+"mountain and valley are similar. True or False?
+Answer:","[' True', ' False']",1
+"squeeze theorem and pinching theorem are similar. True or False?
+Answer:","[' True', ' False']",0
+"warm hearted and goodhearted are similar. True or False?
+Answer:","[' True', ' False']",0
+"in know and in dark are similar. True or False?
+Answer:","[' True', ' False']",1
+"lateroparietal and medioparietal are similar. True or False?
+Answer:","[' True', ' False']",1
+"unfiltered and filtered are similar. True or False?
+Answer:","[' True', ' False']",1
+"triphenylene and isochrysene are similar. True or False?
+Answer:","[' True', ' False']",0
+"tumble grass and witchgrass are similar. True or False?
+Answer:","[' True', ' False']",0
+"inner trigram and outer trigram are similar. True or False?
+Answer:","[' True', ' False']",1
+"bathroom tissue and toilet paper are similar. True or False?
+Answer:","[' True', ' False']",0
+"hoosier and indianan are similar. True or False?
+Answer:","[' True', ' False']",0
+"bellow and bawl are similar. True or False?
+Answer:","[' True', ' False']",0
+"stay and come are similar. True or False?
+Answer:","[' True', ' False']",1
+"computer literate and computer illiterate are similar. True or False?
+Answer:","[' True', ' False']",1
+"iris diaphragm and iris are similar. True or False?
+Answer:","[' True', ' False']",0
+"good job and well done are similar. True or False?
+Answer:","[' True', ' False']",0
+"incubous and succubous are similar. True or False?
+Answer:","[' True', ' False']",1
+"inswing and outswing are similar. True or False?
+Answer:","[' True', ' False']",1
+"decay and disintegration are similar. True or False?
+Answer:","[' True', ' False']",0
+"sale and purchase are similar. True or False?
+Answer:","[' True', ' False']",1
+"reflation and disinflation are similar. True or False?
+Answer:","[' True', ' False']",1
+"blue and happy are similar. True or False?
+Answer:","[' True', ' False']",1
+"hypnagogic and hypnopompic are similar. True or False?
+Answer:","[' True', ' False']",1
+"roman jakobson and roman osipovich jakobson are similar. True or False?
+Answer:","[' True', ' False']",0
+"scd and doctor of science are similar. True or False?
+Answer:","[' True', ' False']",0
+"tactless and tactful are similar. True or False?
+Answer:","[' True', ' False']",1
+"coryphaeus and coryphe are similar. True or False?
+Answer:","[' True', ' False']",0
+"stokehold and fireroom are similar. True or False?
+Answer:","[' True', ' False']",0
+"overmind and nethermind are similar. True or False?
+Answer:","[' True', ' False']",1
+"unlearned and learned are similar. True or False?
+Answer:","[' True', ' False']",1
+"antibubble and bubble are similar. True or False?
+Answer:","[' True', ' False']",1
+"photopic vision and daylight vision are similar. True or False?
+Answer:","[' True', ' False']",0
+"changingness and fixedness are similar. True or False?
+Answer:","[' True', ' False']",1
+"death angel and death cap are similar. True or False?
+Answer:","[' True', ' False']",0
+"choose and force are similar. True or False?
+Answer:","[' True', ' False']",1
+"listen and become are similar. True or False?
+Answer:","[' True', ' False']",1
+"express and outspeak are similar. True or False?
+Answer:","[' True', ' False']",0
+"go shopping and shop are similar. True or False?
+Answer:","[' True', ' False']",0
+"automatically and manually are similar. True or False?
+Answer:","[' True', ' False']",1
+"closet and gay are similar. True or False?
+Answer:","[' True', ' False']",1
+"detention centre and bullpen are similar. True or False?
+Answer:","[' True', ' False']",0
+"inch and centimetre are similar. True or False?
+Answer:","[' True', ' False']",1
+"caloric and noncaloric are similar. True or False?
+Answer:","[' True', ' False']",1
+"matchless and unsurpassed are similar. True or False?
+Answer:","[' True', ' False']",0
+"agony and defeat are similar. True or False?
+Answer:","[' True', ' False']",1
+"lack and enough are similar. True or False?
+Answer:","[' True', ' False']",1
+"walk and running are similar. True or False?
+Answer:","[' True', ' False']",1
+"non derivable and derivable are similar. True or False?
+Answer:","[' True', ' False']",1
+"prevalently and generally are similar. True or False?
+Answer:","[' True', ' False']",0
+"practice and performance are similar. True or False?
+Answer:","[' True', ' False']",1
+"merlin and schwannomin are similar. True or False?
+Answer:","[' True', ' False']",0
+"remain and go away are similar. True or False?
+Answer:","[' True', ' False']",1
+"odisha and orissa are similar. True or False?
+Answer:","[' True', ' False']",0
+"comfort and besoothe are similar. True or False?
+Answer:","[' True', ' False']",0
+"clutchless manual transmission and automated manual transmission are similar. True or False?
+Answer:","[' True', ' False']",0
+"usual and unusual are similar. True or False?
+Answer:","[' True', ' False']",1
+"titanic oxide and titanium dioxide are similar. True or False?
+Answer:","[' True', ' False']",0
+"context sensitive and context free are similar. True or False?
+Answer:","[' True', ' False']",1
+"inflatable cushion and air cushion are similar. True or False?
+Answer:","[' True', ' False']",0
+"punch in and punch out are similar. True or False?
+Answer:","[' True', ' False']",1
+"beturtlenecked and turtlenecked are similar. True or False?
+Answer:","[' True', ' False']",0
+"beardedness and beardlessness are similar. True or False?
+Answer:","[' True', ' False']",1
+"spear and distaff are similar. True or False?
+Answer:","[' True', ' False']",1
+"mount st helens and mount saint helens are similar. True or False?
+Answer:","[' True', ' False']",0
+"music and tunes are similar. True or False?
+Answer:","[' True', ' False']",1
+"mole and beauty mark are similar. True or False?
+Answer:","[' True', ' False']",1
+"unattached and free swimming are similar. True or False?
+Answer:","[' True', ' False']",0
+"postrevolutionary and prerevolutionary are similar. True or False?
+Answer:","[' True', ' False']",1
+"wool and silk are similar. True or False?
+Answer:","[' True', ' False']",1
+"unafraid and fearless are similar. True or False?
+Answer:","[' True', ' False']",0
+"upslope and downslope are similar. True or False?
+Answer:","[' True', ' False']",1
+"wifely and wifey are similar. True or False?
+Answer:","[' True', ' False']",0
+"ambiguous and dubious are similar. True or False?
+Answer:","[' True', ' False']",0
+"pussy out and puss out are similar. True or False?
+Answer:","[' True', ' False']",0
+"complication and complicatedness are similar. True or False?
+Answer:","[' True', ' False']",0
+"margin and gross profit are similar. True or False?
+Answer:","[' True', ' False']",0
+"plummet and plumb bob are similar. True or False?
+Answer:","[' True', ' False']",0
+"disenchanting and disillusioning are similar. True or False?
+Answer:","[' True', ' False']",0
+"cyberoptimism and cyberpessimism are similar. True or False?
+Answer:","[' True', ' False']",1
+"servant and maid are similar. True or False?
+Answer:","[' True', ' False']",1
+"order oleales and oleales are similar. True or False?
+Answer:","[' True', ' False']",0
+"transient and immanent are similar. True or False?
+Answer:","[' True', ' False']",1
+"peasemeal and peameal are similar. True or False?
+Answer:","[' True', ' False']",0
+"bronze and tan are similar. True or False?
+Answer:","[' True', ' False']",0
+"lengthways and lengthwise are similar. True or False?
+Answer:","[' True', ' False']",0
+"krebs cycle and citrate cycle are similar. True or False?
+Answer:","[' True', ' False']",0
+"away and toward are similar. True or False?
+Answer:","[' True', ' False']",1
+"master and servant slave are similar. True or False?
+Answer:","[' True', ' False']",1
+"foreign and person are similar. True or False?
+Answer:","[' True', ' False']",1
+"cognitive parallax and dislocation are similar. True or False?
+Answer:","[' True', ' False']",0
+"humbug and baloney are similar. True or False?
+Answer:","[' True', ' False']",0
+"deputy and envoy are similar. True or False?
+Answer:","[' True', ' False']",0
+"awestruck and awestricken are similar. True or False?
+Answer:","[' True', ' False']",0
+"synclinal and anticlinal are similar. True or False?
+Answer:","[' True', ' False']",1
+"survive and exist are similar. True or False?
+Answer:","[' True', ' False']",0
+"greenlandic and kalaallisut are similar. True or False?
+Answer:","[' True', ' False']",0
+"underpaid and overpaid are similar. True or False?
+Answer:","[' True', ' False']",1
+"radiosymmetric and radially are similar. True or False?
+Answer:","[' True', ' False']",0
+"selfward and otherward are similar. True or False?
+Answer:","[' True', ' False']",1
+"tellurane and tellurium hydride are similar. True or False?
+Answer:","[' True', ' False']",0
+"foul spoken and foul mouthed are similar. True or False?
+Answer:","[' True', ' False']",0
+"garbage bag and trash bag are similar. True or False?
+Answer:","[' True', ' False']",0
+"glass and wood are similar. True or False?
+Answer:","[' True', ' False']",1
+"lane and carriageway are similar. True or False?
+Answer:","[' True', ' False']",0
+"whipple procedure and whipple are similar. True or False?
+Answer:","[' True', ' False']",0
+"untransmitted and uncommunicated are similar. True or False?
+Answer:","[' True', ' False']",0
+"average and poor are similar. True or False?
+Answer:","[' True', ' False']",1
+"dusk and dawn are similar. True or False?
+Answer:","[' True', ' False']",1
+"busy and doing nothing are similar. True or False?
+Answer:","[' True', ' False']",1
+"unscrupulously and scrupulously are similar. True or False?
+Answer:","[' True', ' False']",1
+"nationwide and across country are similar. True or False?
+Answer:","[' True', ' False']",0
+"omnimalevolent and omnibenevolent are similar. True or False?
+Answer:","[' True', ' False']",1
+"gustatio and promulsis are similar. True or False?
+Answer:","[' True', ' False']",0
+"peripheral membrane protein and extrinsic protein are similar. True or False?
+Answer:","[' True', ' False']",0
+"forfeit and win game are similar. True or False?
+Answer:","[' True', ' False']",1
+"grudge and forgive are similar. True or False?
+Answer:","[' True', ' False']",1
+"born and dying are similar. True or False?
+Answer:","[' True', ' False']",1
+"abraham and abram are similar. True or False?
+Answer:","[' True', ' False']",0
+"wood block and woodcut are similar. True or False?
+Answer:","[' True', ' False']",0
+"ulterior and citerior are similar. True or False?
+Answer:","[' True', ' False']",1
+"bear and bull are similar. True or False?
+Answer:","[' True', ' False']",1
+"relief and easing are similar. True or False?
+Answer:","[' True', ' False']",0
+"castor and caster are similar. True or False?
+Answer:","[' True', ' False']",0
+"character and real person are similar. True or False?
+Answer:","[' True', ' False']",1
+"rationalism and irrationalism are similar. True or False?
+Answer:","[' True', ' False']",1
+"lingua franca nova and lfn are similar. True or False?
+Answer:","[' True', ' False']",0
+"association and disassociate are similar. True or False?
+Answer:","[' True', ' False']",1
+"wealthiness and wealth are similar. True or False?
+Answer:","[' True', ' False']",0
+"terminal and initial are similar. True or False?
+Answer:","[' True', ' False']",1
+"reference library and reading room are similar. True or False?
+Answer:","[' True', ' False']",0
+"japanophobe and japanophile are similar. True or False?
+Answer:","[' True', ' False']",1
+"dice and astragals are similar. True or False?
+Answer:","[' True', ' False']",0
+"antichange and prochange are similar. True or False?
+Answer:","[' True', ' False']",1
+"only and merely are similar. True or False?
+Answer:","[' True', ' False']",0
+"clear and opaque are similar. True or False?
+Answer:","[' True', ' False']",1
+"outfit and infit are similar. True or False?
+Answer:","[' True', ' False']",1
+"show and conceal are similar. True or False?
+Answer:","[' True', ' False']",1
+"donald glaser and donald arthur glaser are similar. True or False?
+Answer:","[' True', ' False']",0
+"non sequential and sequential are similar. True or False?
+Answer:","[' True', ' False']",1
+"womanise and philander are similar. True or False?
+Answer:","[' True', ' False']",0
+"anthurium and flamingo flower are similar. True or False?
+Answer:","[' True', ' False']",0
+"stentless and stented are similar. True or False?
+Answer:","[' True', ' False']",1
+"peaceful and violent are similar. True or False?
+Answer:","[' True', ' False']",1
+"heterophobia and homophobia are similar. True or False?
+Answer:","[' True', ' False']",1
+"small screen and big screen are similar. True or False?
+Answer:","[' True', ' False']",1
+"real capital and financial capital are similar. True or False?
+Answer:","[' True', ' False']",1
+"catboat and una boat are similar. True or False?
+Answer:","[' True', ' False']",0
+"inattentive and absent minded are similar. True or False?
+Answer:","[' True', ' False']",0
+"laxism and rigorism are similar. True or False?
+Answer:","[' True', ' False']",1
+"nonidiomatic and idiomatic are similar. True or False?
+Answer:","[' True', ' False']",1
+"limb and whole are similar. True or False?
+Answer:","[' True', ' False']",1
+"hussy and adulteress are similar. True or False?
+Answer:","[' True', ' False']",0
+"ferocity and fierceness are similar. True or False?
+Answer:","[' True', ' False']",0
+"daikon and lo bak are similar. True or False?
+Answer:","[' True', ' False']",0
+"slop pail and loo are similar. True or False?
+Answer:","[' True', ' False']",0
+"torment and rack are similar. True or False?
+Answer:","[' True', ' False']",0
+"quenchable and inextinguishable are similar. True or False?
+Answer:","[' True', ' False']",1
+"dumb and smart are similar. True or False?
+Answer:","[' True', ' False']",1
+"live and die are similar. True or False?
+Answer:","[' True', ' False']",1
+"hefemale and shemale are similar. True or False?
+Answer:","[' True', ' False']",1
+"compos mentis and non compos mentis are similar. True or False?
+Answer:","[' True', ' False']",1
+"unconditionally and in any case are similar. True or False?
+Answer:","[' True', ' False']",0
+"come after and succeed are similar. True or False?
+Answer:","[' True', ' False']",0
+"singlecast delegate and multicast delegate are similar. True or False?
+Answer:","[' True', ' False']",1
+"phylum porifera and porifera are similar. True or False?
+Answer:","[' True', ' False']",0
+"both and neither are similar. True or False?
+Answer:","[' True', ' False']",1
+"unnamed and named are similar. True or False?
+Answer:","[' True', ' False']",1
+"dress and undress are similar. True or False?
+Answer:","[' True', ' False']",1
+"limited and infinite are similar. True or False?
+Answer:","[' True', ' False']",1
+"zippy and bouncing are similar. True or False?
+Answer:","[' True', ' False']",0
+"third rail and conductor rail are similar. True or False?
+Answer:","[' True', ' False']",0
+"large intestine and large bowel are similar. True or False?
+Answer:","[' True', ' False']",0
+"lowercamelcase and uppercamelcase are similar. True or False?
+Answer:","[' True', ' False']",1
+"uh uh and uh huh are similar. True or False?
+Answer:","[' True', ' False']",1
+"michel montaigne and michel eyquem montaigne are similar. True or False?
+Answer:","[' True', ' False']",0
+"grocer's and grocery store are similar. True or False?
+Answer:","[' True', ' False']",0
+"moirai and moirae are similar. True or False?
+Answer:","[' True', ' False']",0
+"bad egg and good egg are similar. True or False?
+Answer:","[' True', ' False']",1
+"elastance and capacitance are similar. True or False?
+Answer:","[' True', ' False']",1
+"cis acting and trans acting are similar. True or False?
+Answer:","[' True', ' False']",1
+"gasogenous and liquidogenous are similar. True or False?
+Answer:","[' True', ' False']",1
+"filipino and filipina are similar. True or False?
+Answer:","[' True', ' False']",1
+"friendship and foeship are similar. True or False?
+Answer:","[' True', ' False']",1
+"word painting and word picture are similar. True or False?
+Answer:","[' True', ' False']",0
+"outstroke and instroke are similar. True or False?
+Answer:","[' True', ' False']",1
+"minionette and emerald are similar. True or False?
+Answer:","[' True', ' False']",0
+"produce and destroy are similar. True or False?
+Answer:","[' True', ' False']",1
+"zinkist and cornettist are similar. True or False?
+Answer:","[' True', ' False']",0
+"bicycle and cycle are similar. True or False?
+Answer:","[' True', ' False']",0
+"suggestion and hint are similar. True or False?
+Answer:","[' True', ' False']",0
+"liquid and gas are similar. True or False?
+Answer:","[' True', ' False']",1
+"tin and canister are similar. True or False?
+Answer:","[' True', ' False']",0
+"same and unique are similar. True or False?
+Answer:","[' True', ' False']",1
+"suddenness and abruptness are similar. True or False?
+Answer:","[' True', ' False']",0
+"plu and nokd are similar. True or False?
+Answer:","[' True', ' False']",1
+"underground railway and underground railroad are similar. True or False?
+Answer:","[' True', ' False']",0
+"line and flax are similar. True or False?
+Answer:","[' True', ' False']",0
+"rule and serve are similar. True or False?
+Answer:","[' True', ' False']",1
+"furnish and move out are similar. True or False?
+Answer:","[' True', ' False']",1
+"ghost bat and false vampire bat are similar. True or False?
+Answer:","[' True', ' False']",0
+"asthma attack and asthmatic attack are similar. True or False?
+Answer:","[' True', ' False']",0
+"primer and fuse are similar. True or False?
+Answer:","[' True', ' False']",0
+"beguiler and charmer are similar. True or False?
+Answer:","[' True', ' False']",0
+"coolness and calmness are similar. True or False?
+Answer:","[' True', ' False']",0
+"prolepsis and syllepsis are similar. True or False?
+Answer:","[' True', ' False']",1
+"my lord duke and your grace are similar. True or False?
+Answer:","[' True', ' False']",0
+"james crichton and admirable crichton are similar. True or False?
+Answer:","[' True', ' False']",0
+"hard boiled and case hardened are similar. True or False?
+Answer:","[' True', ' False']",0
+"bad trip and euphoria are similar. True or False?
+Answer:","[' True', ' False']",1
+"black vulture and eurasian black vulture are similar. True or False?
+Answer:","[' True', ' False']",0
+"striated muscle and smooth muscle are similar. True or False?
+Answer:","[' True', ' False']",1
+"distinguishable and mistakable are similar. True or False?
+Answer:","[' True', ' False']",1
+"caponise and caponize are similar. True or False?
+Answer:","[' True', ' False']",0
+"reconcilable and inreconcilable are similar. True or False?
+Answer:","[' True', ' False']",1
+"lift and set down are similar. True or False?
+Answer:","[' True', ' False']",1
+"analog and digital are similar. True or False?
+Answer:","[' True', ' False']",1
+"mexican freetail bat and guano bat are similar. True or False?
+Answer:","[' True', ' False']",0
+"spur and goad are similar. True or False?
+Answer:","[' True', ' False']",0
+"chinook wind and chinook are similar. True or False?
+Answer:","[' True', ' False']",0
+"right handed and left handed are similar. True or False?
+Answer:","[' True', ' False']",1
+"ruling and opinion are similar. True or False?
+Answer:","[' True', ' False']",0
+"winding clothes and pall are similar. True or False?
+Answer:","[' True', ' False']",0
+"doll and action figure are similar. True or False?
+Answer:","[' True', ' False']",1
+"coolidge and president coolidge are similar. True or False?
+Answer:","[' True', ' False']",0
+"hunchback and stooped are similar. True or False?
+Answer:","[' True', ' False']",0
+"timeless and finite are similar. True or False?
+Answer:","[' True', ' False']",1
+"compile time and run time are similar. True or False?
+Answer:","[' True', ' False']",1
+"standstill and deadlock are similar. True or False?
+Answer:","[' True', ' False']",0
+"cainophobia and neophobia are similar. True or False?
+Answer:","[' True', ' False']",0
+"congratulate and felicitate are similar. True or False?
+Answer:","[' True', ' False']",0
+"test and recess are similar. True or False?
+Answer:","[' True', ' False']",1
+"hypokalemic and hyperkalemic are similar. True or False?
+Answer:","[' True', ' False']",1
+"wound and injury are similar. True or False?
+Answer:","[' True', ' False']",0
+"swedish rye and swedish rye bread are similar. True or False?
+Answer:","[' True', ' False']",0
+"voltaic and voltan are similar. True or False?
+Answer:","[' True', ' False']",0
+"with regret and regretfully are similar. True or False?
+Answer:","[' True', ' False']",0
+"multicast and singlecast are similar. True or False?
+Answer:","[' True', ' False']",1
+"cinnamon bark and cinnamon are similar. True or False?
+Answer:","[' True', ' False']",0
+"legalise and criminalise are similar. True or False?
+Answer:","[' True', ' False']",1
+"homodox and heterodox are similar. True or False?
+Answer:","[' True', ' False']",1
+"vulnerable and durable are similar. True or False?
+Answer:","[' True', ' False']",1
+"unchallenging and challenging are similar. True or False?
+Answer:","[' True', ' False']",1
+"fill up and permeate are similar. True or False?
+Answer:","[' True', ' False']",0
+"color and colour are similar. True or False?
+Answer:","[' True', ' False']",0
+"nonquantitative and quantitative are similar. True or False?
+Answer:","[' True', ' False']",1
+"offsetting balance and compensating balance are similar. True or False?
+Answer:","[' True', ' False']",0
+"precursor and postcursor are similar. True or False?
+Answer:","[' True', ' False']",1
+"livid and black and blue are similar. True or False?
+Answer:","[' True', ' False']",0
+"exactly and approximately are similar. True or False?
+Answer:","[' True', ' False']",1
+"anxiolytic and anxiogenic are similar. True or False?
+Answer:","[' True', ' False']",1
+"halt and stem are similar. True or False?
+Answer:","[' True', ' False']",0
+"appearance and disappearance are similar. True or False?
+Answer:","[' True', ' False']",1
+"horizontally and vertically are similar. True or False?
+Answer:","[' True', ' False']",1
+"flabbergast and baffle are similar. True or False?
+Answer:","[' True', ' False']",0
+"skywards and landward are similar. True or False?
+Answer:","[' True', ' False']",1
+"work like horse and work like trojan are similar. True or False?
+Answer:","[' True', ' False']",0
+"croatian sheepdog and croatian shepherd dog are similar. True or False?
+Answer:","[' True', ' False']",0
+"ineffable and indescribable are similar. True or False?
+Answer:","[' True', ' False']",0
+"initial object and terminal object are similar. True or False?
+Answer:","[' True', ' False']",1
+"wait and proceed are similar. True or False?
+Answer:","[' True', ' False']",1
+"boo and cheer are similar. True or False?
+Answer:","[' True', ' False']",1
+"fourth part and one fourth are similar. True or False?
+Answer:","[' True', ' False']",0
+"unsnib and unfasten are similar. True or False?
+Answer:","[' True', ' False']",0
+"raw and sensitive are similar. True or False?
+Answer:","[' True', ' False']",0
+"crew and staff are similar. True or False?
+Answer:","[' True', ' False']",0
+"transit declinometer and declinometer are similar. True or False?
+Answer:","[' True', ' False']",0
+"boeuf fondu bourguignon and beef fondue are similar. True or False?
+Answer:","[' True', ' False']",0
+"watch guard and fob are similar. True or False?
+Answer:","[' True', ' False']",0
+"outraged and umbrageous are similar. True or False?
+Answer:","[' True', ' False']",0
+"moisturize and dehumidify are similar. True or False?
+Answer:","[' True', ' False']",1
+"acquire and accomplish are similar. True or False?
+Answer:","[' True', ' False']",0
+"remain down and take count are similar. True or False?
+Answer:","[' True', ' False']",0
+"off air and on air are similar. True or False?
+Answer:","[' True', ' False']",1
+"magnetisation and demagnetisation are similar. True or False?
+Answer:","[' True', ' False']",1
+"tshatshke and chachka are similar. True or False?
+Answer:","[' True', ' False']",0
+"giddy and featherbrained are similar. True or False?
+Answer:","[' True', ' False']",0
+"poultry and domestic fowl are similar. True or False?
+Answer:","[' True', ' False']",0
+"purcell and henry purcell are similar. True or False?
+Answer:","[' True', ' False']",0
+"transgendered and transsexual are similar. True or False?
+Answer:","[' True', ' False']",0
+"stepdaughter and stepson are similar. True or False?
+Answer:","[' True', ' False']",1
+"concave and convex are similar. True or False?
+Answer:","[' True', ' False']",1
+"abductive and deduce are similar. True or False?
+Answer:","[' True', ' False']",1
+"border and boundary are similar. True or False?
+Answer:","[' True', ' False']",0
+"googleable and ungoogleable are similar. True or False?
+Answer:","[' True', ' False']",1
+"first past post and plurality voting are similar. True or False?
+Answer:","[' True', ' False']",0
+"genus amia and amia are similar. True or False?
+Answer:","[' True', ' False']",0
+"finite and endless are similar. True or False?
+Answer:","[' True', ' False']",1
+"speciose and oligospecific are similar. True or False?
+Answer:","[' True', ' False']",1
+"vulnerability and invulnerability are similar. True or False?
+Answer:","[' True', ' False']",1
+"clearness and opaqueness are similar. True or False?
+Answer:","[' True', ' False']",1
+"hypothesis and fact are similar. True or False?
+Answer:","[' True', ' False']",1
+"bless and unbless are similar. True or False?
+Answer:","[' True', ' False']",1
+"drop and pick up are similar. True or False?
+Answer:","[' True', ' False']",1
+"brim and hilt are similar. True or False?
+Answer:","[' True', ' False']",0
+"twinling and doublet are similar. True or False?
+Answer:","[' True', ' False']",0
+"smash and together are similar. True or False?
+Answer:","[' True', ' False']",1
+"vitalist and physicist are similar. True or False?
+Answer:","[' True', ' False']",1
+"family athiorhodaceae and athiorhodaceae are similar. True or False?
+Answer:","[' True', ' False']",0
+"superintelligent and hyperintelligent are similar. True or False?
+Answer:","[' True', ' False']",0
+"fearless and frightless are similar. True or False?
+Answer:","[' True', ' False']",0
+"blow and vacuum are similar. True or False?
+Answer:","[' True', ' False']",1
+"credibly and incredibly are similar. True or False?
+Answer:","[' True', ' False']",1
+"enfeeble and strengthen are similar. True or False?
+Answer:","[' True', ' False']",1
+"beneficence and maleficence are similar. True or False?
+Answer:","[' True', ' False']",1
+"unreasonable and reasonable are similar. True or False?
+Answer:","[' True', ' False']",1
+"delegacy and representation are similar. True or False?
+Answer:","[' True', ' False']",0
+"generalized seizure and grand mal are similar. True or False?
+Answer:","[' True', ' False']",0
+"windiness and prolixity are similar. True or False?
+Answer:","[' True', ' False']",0
+"agency and instrumentality are similar. True or False?
+Answer:","[' True', ' False']",0
+"walk and ride are similar. True or False?
+Answer:","[' True', ' False']",1
+"pleasure seeker and hedonist are similar. True or False?
+Answer:","[' True', ' False']",0
+"unsequestered and sequestered are similar. True or False?
+Answer:","[' True', ' False']",1
+"undo and redo are similar. True or False?
+Answer:","[' True', ' False']",1
+"erotic and titillating are similar. True or False?
+Answer:","[' True', ' False']",0
+"suitable and fit for purpose are similar. True or False?
+Answer:","[' True', ' False']",0
+"chop and finely are similar. True or False?
+Answer:","[' True', ' False']",1
+"quidnunc and busybody are similar. True or False?
+Answer:","[' True', ' False']",0
+"symptomatic and asymptomatic are similar. True or False?
+Answer:","[' True', ' False']",1
+"brickfield and brickyard are similar. True or False?
+Answer:","[' True', ' False']",0
+"that and here are similar. True or False?
+Answer:","[' True', ' False']",1
+"new and accustomed are similar. True or False?
+Answer:","[' True', ' False']",1
+"desalt and salt are similar. True or False?
+Answer:","[' True', ' False']",1
+"join and leave are similar. True or False?
+Answer:","[' True', ' False']",1
+"empire and anarchy are similar. True or False?
+Answer:","[' True', ' False']",1
+"genus taurotragus and taurotragus are similar. True or False?
+Answer:","[' True', ' False']",0
+"supported and unsupported are similar. True or False?
+Answer:","[' True', ' False']",1
+"hypersexuality and hyposexuality are similar. True or False?
+Answer:","[' True', ' False']",1
+"conclude and gather are similar. True or False?
+Answer:","[' True', ' False']",0
+"sappily and sentimentally are similar. True or False?
+Answer:","[' True', ' False']",0
+"acacia pycnantha and golden wattle are similar. True or False?
+Answer:","[' True', ' False']",0
+"indigence and affluence are similar. True or False?
+Answer:","[' True', ' False']",1
+"theme and rheme are similar. True or False?
+Answer:","[' True', ' False']",1
+"godfearing and religious are similar. True or False?
+Answer:","[' True', ' False']",0
+"break and putting together are similar. True or False?
+Answer:","[' True', ' False']",1
+"ingenu and homme fatale are similar. True or False?
+Answer:","[' True', ' False']",1
+"turn tail and run are similar. True or False?
+Answer:","[' True', ' False']",0
+"backbencher and frontbencher are similar. True or False?
+Answer:","[' True', ' False']",1
+"sewer and above are similar. True or False?
+Answer:","[' True', ' False']",1
+"turbocharger and turbo are similar. True or False?
+Answer:","[' True', ' False']",0
+"javaee and javase are similar. True or False?
+Answer:","[' True', ' False']",1
+"cup of joe and cup of coffee are similar. True or False?
+Answer:","[' True', ' False']",0
+"guard and protected are similar. True or False?
+Answer:","[' True', ' False']",1
+"glimpse and study are similar. True or False?
+Answer:","[' True', ' False']",1
+"diametric and diametrical are similar. True or False?
+Answer:","[' True', ' False']",0
+"upload and download are similar. True or False?
+Answer:","[' True', ' False']",1
+"sealer and seal hunter are similar. True or False?
+Answer:","[' True', ' False']",0
+"orangeberry and gin berry are similar. True or False?
+Answer:","[' True', ' False']",0
+"fabric softener and fabric conditioner are similar. True or False?
+Answer:","[' True', ' False']",0
+"relevancy and irrelevancy are similar. True or False?
+Answer:","[' True', ' False']",1
+"southernmost and northernmost are similar. True or False?
+Answer:","[' True', ' False']",1
+"glaring and blinding are similar. True or False?
+Answer:","[' True', ' False']",0
+"blind alley and dead end are similar. True or False?
+Answer:","[' True', ' False']",0
+"everybody and nobody are similar. True or False?
+Answer:","[' True', ' False']",1
+"afternoon and lunch are similar. True or False?
+Answer:","[' True', ' False']",1
+"affaire and affair are similar. True or False?
+Answer:","[' True', ' False']",0
+"batter and dinge are similar. True or False?
+Answer:","[' True', ' False']",0
+"alphasyllabary and abugida are similar. True or False?
+Answer:","[' True', ' False']",0
+"cost and benefit are similar. True or False?
+Answer:","[' True', ' False']",1
+"hypoactive and hyperactive are similar. True or False?
+Answer:","[' True', ' False']",1
+"crown and tiara are similar. True or False?
+Answer:","[' True', ' False']",1
+"mannish and butch are similar. True or False?
+Answer:","[' True', ' False']",0
+"appositively and in apposition are similar. True or False?
+Answer:","[' True', ' False']",0
+"critical and important are similar. True or False?
+Answer:","[' True', ' False']",0
+"guy and girl are similar. True or False?
+Answer:","[' True', ' False']",1
+"bear and cub are similar. True or False?
+Answer:","[' True', ' False']",1
+"clumping and clippety clop are similar. True or False?
+Answer:","[' True', ' False']",0
+"blow and breathe in are similar. True or False?
+Answer:","[' True', ' False']",1
+"quiet and sounded are similar. True or False?
+Answer:","[' True', ' False']",1
+"unfannish and fannish are similar. True or False?
+Answer:","[' True', ' False']",1
+"cacoepy and orthoepy are similar. True or False?
+Answer:","[' True', ' False']",1
+"purging and vomiting are similar. True or False?
+Answer:","[' True', ' False']",0
+"tumultuous and untumultuous are similar. True or False?
+Answer:","[' True', ' False']",1
+"crane's bill and cranesbill are similar. True or False?
+Answer:","[' True', ' False']",0
+"come on and bait are similar. True or False?
+Answer:","[' True', ' False']",0
+"numbered list and bulleted list are similar. True or False?
+Answer:","[' True', ' False']",1
+"nonpositive and positive are similar. True or False?
+Answer:","[' True', ' False']",1
+"paraphiliac and normophile are similar. True or False?
+Answer:","[' True', ' False']",1
+"unfathomable and explicable are similar. True or False?
+Answer:","[' True', ' False']",1
+"bless and desecrate are similar. True or False?
+Answer:","[' True', ' False']",1
+"lycopod and club moss are similar. True or False?
+Answer:","[' True', ' False']",0
+"genus leontodon and leontodon are similar. True or False?
+Answer:","[' True', ' False']",0
+"possibilist and actualist are similar. True or False?
+Answer:","[' True', ' False']",1
+"short sighted and farsighted are similar. True or False?
+Answer:","[' True', ' False']",1
+"captain and crew are similar. True or False?
+Answer:","[' True', ' False']",1
+"dawson's encephalitis and subacute sclerosing panencephalitis are similar. True or False?
+Answer:","[' True', ' False']",0
+"mistrust and trust are similar. True or False?
+Answer:","[' True', ' False']",1
+"biological and biologic are similar. True or False?
+Answer:","[' True', ' False']",0
+"battle and encounter are similar. True or False?
+Answer:","[' True', ' False']",0
+"open sandwich and sandwich are similar. True or False?
+Answer:","[' True', ' False']",0
+"tie knot and get hitched are similar. True or False?
+Answer:","[' True', ' False']",0
+"cdesign proponentsist and creotard are similar. True or False?
+Answer:","[' True', ' False']",0
+"loth and loath are similar. True or False?
+Answer:","[' True', ' False']",0
+"thump and thud are similar. True or False?
+Answer:","[' True', ' False']",0
+"sharp shinned hawk and accipiter velox are similar. True or False?
+Answer:","[' True', ' False']",0
+"unqualified and qualified are similar. True or False?
+Answer:","[' True', ' False']",1
+"allo and auto are similar. True or False?
+Answer:","[' True', ' False']",1
+"heterogamous and heterogene are similar. True or False?
+Answer:","[' True', ' False']",0
+"shreddable and unshreddable are similar. True or False?
+Answer:","[' True', ' False']",1
+"local and fast are similar. True or False?
+Answer:","[' True', ' False']",1
+"composite and complex are similar. True or False?
+Answer:","[' True', ' False']",0
+"employ and redundant are similar. True or False?
+Answer:","[' True', ' False']",1
+"interconnect and join are similar. True or False?
+Answer:","[' True', ' False']",0
+"easy money and tight money are similar. True or False?
+Answer:","[' True', ' False']",1
+"tautoga onitis and tautog are similar. True or False?
+Answer:","[' True', ' False']",0
+"grandly and regally are similar. True or False?
+Answer:","[' True', ' False']",0
+"impoverished and beggarly are similar. True or False?
+Answer:","[' True', ' False']",0
+"morning and night time are similar. True or False?
+Answer:","[' True', ' False']",1
+"sinister and dexter are similar. True or False?
+Answer:","[' True', ' False']",1
+"swine fever and pig plague are similar. True or False?
+Answer:","[' True', ' False']",0
+"home and abroad are similar. True or False?
+Answer:","[' True', ' False']",1
+"predose and postdose are similar. True or False?
+Answer:","[' True', ' False']",1
+"de jure and de facto are similar. True or False?
+Answer:","[' True', ' False']",1
+"current and out of date are similar. True or False?
+Answer:","[' True', ' False']",1
+"familiar and strange are similar. True or False?
+Answer:","[' True', ' False']",1
+"distinct and confusing are similar. True or False?
+Answer:","[' True', ' False']",1
+"fast and loosely are similar. True or False?
+Answer:","[' True', ' False']",1
+"snow blind and snow blinded are similar. True or False?
+Answer:","[' True', ' False']",0
+"stick and log are similar. True or False?
+Answer:","[' True', ' False']",1
+"foe and bethe are similar. True or False?
+Answer:","[' True', ' False']",0
+"greenline and redline are similar. True or False?
+Answer:","[' True', ' False']",1
+"organic law and fundamental law are similar. True or False?
+Answer:","[' True', ' False']",0
+"through floor and through roof are similar. True or False?
+Answer:","[' True', ' False']",1
+"right and left are similar. True or False?
+Answer:","[' True', ' False']",1
+"lifespan and lifetime are similar. True or False?
+Answer:","[' True', ' False']",0
+"cement board and backer board are similar. True or False?
+Answer:","[' True', ' False']",0
+"restaurant and dining are similar. True or False?
+Answer:","[' True', ' False']",1
+"pitot head and pitot tube are similar. True or False?
+Answer:","[' True', ' False']",0
+"sheep and expensive are similar. True or False?
+Answer:","[' True', ' False']",1
+"iron bomb and smart bomb are similar. True or False?
+Answer:","[' True', ' False']",1
+"nephew in law and niece in law are similar. True or False?
+Answer:","[' True', ' False']",1
+"parasitemic and aparasitemic are similar. True or False?
+Answer:","[' True', ' False']",1
+"unalterable and changeable are similar. True or False?
+Answer:","[' True', ' False']",1
+"table and chair are similar. True or False?
+Answer:","[' True', ' False']",1
+"philodox and philosopher are similar. True or False?
+Answer:","[' True', ' False']",1
+"witting and unwitting are similar. True or False?
+Answer:","[' True', ' False']",1
+"pocket and pot are similar. True or False?
+Answer:","[' True', ' False']",0
+"autonym and xenonym are similar. True or False?
+Answer:","[' True', ' False']",1
+"holonymy and meronymy are similar. True or False?
+Answer:","[' True', ' False']",1
+"hairy and hairless are similar. True or False?
+Answer:","[' True', ' False']",1
+"not to mention and say nothing of are similar. True or False?
+Answer:","[' True', ' False']",0
+"bullish and bearish are similar. True or False?
+Answer:","[' True', ' False']",1
+"endovert and exovert are similar. True or False?
+Answer:","[' True', ' False']",1
+"traceable and untraceable are similar. True or False?
+Answer:","[' True', ' False']",1
+"hook and callback are similar. True or False?
+Answer:","[' True', ' False']",0
+"nullifidian and solifidian are similar. True or False?
+Answer:","[' True', ' False']",1
+"disowning and disownment are similar. True or False?
+Answer:","[' True', ' False']",0
+"freshwater and seawater are similar. True or False?
+Answer:","[' True', ' False']",1
+"ampere and amp are similar. True or False?
+Answer:","[' True', ' False']",0
+"evidence and attest are similar. True or False?
+Answer:","[' True', ' False']",0
+"exiguity and meagerness are similar. True or False?
+Answer:","[' True', ' False']",0
+"macromechanical and micromechanical are similar. True or False?
+Answer:","[' True', ' False']",1
+"ring true and ring false are similar. True or False?
+Answer:","[' True', ' False']",1
+"sub and under are similar. True or False?
+Answer:","[' True', ' False']",0
+"wading bird and wader are similar. True or False?
+Answer:","[' True', ' False']",0
+"shortsighted and farsighted are similar. True or False?
+Answer:","[' True', ' False']",1
+"mentally retarded and mentally challenged are similar. True or False?
+Answer:","[' True', ' False']",0
+"night owl and lark are similar. True or False?
+Answer:","[' True', ' False']",1
+"opportunivore and opportunist are similar. True or False?
+Answer:","[' True', ' False']",0
+"rise and descend are similar. True or False?
+Answer:","[' True', ' False']",1
+"susurrus and susurration are similar. True or False?
+Answer:","[' True', ' False']",0
+"dhava and dhawa are similar. True or False?
+Answer:","[' True', ' False']",0
+"abrogate and establish are similar. True or False?
+Answer:","[' True', ' False']",1
+"invoke and solicit are similar. True or False?
+Answer:","[' True', ' False']",0
+"empire and federation are similar. True or False?
+Answer:","[' True', ' False']",1
+"double blind experiment and double blind procedure are similar. True or False?
+Answer:","[' True', ' False']",0
+"destructive criticism and constructive criticism are similar. True or False?
+Answer:","[' True', ' False']",1
+"yearner and longer are similar. True or False?
+Answer:","[' True', ' False']",0
+"reasonably and moderately are similar. True or False?
+Answer:","[' True', ' False']",0
+"elaborated and unelaborated are similar. True or False?
+Answer:","[' True', ' False']",1
+"nitroglycerine and glycerine trinitrate are similar. True or False?
+Answer:","[' True', ' False']",0
+"scallywag and rascal are similar. True or False?
+Answer:","[' True', ' False']",0
+"oldfag and newbie are similar. True or False?
+Answer:","[' True', ' False']",1
+"antonymous and synonymous are similar. True or False?
+Answer:","[' True', ' False']",1
+"coral wood and coralwood are similar. True or False?
+Answer:","[' True', ' False']",0
+"federal and federal official are similar. True or False?
+Answer:","[' True', ' False']",0
+"downswing and downturn are similar. True or False?
+Answer:","[' True', ' False']",0
+"jump and caper are similar. True or False?
+Answer:","[' True', ' False']",0
+"breathalyser and breathalyzer are similar. True or False?
+Answer:","[' True', ' False']",0
+"n speed automatic and standard transmission are similar. True or False?
+Answer:","[' True', ' False']",1
+"denial and defense are similar. True or False?
+Answer:","[' True', ' False']",0
+"proven and disproven are similar. True or False?
+Answer:","[' True', ' False']",1
+"nonpracticing and religious are similar. True or False?
+Answer:","[' True', ' False']",1
+"homosubspecific and heterosubspecific are similar. True or False?
+Answer:","[' True', ' False']",1
+"antidiagonal and secondary diagonal are similar. True or False?
+Answer:","[' True', ' False']",0
+"skimpy and scant are similar. True or False?
+Answer:","[' True', ' False']",0
+"bogie and bogey are similar. True or False?
+Answer:","[' True', ' False']",0
+"hold tight and break lance are similar. True or False?
+Answer:","[' True', ' False']",0
+"magnolia grandiflora and southern magnolia are similar. True or False?
+Answer:","[' True', ' False']",0
+"marine aerodrome and seaplane base are similar. True or False?
+Answer:","[' True', ' False']",0
+"demineralize and mineralize are similar. True or False?
+Answer:","[' True', ' False']",1
+"inclined and disinclined are similar. True or False?
+Answer:","[' True', ' False']",1
+"canada and neighbor to north are similar. True or False?
+Answer:","[' True', ' False']",0
+"hazardously and dangerously are similar. True or False?
+Answer:","[' True', ' False']",0
+"infinite and infinitesimal are similar. True or False?
+Answer:","[' True', ' False']",1
+"tail gunner and tail end charlie are similar. True or False?
+Answer:","[' True', ' False']",0
+"duplicate and twin are similar. True or False?
+Answer:","[' True', ' False']",0
+"doth and does are similar. True or False?
+Answer:","[' True', ' False']",0
+"dynamic permeability and intrinsic permeability are similar. True or False?
+Answer:","[' True', ' False']",1
+"in any case and unconditionally are similar. True or False?
+Answer:","[' True', ' False']",0
+"underfix and overfix are similar. True or False?
+Answer:","[' True', ' False']",1
+"praesidium and presidium are similar. True or False?
+Answer:","[' True', ' False']",0
+"battle of shiloh and shiloh are similar. True or False?
+Answer:","[' True', ' False']",0
+"overcorrection and undercorrection are similar. True or False?
+Answer:","[' True', ' False']",1
+"i don't know and i know are similar. True or False?
+Answer:","[' True', ' False']",1
+"never and happen are similar. True or False?
+Answer:","[' True', ' False']",1
+"soft science fiction and hard science fiction are similar. True or False?
+Answer:","[' True', ' False']",1
+"cotton on and glom on are similar. True or False?
+Answer:","[' True', ' False']",0
+"attestor and witness are similar. True or False?
+Answer:","[' True', ' False']",0
+"familiarisation and familiarization are similar. True or False?
+Answer:","[' True', ' False']",0
+"multi platform and single platform are similar. True or False?
+Answer:","[' True', ' False']",1
+"blue and orange are similar. True or False?
+Answer:","[' True', ' False']",1
+"sick and crap are similar. True or False?
+Answer:","[' True', ' False']",1
+"blacken and whiten are similar. True or False?
+Answer:","[' True', ' False']",1
+"base and acid are similar. True or False?
+Answer:","[' True', ' False']",1
+"family ophidiidae and ophidiidae are similar. True or False?
+Answer:","[' True', ' False']",0
+"postconsonantally and postvocalically are similar. True or False?
+Answer:","[' True', ' False']",1
+"easiness and ease are similar. True or False?
+Answer:","[' True', ' False']",0
+"change and bills are similar. True or False?
+Answer:","[' True', ' False']",1
+"goatlike and goaten are similar. True or False?
+Answer:","[' True', ' False']",0
+"variatus platy and variable platy are similar. True or False?
+Answer:","[' True', ' False']",0
+"metastasise and metastasize are similar. True or False?
+Answer:","[' True', ' False']",0
+"editorialise and editorialize are similar. True or False?
+Answer:","[' True', ' False']",0
+"outcast and outsider are similar. True or False?
+Answer:","[' True', ' False']",0
+"roundly and completely are similar. True or False?
+Answer:","[' True', ' False']",0
+"genus veratrum and veratrum are similar. True or False?
+Answer:","[' True', ' False']",0
+"undermine and sabotage are similar. True or False?
+Answer:","[' True', ' False']",0
+"reactions and reax are similar. True or False?
+Answer:","[' True', ' False']",0
+"cast anchor and weigh anchor are similar. True or False?
+Answer:","[' True', ' False']",1
+"suit and become are similar. True or False?
+Answer:","[' True', ' False']",0
+"timpani and kettledrums are similar. True or False?
+Answer:","[' True', ' False']",0
+"barium sulphate and heavy spar are similar. True or False?
+Answer:","[' True', ' False']",0
+"let and tell reversed are similar. True or False?
+Answer:","[' True', ' False']",1
+"least and most are similar. True or False?
+Answer:","[' True', ' False']",1
+"incrementation and decrementation are similar. True or False?
+Answer:","[' True', ' False']",1
+"scotophase and photophase are similar. True or False?
+Answer:","[' True', ' False']",1
+"gnarled and knobbly are similar. True or False?
+Answer:","[' True', ' False']",0
+"colpoplasty and vaginoplasty are similar. True or False?
+Answer:","[' True', ' False']",0
+"emerge and appear are similar. True or False?
+Answer:","[' True', ' False']",0
+"point and plane are similar. True or False?
+Answer:","[' True', ' False']",1
+"quid and quid pro quo are similar. True or False?
+Answer:","[' True', ' False']",0
+"open source and closed source are similar. True or False?
+Answer:","[' True', ' False']",1
+"elevation and demotion are similar. True or False?
+Answer:","[' True', ' False']",1
+"talk and mute are similar. True or False?
+Answer:","[' True', ' False']",1
+"trinitarian and nontrinitarian are similar. True or False?
+Answer:","[' True', ' False']",1
+"pitcher's count and hitter's count are similar. True or False?
+Answer:","[' True', ' False']",1
+"affair and relationship are similar. True or False?
+Answer:","[' True', ' False']",1
+"micropenis and macropenis are similar. True or False?
+Answer:","[' True', ' False']",1
+"inflammable and nonflammable are similar. True or False?
+Answer:","[' True', ' False']",1
+"friend and foe are similar. True or False?
+Answer:","[' True', ' False']",1
+"irrecognizable and unrecognizable are similar. True or False?
+Answer:","[' True', ' False']",0
+"impatience and haste are similar. True or False?
+Answer:","[' True', ' False']",1
+"park and building are similar. True or False?
+Answer:","[' True', ' False']",1
+"sterile neutrino and sterile antineutrino are similar. True or False?
+Answer:","[' True', ' False']",1
+"harsh and strict are similar. True or False?
+Answer:","[' True', ' False']",0
+"macroclemys temmincki and alligator snapping turtle are similar. True or False?
+Answer:","[' True', ' False']",0
+"centumization and satemization are similar. True or False?
+Answer:","[' True', ' False']",1
+"fantastic and foolish are similar. True or False?
+Answer:","[' True', ' False']",0
+"korean radish and daikon are similar. True or False?
+Answer:","[' True', ' False']",0
+"trihydridoaluminium and alumane are similar. True or False?
+Answer:","[' True', ' False']",0
+"well favoured and better looking are similar. True or False?
+Answer:","[' True', ' False']",0
+"cautious and incautious are similar. True or False?
+Answer:","[' True', ' False']",1
+"home and foreign are similar. True or False?
+Answer:","[' True', ' False']",1
+"true and false are similar. True or False?
+Answer:","[' True', ' False']",1
+"orad and aboral are similar. True or False?
+Answer:","[' True', ' False']",1
+"counterblow and return are similar. True or False?
+Answer:","[' True', ' False']",0
+"countercry and countercall are similar. True or False?
+Answer:","[' True', ' False']",0
+"immiscible and miscible are similar. True or False?
+Answer:","[' True', ' False']",1
+"bright and inspiring are similar. True or False?
+Answer:","[' True', ' False']",0
+"boatman and boatsman are similar. True or False?
+Answer:","[' True', ' False']",0
+"supply teacher and substitute teacher are similar. True or False?
+Answer:","[' True', ' False']",0
+"scoriac and scoriaceous are similar. True or False?
+Answer:","[' True', ' False']",0
+"handcar and pump car are similar. True or False?
+Answer:","[' True', ' False']",0
+"rolling paper and cigarette paper are similar. True or False?
+Answer:","[' True', ' False']",0
+"cross and interfere are similar. True or False?
+Answer:","[' True', ' False']",0
+"tenebrionid and darkling beetle are similar. True or False?
+Answer:","[' True', ' False']",0
+"pine torch and ocote torch are similar. True or False?
+Answer:","[' True', ' False']",0
+"hood and icity are similar. True or False?
+Answer:","[' True', ' False']",0
+"pair and single are similar. True or False?
+Answer:","[' True', ' False']",1
+"spoilt and eatable are similar. True or False?
+Answer:","[' True', ' False']",1
+"unsymmetrical and unsymmetric are similar. True or False?
+Answer:","[' True', ' False']",0
+"affricative and affricate are similar. True or False?
+Answer:","[' True', ' False']",0
+"entry and access are similar. True or False?
+Answer:","[' True', ' False']",0
+"desexualizer and sexualizer are similar. True or False?
+Answer:","[' True', ' False']",1
+"bottom pair and top pair are similar. True or False?
+Answer:","[' True', ' False']",1
+"cover and naked are similar. True or False?
+Answer:","[' True', ' False']",1
+"bio oil and biocrude are similar. True or False?
+Answer:","[' True', ' False']",0
+"koala and native bear are similar. True or False?
+Answer:","[' True', ' False']",0
+"work and lazy are similar. True or False?
+Answer:","[' True', ' False']",1
+"disappear and dematerialize are similar. True or False?
+Answer:","[' True', ' False']",0
+"vena cephalica and cephalic vein are similar. True or False?
+Answer:","[' True', ' False']",0
+"ossicle and ossicular chain are similar. True or False?
+Answer:","[' True', ' False']",0
+"subletter and subleaser are similar. True or False?
+Answer:","[' True', ' False']",0
+"message and communication are similar. True or False?
+Answer:","[' True', ' False']",0
+"woodland white violet and sweet white violet are similar. True or False?
+Answer:","[' True', ' False']",0
+"stem and stalk are similar. True or False?
+Answer:","[' True', ' False']",0
+"blue and green are similar. True or False?
+Answer:","[' True', ' False']",1
+"direct and directly are similar. True or False?
+Answer:","[' True', ' False']",0
+"bitty and teensy weensy are similar. True or False?
+Answer:","[' True', ' False']",0
+"musa basjoo and japanese banana are similar. True or False?
+Answer:","[' True', ' False']",0
+"wrack and sea wrack are similar. True or False?
+Answer:","[' True', ' False']",0
+"insane and loony are similar. True or False?
+Answer:","[' True', ' False']",0
+"pass by value and pass by reference are similar. True or False?
+Answer:","[' True', ' False']",1
+"preserve and discard away are similar. True or False?
+Answer:","[' True', ' False']",1
+"squeaker and close call are similar. True or False?
+Answer:","[' True', ' False']",0
+"inside voice and outside voice are similar. True or False?
+Answer:","[' True', ' False']",1
+"william fulbright and james william fulbright are similar. True or False?
+Answer:","[' True', ' False']",0
+"out of focus and in focus are similar. True or False?
+Answer:","[' True', ' False']",1
+"act and actuality are similar. True or False?
+Answer:","[' True', ' False']",0
+"wind and calm are similar. True or False?
+Answer:","[' True', ' False']",1
+"inner class and outer class are similar. True or False?
+Answer:","[' True', ' False']",1
+"non archimedean and archimedean are similar. True or False?
+Answer:","[' True', ' False']",1
+"debrine and salinate are similar. True or False?
+Answer:","[' True', ' False']",1
+"elect and impeach are similar. True or False?
+Answer:","[' True', ' False']",1
+"take fire and catch fire are similar. True or False?
+Answer:","[' True', ' False']",0
+"great and small are similar. True or False?
+Answer:","[' True', ' False']",1
+"amicable and kindly are similar. True or False?
+Answer:","[' True', ' False']",0
+"undue and unjustified are similar. True or False?
+Answer:","[' True', ' False']",0
+"cash in and cash grab are similar. True or False?
+Answer:","[' True', ' False']",0
+"hold and give are similar. True or False?
+Answer:","[' True', ' False']",1
+"get at and access are similar. True or False?
+Answer:","[' True', ' False']",0
+"maroon spirit and deep patwa are similar. True or False?
+Answer:","[' True', ' False']",0
+"cleats and spikes are similar. True or False?
+Answer:","[' True', ' False']",0
+"earlier and antecedent are similar. True or False?
+Answer:","[' True', ' False']",0
+"sick and fit are similar. True or False?
+Answer:","[' True', ' False']",1
+"basic and acidic are similar. True or False?
+Answer:","[' True', ' False']",1
+"rich and poor are similar. True or False?
+Answer:","[' True', ' False']",1
+"deviate and pervert are similar. True or False?
+Answer:","[' True', ' False']",0
+"aftertest and foretest are similar. True or False?
+Answer:","[' True', ' False']",1
+"optimistic and pessimistic are similar. True or False?
+Answer:","[' True', ' False']",1
+"finite verb and verbal are similar. True or False?
+Answer:","[' True', ' False']",1
+"mount and dismount are similar. True or False?
+Answer:","[' True', ' False']",1
+"befoe and befriend are similar. True or False?
+Answer:","[' True', ' False']",1
+"work and being lazy are similar. True or False?
+Answer:","[' True', ' False']",1
+"family liliaceae and liliaceae are similar. True or False?
+Answer:","[' True', ' False']",0
+"erythronium montanum and avalanche lily are similar. True or False?
+Answer:","[' True', ' False']",0
+"anisosyllabism and isosyllabism are similar. True or False?
+Answer:","[' True', ' False']",1
+"erogenicity and erotogenicity are similar. True or False?
+Answer:","[' True', ' False']",0
+"islamitish and islamic are similar. True or False?
+Answer:","[' True', ' False']",0
+"sake and rice wine are similar. True or False?
+Answer:","[' True', ' False']",0
+"free and jailed are similar. True or False?
+Answer:","[' True', ' False']",1
+"tonic and pop are similar. True or False?
+Answer:","[' True', ' False']",0
+"astern and ahead are similar. True or False?
+Answer:","[' True', ' False']",1
+"barred owl and wood owl are similar. True or False?
+Answer:","[' True', ' False']",0
+"head and tail are similar. True or False?
+Answer:","[' True', ' False']",1
+"multitasking and single tasking are similar. True or False?
+Answer:","[' True', ' False']",1
+"turn and go straight are similar. True or False?
+Answer:","[' True', ' False']",1
+"driftingness and tralineation are similar. True or False?
+Answer:","[' True', ' False']",0
+"never and all time are similar. True or False?
+Answer:","[' True', ' False']",1
+"invaluable and valueless are similar. True or False?
+Answer:","[' True', ' False']",1
+"cold cream and ceratum galeni are similar. True or False?
+Answer:","[' True', ' False']",0
+"complete and done are similar. True or False?
+Answer:","[' True', ' False']",1
+"hunt and william holman hunt are similar. True or False?
+Answer:","[' True', ' False']",0
+"consolidable and consolidatable are similar. True or False?
+Answer:","[' True', ' False']",0
+"microphysiological and macrophysiological are similar. True or False?
+Answer:","[' True', ' False']",1
+"winnipesaukee and winni are similar. True or False?
+Answer:","[' True', ' False']",0
+"also known as and otherwise called are similar. True or False?
+Answer:","[' True', ' False']",0
+"abm and antiballistic missile are similar. True or False?
+Answer:","[' True', ' False']",0
+"on off switch and toggle switch are similar. True or False?
+Answer:","[' True', ' False']",0
+"occupation and job are similar. True or False?
+Answer:","[' True', ' False']",1
+"hygienic and unhygienic are similar. True or False?
+Answer:","[' True', ' False']",1
+"superlunar and sublunar are similar. True or False?
+Answer:","[' True', ' False']",1
+"wrap up and wrap are similar. True or False?
+Answer:","[' True', ' False']",0
+"below par and above par are similar. True or False?
+Answer:","[' True', ' False']",1
+"logoff and login are similar. True or False?
+Answer:","[' True', ' False']",1
+"cloth of gold and gold cloth are similar. True or False?
+Answer:","[' True', ' False']",0
+"extreme and moderate are similar. True or False?
+Answer:","[' True', ' False']",1
+"brake and accelerate are similar. True or False?
+Answer:","[' True', ' False']",1
+"fucknigga and fuccboi are similar. True or False?
+Answer:","[' True', ' False']",0
+"grimeless and grimy are similar. True or False?
+Answer:","[' True', ' False']",1
+"xand and xor are similar. True or False?
+Answer:","[' True', ' False']",1
+"marchland and borderland are similar. True or False?
+Answer:","[' True', ' False']",0
+"pumpkinification and apotheosis are similar. True or False?
+Answer:","[' True', ' False']",1
+"genus carum and carum are similar. True or False?
+Answer:","[' True', ' False']",0
+"attract and repel are similar. True or False?
+Answer:","[' True', ' False']",1
+"duh and really are similar. True or False?
+Answer:","[' True', ' False']",1
+"dinar and iranian dinar are similar. True or False?
+Answer:","[' True', ' False']",0
+"genus albugo and albugo are similar. True or False?
+Answer:","[' True', ' False']",0
+"dictionary form and canonical form are similar. True or False?
+Answer:","[' True', ' False']",0
+"decompressive and compressive are similar. True or False?
+Answer:","[' True', ' False']",1
+"mercury and pluto are similar. True or False?
+Answer:","[' True', ' False']",1
+"equal and equivalent are similar. True or False?
+Answer:","[' True', ' False']",0
+"modesty and immodesty are similar. True or False?
+Answer:","[' True', ' False']",1
+"enjoyableness and enjoyability are similar. True or False?
+Answer:","[' True', ' False']",0
+"dianoetic and intuitive are similar. True or False?
+Answer:","[' True', ' False']",1
+"strengthen and atrophy are similar. True or False?
+Answer:","[' True', ' False']",1
+"genus hottonia and hottonia are similar. True or False?
+Answer:","[' True', ' False']",0
+"organic structure and body are similar. True or False?
+Answer:","[' True', ' False']",0
+"income and outgo are similar. True or False?
+Answer:","[' True', ' False']",1
+"big ol and little ol are similar. True or False?
+Answer:","[' True', ' False']",1
+"islamophilic and islamophobic are similar. True or False?
+Answer:","[' True', ' False']",1
+"amblyrhynchus cristatus and marine iguana are similar. True or False?
+Answer:","[' True', ' False']",0
+"sternway and headway are similar. True or False?
+Answer:","[' True', ' False']",1
+"cdr and car are similar. True or False?
+Answer:","[' True', ' False']",1
+"mugful and mug are similar. True or False?
+Answer:","[' True', ' False']",0
+"inlier and outlier are similar. True or False?
+Answer:","[' True', ' False']",1
+"prolog and epilog are similar. True or False?
+Answer:","[' True', ' False']",1
+"homoionic and heteroionic are similar. True or False?
+Answer:","[' True', ' False']",1
+"annoy and wound are similar. True or False?
+Answer:","[' True', ' False']",0
+"extinguish and eliminate are similar. True or False?
+Answer:","[' True', ' False']",0
+"ravel and maurice ravel are similar. True or False?
+Answer:","[' True', ' False']",0
+"vatnik and sovok are similar. True or False?
+Answer:","[' True', ' False']",0
+"reverse genetics and forward genetics are similar. True or False?
+Answer:","[' True', ' False']",1
+"genus dacrydium and dacrydium are similar. True or False?
+Answer:","[' True', ' False']",0
+"get married and wed are similar. True or False?
+Answer:","[' True', ' False']",0
+"see and examine are similar. True or False?
+Answer:","[' True', ' False']",0
+"buckeroo and vaquero are similar. True or False?
+Answer:","[' True', ' False']",0
+"irritate and soothe are similar. True or False?
+Answer:","[' True', ' False']",1
+"besorrow and becare are similar. True or False?
+Answer:","[' True', ' False']",0
+"difference and likeness are similar. True or False?
+Answer:","[' True', ' False']",1
+"aftercoming and forecoming are similar. True or False?
+Answer:","[' True', ' False']",1
+"extra dictionem and in dictione are similar. True or False?
+Answer:","[' True', ' False']",1
+"involuntarily and voluntarily are similar. True or False?
+Answer:","[' True', ' False']",1
+"dinomaniac and dinophile are similar. True or False?
+Answer:","[' True', ' False']",0
+"unpleasantness and pleasantness are similar. True or False?
+Answer:","[' True', ' False']",1
+"cis lesbian and trans lesbian are similar. True or False?
+Answer:","[' True', ' False']",1
+"family ginkgoaceae and ginkgoaceae are similar. True or False?
+Answer:","[' True', ' False']",0
+"submit and present are similar. True or False?
+Answer:","[' True', ' False']",0
+"altruistic and humane are similar. True or False?
+Answer:","[' True', ' False']",0
+"respectable and contemptible are similar. True or False?
+Answer:","[' True', ' False']",1
+"voidance and emptying are similar. True or False?
+Answer:","[' True', ' False']",0
+"slope and plane are similar. True or False?
+Answer:","[' True', ' False']",1
+"prociphilus tessellatus and woolly alder aphid are similar. True or False?
+Answer:","[' True', ' False']",0
+"domina and dominatrix are similar. True or False?
+Answer:","[' True', ' False']",0
+"man down and man up are similar. True or False?
+Answer:","[' True', ' False']",1
+"house of worship and temple are similar. True or False?
+Answer:","[' True', ' False']",0
+"seawards and landwards are similar. True or False?
+Answer:","[' True', ' False']",1
+"uncertain and fitful are similar. True or False?
+Answer:","[' True', ' False']",0
+"spiral staircase and spiral stairs are similar. True or False?
+Answer:","[' True', ' False']",0
+"propanoic acid and ethanecarboxylic acid are similar. True or False?
+Answer:","[' True', ' False']",0
+"depressogenic and antidepressant are similar. True or False?
+Answer:","[' True', ' False']",1
+"english bulldog and bulldog are similar. True or False?
+Answer:","[' True', ' False']",0
+"manner and rude are similar. True or False?
+Answer:","[' True', ' False']",1
+"calidris canutus and knot are similar. True or False?
+Answer:","[' True', ' False']",0
+"clandestine and furtive are similar. True or False?
+Answer:","[' True', ' False']",0
+"sheepmeat and sheepflesh are similar. True or False?
+Answer:","[' True', ' False']",0
+"bottom and active are similar. True or False?
+Answer:","[' True', ' False']",1
+"loading and cargo are similar. True or False?
+Answer:","[' True', ' False']",0
+"family thelephoraceae and thelephoraceae are similar. True or False?
+Answer:","[' True', ' False']",0
+"vaccinium corymbosum and high bush blueberry are similar. True or False?
+Answer:","[' True', ' False']",0
+"larus marinus and black backed gull are similar. True or False?
+Answer:","[' True', ' False']",0
+"elevate and decrease are similar. True or False?
+Answer:","[' True', ' False']",1
+"paripinnate and imparipinnate are similar. True or False?
+Answer:","[' True', ' False']",1
+"unapologetic and apologetic are similar. True or False?
+Answer:","[' True', ' False']",1
+"born and dead are similar. True or False?
+Answer:","[' True', ' False']",1
+"abash and embolden are similar. True or False?
+Answer:","[' True', ' False']",1
+"passee and old fashioned are similar. True or False?
+Answer:","[' True', ' False']",0
+"on screen and off screen are similar. True or False?
+Answer:","[' True', ' False']",1
+"palaeology and paleology are similar. True or False?
+Answer:","[' True', ' False']",0
+"stumble against and stumble on are similar. True or False?
+Answer:","[' True', ' False']",0
+"drop and hold are similar. True or False?
+Answer:","[' True', ' False']",1
+"wholemeal and wheaten are similar. True or False?
+Answer:","[' True', ' False']",0
+"hefemale and transgender are similar. True or False?
+Answer:","[' True', ' False']",0
+"bride price and bride gift are similar. True or False?
+Answer:","[' True', ' False']",0
+"apomorphy and plesiomorphy are similar. True or False?
+Answer:","[' True', ' False']",1
+"unabideable and supportable are similar. True or False?
+Answer:","[' True', ' False']",1
+"common house and guildhall are similar. True or False?
+Answer:","[' True', ' False']",0
+"impurely and purely are similar. True or False?
+Answer:","[' True', ' False']",1
+"tetradecimal and base are similar. True or False?
+Answer:","[' True', ' False']",0
+"junkiedom and junkieness are similar. True or False?
+Answer:","[' True', ' False']",0
+"unconsolable and inconsolable are similar. True or False?
+Answer:","[' True', ' False']",0
+"disceptation and controversy are similar. True or False?
+Answer:","[' True', ' False']",0
+"time of arrival and time of departure are similar. True or False?
+Answer:","[' True', ' False']",1
+"thrill and boring are similar. True or False?
+Answer:","[' True', ' False']",1
+"suffrutex and subshrub are similar. True or False?
+Answer:","[' True', ' False']",0
+"bound and free are similar. True or False?
+Answer:","[' True', ' False']",1
+"compatibilism and incompatibilism are similar. True or False?
+Answer:","[' True', ' False']",1
+"boy and sister are similar. True or False?
+Answer:","[' True', ' False']",1
+"ostler and groom are similar. True or False?
+Answer:","[' True', ' False']",0
+"pupil and schoolchild are similar. True or False?
+Answer:","[' True', ' False']",0
+"disavow and accept are similar. True or False?
+Answer:","[' True', ' False']",1
+"applicability and inapplicability are similar. True or False?
+Answer:","[' True', ' False']",1
+"efface and erase are similar. True or False?
+Answer:","[' True', ' False']",0
+"beta wave and beta rhythm are similar. True or False?
+Answer:","[' True', ' False']",0
+"skillful and proficient are similar. True or False?
+Answer:","[' True', ' False']",0
+"nominality and nominalness are similar. True or False?
+Answer:","[' True', ' False']",0
+"dispreference and preference are similar. True or False?
+Answer:","[' True', ' False']",1
+"faultful and perfect are similar. True or False?
+Answer:","[' True', ' False']",1
+"deference and honor are similar. True or False?
+Answer:","[' True', ' False']",0
+"adorn and bedeck are similar. True or False?
+Answer:","[' True', ' False']",0
+"slave and man are similar. True or False?
+Answer:","[' True', ' False']",1
+"stockingless and unstockinged are similar. True or False?
+Answer:","[' True', ' False']",0
+"supporter and opponent are similar. True or False?
+Answer:","[' True', ' False']",1
+"apophthegm and aphorism are similar. True or False?
+Answer:","[' True', ' False']",0
+"virgilia oroboides and keurboom are similar. True or False?
+Answer:","[' True', ' False']",0
+"good bishop and bad bishop are similar. True or False?
+Answer:","[' True', ' False']",1
+"orthodoxy and heterodoxy are similar. True or False?
+Answer:","[' True', ' False']",1
+"wool fat and lanolin are similar. True or False?
+Answer:","[' True', ' False']",0
+"california minute and new york minute are similar. True or False?
+Answer:","[' True', ' False']",1
+"distinguished and mediocre are similar. True or False?
+Answer:","[' True', ' False']",1
+"monaural and stereo are similar. True or False?
+Answer:","[' True', ' False']",1
+"troxler effect and troxler fading are similar. True or False?
+Answer:","[' True', ' False']",0
+"soup and meat are similar. True or False?
+Answer:","[' True', ' False']",1
+"arolla pine and swiss pine are similar. True or False?
+Answer:","[' True', ' False']",0
+"inaudible and soundless are similar. True or False?
+Answer:","[' True', ' False']",0
+"curb bit and curb are similar. True or False?
+Answer:","[' True', ' False']",0
+"warpwise and weftwise are similar. True or False?
+Answer:","[' True', ' False']",1
+"heathendom and christendom are similar. True or False?
+Answer:","[' True', ' False']",1
+"lead and tip are similar. True or False?
+Answer:","[' True', ' False']",0
+"powderlike and powdery are similar. True or False?
+Answer:","[' True', ' False']",0
+"bandura and bandoura are similar. True or False?
+Answer:","[' True', ' False']",0
+"rejoiceful and rejoiceless are similar. True or False?
+Answer:","[' True', ' False']",1
+"lady and man are similar. True or False?
+Answer:","[' True', ' False']",1
+"puppy and big are similar. True or False?
+Answer:","[' True', ' False']",1
+"dehancement and enhancement are similar. True or False?
+Answer:","[' True', ' False']",1
+"negative and undesirable are similar. True or False?
+Answer:","[' True', ' False']",0
+"wire grass and yardgrass are similar. True or False?
+Answer:","[' True', ' False']",0
+"home and office are similar. True or False?
+Answer:","[' True', ' False']",1
+"korsakoff's syndrome and alcoholic dementia are similar. True or False?
+Answer:","[' True', ' False']",0
+"position and absence are similar. True or False?
+Answer:","[' True', ' False']",1
+"plebe and cadet are similar. True or False?
+Answer:","[' True', ' False']",0
+"transvection and trans sensing are similar. True or False?
+Answer:","[' True', ' False']",0
+"strong armer and hood are similar. True or False?
+Answer:","[' True', ' False']",0
+"alliance and allianz are similar. True or False?
+Answer:","[' True', ' False']",0
+"overcoupling and undercoupling are similar. True or False?
+Answer:","[' True', ' False']",1
+"fire hook and poker are similar. True or False?
+Answer:","[' True', ' False']",0
+"uncle and aunt are similar. True or False?
+Answer:","[' True', ' False']",1
+"yes'm and no'm are similar. True or False?
+Answer:","[' True', ' False']",1
+"die on vine and wither on vine are similar. True or False?
+Answer:","[' True', ' False']",0
+"inhale and exhale are similar. True or False?
+Answer:","[' True', ' False']",1
+"wartime and peacetime are similar. True or False?
+Answer:","[' True', ' False']",1
+"drunkenness and alcoholism are similar. True or False?
+Answer:","[' True', ' False']",0
+"apprise and abreast are similar. True or False?
+Answer:","[' True', ' False']",0
+"stupefying and astonishing are similar. True or False?
+Answer:","[' True', ' False']",0
+"daleside and valleyside are similar. True or False?
+Answer:","[' True', ' False']",0
+"senate race and senate campaign are similar. True or False?
+Answer:","[' True', ' False']",0
+"west philippine sea and east vietnamese sea are similar. True or False?
+Answer:","[' True', ' False']",0
+"wan and lan are similar. True or False?
+Answer:","[' True', ' False']",1
+"pollution and conservation are similar. True or False?
+Answer:","[' True', ' False']",1
+"lenient and strict are similar. True or False?
+Answer:","[' True', ' False']",1
+"mountain alder and white alder are similar. True or False?
+Answer:","[' True', ' False']",0
+"generalist and specialist are similar. True or False?
+Answer:","[' True', ' False']",1
+"flow and stagnant are similar. True or False?
+Answer:","[' True', ' False']",1
+"except and save for are similar. True or False?
+Answer:","[' True', ' False']",0
+"pewit and laughing gull are similar. True or False?
+Answer:","[' True', ' False']",0
+"braggart and self aggrandising are similar. True or False?
+Answer:","[' True', ' False']",0
+"protest and agree are similar. True or False?
+Answer:","[' True', ' False']",1
+"protestant and protester are similar. True or False?
+Answer:","[' True', ' False']",0
+"middle and front back are similar. True or False?
+Answer:","[' True', ' False']",1
+"meow and nyao are similar. True or False?
+Answer:","[' True', ' False']",0
+"phenylthiol and thiophenol are similar. True or False?
+Answer:","[' True', ' False']",0
+"defensible and indefensible are similar. True or False?
+Answer:","[' True', ' False']",1
+"back and current are similar. True or False?
+Answer:","[' True', ' False']",1
+"oldbie and newbie are similar. True or False?
+Answer:","[' True', ' False']",1
+"inflated and bulging are similar. True or False?
+Answer:","[' True', ' False']",0
+"plan and wing it are similar. True or False?
+Answer:","[' True', ' False']",1
+"pay and sell are similar. True or False?
+Answer:","[' True', ' False']",1
+"fair haired and fair are similar. True or False?
+Answer:","[' True', ' False']",0
+"claes oldenburg and claes thure oldenburg are similar. True or False?
+Answer:","[' True', ' False']",0
+"miscible and immiscible are similar. True or False?
+Answer:","[' True', ' False']",1
+"feel good and feel bad are similar. True or False?
+Answer:","[' True', ' False']",1
+"hand and leg are similar. True or False?
+Answer:","[' True', ' False']",1
+"unstylishness and unfashionableness are similar. True or False?
+Answer:","[' True', ' False']",0
+"straight and crooked are similar. True or False?
+Answer:","[' True', ' False']",1
+"unfreeze and thaw are similar. True or False?
+Answer:","[' True', ' False']",0
+"osteomodulin and osteoadherin are similar. True or False?
+Answer:","[' True', ' False']",0
+"common snowberry and snowberry are similar. True or False?
+Answer:","[' True', ' False']",0
+"domineering and submissive are similar. True or False?
+Answer:","[' True', ' False']",1
+"homomolecular and heteromolecular are similar. True or False?
+Answer:","[' True', ' False']",1
+"poet and writer are similar. True or False?
+Answer:","[' True', ' False']",1
+"downwards and upwards are similar. True or False?
+Answer:","[' True', ' False']",1
+"kutch and cutch are similar. True or False?
+Answer:","[' True', ' False']",0
+"gopherwood and kentucky yellowwood are similar. True or False?
+Answer:","[' True', ' False']",0
+"heel and move forward are similar. True or False?
+Answer:","[' True', ' False']",1
+"navy bean and white kidney bean are similar. True or False?
+Answer:","[' True', ' False']",0
+"even number and odd number are similar. True or False?
+Answer:","[' True', ' False']",1
+"northland and southland are similar. True or False?
+Answer:","[' True', ' False']",1
+"as it were and so to speak are similar. True or False?
+Answer:","[' True', ' False']",0
+"takeover target and target company are similar. True or False?
+Answer:","[' True', ' False']",0
+"fit out and deck are similar. True or False?
+Answer:","[' True', ' False']",0
+"exhale and breathe are similar. True or False?
+Answer:","[' True', ' False']",1
+"rbs and radio base station are similar. True or False?
+Answer:","[' True', ' False']",0
+"hell and on earth are similar. True or False?
+Answer:","[' True', ' False']",0
+"capacity utilization and utilization rate are similar. True or False?
+Answer:","[' True', ' False']",0
+"misobservance and observance are similar. True or False?
+Answer:","[' True', ' False']",1
+"genus daviesia and daviesia are similar. True or False?
+Answer:","[' True', ' False']",0
+"forthright and straight from shoulder are similar. True or False?
+Answer:","[' True', ' False']",0
+"forth and reverse are similar. True or False?
+Answer:","[' True', ' False']",1
+"instilling and inculcation are similar. True or False?
+Answer:","[' True', ' False']",0
+"head and feet are similar. True or False?
+Answer:","[' True', ' False']",1
+"mincing and niminy piminy are similar. True or False?
+Answer:","[' True', ' False']",0
+"half close and half open are similar. True or False?
+Answer:","[' True', ' False']",1
+"netted chainfern and netted chain fern are similar. True or False?
+Answer:","[' True', ' False']",0
+"ulotrichous and leiotrichous are similar. True or False?
+Answer:","[' True', ' False']",1
+"dairy product and milk product are similar. True or False?
+Answer:","[' True', ' False']",0
+"aerophyte and anaerophyte are similar. True or False?
+Answer:","[' True', ' False']",1
+"congo and congo brazzaville are similar. True or False?
+Answer:","[' True', ' False']",0
+"skillfulness and aptitude are similar. True or False?
+Answer:","[' True', ' False']",0
+"nuclear fission and nuclear fusion are similar. True or False?
+Answer:","[' True', ' False']",1
+"virtual and de jure are similar. True or False?
+Answer:","[' True', ' False']",1
+"sweet birch oil and methyl salicylate are similar. True or False?
+Answer:","[' True', ' False']",0
+"plough horse and plow horse are similar. True or False?
+Answer:","[' True', ' False']",0
+"preference shares and preferred stock are similar. True or False?
+Answer:","[' True', ' False']",0
+"dnieper and slavutych are similar. True or False?
+Answer:","[' True', ' False']",0
+"hairy finger grass and large crabgrass are similar. True or False?
+Answer:","[' True', ' False']",0
+"slosh around and slosh are similar. True or False?
+Answer:","[' True', ' False']",0
+"textspeak and textese are similar. True or False?
+Answer:","[' True', ' False']",0
+"relaxation behavior and relaxation are similar. True or False?
+Answer:","[' True', ' False']",0
+"highball and lowball are similar. True or False?
+Answer:","[' True', ' False']",1
+"shallow copy and deep copy are similar. True or False?
+Answer:","[' True', ' False']",1
+"mime and mimic are similar. True or False?
+Answer:","[' True', ' False']",0
+"querulous and grumble are similar. True or False?
+Answer:","[' True', ' False']",0
+"crude form and stem are similar. True or False?
+Answer:","[' True', ' False']",0
+"simple and hard are similar. True or False?
+Answer:","[' True', ' False']",1
+"disinfectant and infecting are similar. True or False?
+Answer:","[' True', ' False']",1
+"dirty bomb and clean bomb are similar. True or False?
+Answer:","[' True', ' False']",1
+"injure and help are similar. True or False?
+Answer:","[' True', ' False']",1
+"oval and oval shaped are similar. True or False?
+Answer:","[' True', ' False']",0
+"interrupt and continue are similar. True or False?
+Answer:","[' True', ' False']",1
+"respect and rude are similar. True or False?
+Answer:","[' True', ' False']",1
+"pain and pleasure are similar. True or False?
+Answer:","[' True', ' False']",1
+"pseudohypertrophic dystrophy and duchenne's muscular dystrophy are similar. True or False?
+Answer:","[' True', ' False']",0
+"family antennariidae and antennariidae are similar. True or False?
+Answer:","[' True', ' False']",0
+"funeral pyre and pyre are similar. True or False?
+Answer:","[' True', ' False']",0
+"scarved and unscarved are similar. True or False?
+Answer:","[' True', ' False']",1
+"fulminating mercury and mercury fulminate are similar. True or False?
+Answer:","[' True', ' False']",0
+"edge and keeness are similar. True or False?
+Answer:","[' True', ' False']",0
+"self and others are similar. True or False?
+Answer:","[' True', ' False']",1
+"abstract verb and potential verb are similar. True or False?
+Answer:","[' True', ' False']",0
+"bog and bogland are similar. True or False?
+Answer:","[' True', ' False']",0
+"invest and divest are similar. True or False?
+Answer:","[' True', ' False']",1
+"confederacy and conspiracy are similar. True or False?
+Answer:","[' True', ' False']",0
+"superluminary and subluminary are similar. True or False?
+Answer:","[' True', ' False']",1
+"antivaccinationist and vaccinationist are similar. True or False?
+Answer:","[' True', ' False']",1
+"prime constellation and prime cluster are similar. True or False?
+Answer:","[' True', ' False']",0
+"bad and vicious are similar. True or False?
+Answer:","[' True', ' False']",0
+"recent and lately are similar. True or False?
+Answer:","[' True', ' False']",1
+"sacrament of altar and eucharist are similar. True or False?
+Answer:","[' True', ' False']",0
+"virginia and old dominion are similar. True or False?
+Answer:","[' True', ' False']",0
+"atomist theory and atomism are similar. True or False?
+Answer:","[' True', ' False']",0
+"garden and house are similar. True or False?
+Answer:","[' True', ' False']",1
+"strawman and scarecrow are similar. True or False?
+Answer:","[' True', ' False']",0
+"attach and seize are similar. True or False?
+Answer:","[' True', ' False']",0
+"gig and small are similar. True or False?
+Answer:","[' True', ' False']",1
+"compound and gaol are similar. True or False?
+Answer:","[' True', ' False']",0
+"adulthood and childhood are similar. True or False?
+Answer:","[' True', ' False']",1
+"reply and messages are similar. True or False?
+Answer:","[' True', ' False']",1
+"alphanumeric characters and alphanumerics are similar. True or False?
+Answer:","[' True', ' False']",0
+"angler and anglerfish are similar. True or False?
+Answer:","[' True', ' False']",0
+"unimaginability and imaginability are similar. True or False?
+Answer:","[' True', ' False']",1
+"snifter and appetizer are similar. True or False?
+Answer:","[' True', ' False']",0
+"unsteady and unfirm are similar. True or False?
+Answer:","[' True', ' False']",0
+"fix and destroy are similar. True or False?
+Answer:","[' True', ' False']",1
+"catch wink and nap are similar. True or False?
+Answer:","[' True', ' False']",0
+"prurient and lustful are similar. True or False?
+Answer:","[' True', ' False']",0
+"mono and stereophonic are similar. True or False?
+Answer:","[' True', ' False']",1
+"doogheno and dabeno are similar. True or False?
+Answer:","[' True', ' False']",1
+"english muffin and breakfast muffin are similar. True or False?
+Answer:","[' True', ' False']",0
+"mountain and land are similar. True or False?
+Answer:","[' True', ' False']",1
+"break down and analyze are similar. True or False?
+Answer:","[' True', ' False']",0
+"gas and liquid solid are similar. True or False?
+Answer:","[' True', ' False']",1
+"completion and completeness are similar. True or False?
+Answer:","[' True', ' False']",0
+"draba verna and whitlow grass are similar. True or False?
+Answer:","[' True', ' False']",0
+"phallused and bedicked are similar. True or False?
+Answer:","[' True', ' False']",0
+"informulable and formulable are similar. True or False?
+Answer:","[' True', ' False']",1
+"sphenethmoid and sphenoethmoid are similar. True or False?
+Answer:","[' True', ' False']",0
+"conversion and deconversion are similar. True or False?
+Answer:","[' True', ' False']",1
+"bellarmine and graybeard are similar. True or False?
+Answer:","[' True', ' False']",0
+"flimsy and sturdy are similar. True or False?
+Answer:","[' True', ' False']",1
+"faultless and fallible are similar. True or False?
+Answer:","[' True', ' False']",1
+"unfasten and zip are similar. True or False?
+Answer:","[' True', ' False']",1
+"postclassically and anteclassically are similar. True or False?
+Answer:","[' True', ' False']",1
+"sigmatic and asigmatic are similar. True or False?
+Answer:","[' True', ' False']",1
+"lift and down are similar. True or False?
+Answer:","[' True', ' False']",1
+"viral load and viral burden are similar. True or False?
+Answer:","[' True', ' False']",0
+"ringnut and ringhead are similar. True or False?
+Answer:","[' True', ' False']",0
+"disdain and honor are similar. True or False?
+Answer:","[' True', ' False']",1
+"event loop and run loop are similar. True or False?
+Answer:","[' True', ' False']",0
+"compound and colonial are similar. True or False?
+Answer:","[' True', ' False']",0
+"slash and backslash are similar. True or False?
+Answer:","[' True', ' False']",1
+"infravesical and supravesical are similar. True or False?
+Answer:","[' True', ' False']",1
+"tammar and darma are similar. True or False?
+Answer:","[' True', ' False']",0
+"summer and nice are similar. True or False?
+Answer:","[' True', ' False']",1
+"potayto potahto and same difference are similar. True or False?
+Answer:","[' True', ' False']",0
+"bobolink and bob lincoln are similar. True or False?
+Answer:","[' True', ' False']",0
+"slip off and sneak off are similar. True or False?
+Answer:","[' True', ' False']",0
+"prefer and disprefer are similar. True or False?
+Answer:","[' True', ' False']",1
+"focussed and unfocussed are similar. True or False?
+Answer:","[' True', ' False']",1
+"purchasing power and buying power are similar. True or False?
+Answer:","[' True', ' False']",0
+"money purchase and defined benefits are similar. True or False?
+Answer:","[' True', ' False']",1
+"exercise and slacking off are similar. True or False?
+Answer:","[' True', ' False']",1
+"let up and abate are similar. True or False?
+Answer:","[' True', ' False']",0
+"stockinged and stockingless are similar. True or False?
+Answer:","[' True', ' False']",1
+"hoarding and billboard are similar. True or False?
+Answer:","[' True', ' False']",0
+"syncretistic and syncretic are similar. True or False?
+Answer:","[' True', ' False']",0
+"civilization and uncivilized are similar. True or False?
+Answer:","[' True', ' False']",1
+"half niece and half nephew are similar. True or False?
+Answer:","[' True', ' False']",1
+"brushtail rat and trumpet tailed rat are similar. True or False?
+Answer:","[' True', ' False']",0
+"strong declension and mixed declension are similar. True or False?
+Answer:","[' True', ' False']",1
+"irresponsibly and responsibly are similar. True or False?
+Answer:","[' True', ' False']",1
+"root and pole are similar. True or False?
+Answer:","[' True', ' False']",1
+"close minded and narrow minded are similar. True or False?
+Answer:","[' True', ' False']",0
+"omnidirectional and unidirectional are similar. True or False?
+Answer:","[' True', ' False']",1
+"deuterothematic and dithematic are similar. True or False?
+Answer:","[' True', ' False']",0
+"firehead tetra and rummy nose tetra are similar. True or False?
+Answer:","[' True', ' False']",0
+"sanatory and sanative are similar. True or False?
+Answer:","[' True', ' False']",0
+"decreasing and increasing are similar. True or False?
+Answer:","[' True', ' False']",1
+"impreciseness and preciseness are similar. True or False?
+Answer:","[' True', ' False']",1
+"remain and stay are similar. True or False?
+Answer:","[' True', ' False']",0
+"profit and lost are similar. True or False?
+Answer:","[' True', ' False']",1
+"emasculate and unman are similar. True or False?
+Answer:","[' True', ' False']",0
+"user unfriendly and user friendly are similar. True or False?
+Answer:","[' True', ' False']",1
+"lysis and genesis are similar. True or False?
+Answer:","[' True', ' False']",1
+"motorized and mechanized are similar. True or False?
+Answer:","[' True', ' False']",0
+"put and take away are similar. True or False?
+Answer:","[' True', ' False']",1
+"wood and metal are similar. True or False?
+Answer:","[' True', ' False']",1
+"country and state are similar. True or False?
+Answer:","[' True', ' False']",1
+"unfulfillment and fulfillment are similar. True or False?
+Answer:","[' True', ' False']",1
+"introduction and conclusion are similar. True or False?
+Answer:","[' True', ' False']",1
+"hypsodont and brachydont are similar. True or False?
+Answer:","[' True', ' False']",1
+"middle and right are similar. True or False?
+Answer:","[' True', ' False']",1
+"al quds and quds are similar. True or False?
+Answer:","[' True', ' False']",0
+"air and vacuum are similar. True or False?
+Answer:","[' True', ' False']",1
+"hypoventilation and hyperventilation are similar. True or False?
+Answer:","[' True', ' False']",1
+"many banded krait and chinese krait are similar. True or False?
+Answer:","[' True', ' False']",0
+"pliant and malleable are similar. True or False?
+Answer:","[' True', ' False']",0
+"port and starboard are similar. True or False?
+Answer:","[' True', ' False']",1
+"cantopop and hk pop are similar. True or False?
+Answer:","[' True', ' False']",0
+"grind and crunch are similar. True or False?
+Answer:","[' True', ' False']",0
+"gross and megascopic are similar. True or False?
+Answer:","[' True', ' False']",0
+"out of touch and in touch are similar. True or False?
+Answer:","[' True', ' False']",1
+"blount's disease and tibia vara are similar. True or False?
+Answer:","[' True', ' False']",0
+"raspy and harsh are similar. True or False?
+Answer:","[' True', ' False']",0
+"hairy lip fern and wooly lip fern are similar. True or False?
+Answer:","[' True', ' False']",0
+"nominate contract and unspecific contract are similar. True or False?
+Answer:","[' True', ' False']",1
+"breadthen and broaden are similar. True or False?
+Answer:","[' True', ' False']",0
+"explicitness and openness are similar. True or False?
+Answer:","[' True', ' False']",0
+"untypical and typical are similar. True or False?
+Answer:","[' True', ' False']",1
+"cat and dog are similar. True or False?
+Answer:","[' True', ' False']",1
+"morning wood and nocturnal penile tumescence are similar. True or False?
+Answer:","[' True', ' False']",0
+"advisory and mandatory are similar. True or False?
+Answer:","[' True', ' False']",1
+"ammonia liquor and ammonia water are similar. True or False?
+Answer:","[' True', ' False']",0
+"oka and oca are similar. True or False?
+Answer:","[' True', ' False']",0
+"inorganic and organic are similar. True or False?
+Answer:","[' True', ' False']",1
+"rascal and rapscallion are similar. True or False?
+Answer:","[' True', ' False']",0
+"ski ballet and ballet skiing are similar. True or False?
+Answer:","[' True', ' False']",0
+"brown and john brown are similar. True or False?
+Answer:","[' True', ' False']",0
+"evangelistary and evangeliar are similar. True or False?
+Answer:","[' True', ' False']",0
+"rupture and tear are similar. True or False?
+Answer:","[' True', ' False']",0
+"short sightedness and hyperopia are similar. True or False?
+Answer:","[' True', ' False']",1
+"greenlight and redlight are similar. True or False?
+Answer:","[' True', ' False']",1
+"walk and sit are similar. True or False?
+Answer:","[' True', ' False']",1
+"firearm and cold weapon are similar. True or False?
+Answer:","[' True', ' False']",1
+"spinning top and top are similar. True or False?
+Answer:","[' True', ' False']",0
+"allocentric and self centered are similar. True or False?
+Answer:","[' True', ' False']",1
+"blush and pale are similar. True or False?
+Answer:","[' True', ' False']",1
+"toilet table and dressing table are similar. True or False?
+Answer:","[' True', ' False']",0
+"roman and oblique are similar. True or False?
+Answer:","[' True', ' False']",1
+"autocentric and allocentric are similar. True or False?
+Answer:","[' True', ' False']",1
+"break and build are similar. True or False?
+Answer:","[' True', ' False']",1
+"aplacophoran and solenogaster are similar. True or False?
+Answer:","[' True', ' False']",0
+"leishmaniasis and kala azar are similar. True or False?
+Answer:","[' True', ' False']",0
+"mayer and louis burt mayer are similar. True or False?
+Answer:","[' True', ' False']",0
+"yah boo sucks and yah boo are similar. True or False?
+Answer:","[' True', ' False']",0
+"mollusc and mollusk are similar. True or False?
+Answer:","[' True', ' False']",0
+"readable and unreadable are similar. True or False?
+Answer:","[' True', ' False']",1
+"bobfoc and butterbody are similar. True or False?
+Answer:","[' True', ' False']",1
+"nerdery and geekery are similar. True or False?
+Answer:","[' True', ' False']",0
+"good and poor are similar. True or False?
+Answer:","[' True', ' False']",1
+"ehrlich and paul ehrlich are similar. True or False?
+Answer:","[' True', ' False']",0
+"traumatic and non traumatic are similar. True or False?
+Answer:","[' True', ' False']",1
+"side and back are similar. True or False?
+Answer:","[' True', ' False']",1
+"divine and godlike are similar. True or False?
+Answer:","[' True', ' False']",0
+"unflocked and flagged are similar. True or False?
+Answer:","[' True', ' False']",1
+"incompleteness and completion are similar. True or False?
+Answer:","[' True', ' False']",1
+"diminish and improve are similar. True or False?
+Answer:","[' True', ' False']",1
+"gruelling and backbreaking are similar. True or False?
+Answer:","[' True', ' False']",0
+"mud hen and american coot are similar. True or False?
+Answer:","[' True', ' False']",0
+"sweet granadilla and granadilla are similar. True or False?
+Answer:","[' True', ' False']",0
+"king's pawn game and king's pawn opening are similar. True or False?
+Answer:","[' True', ' False']",0
+"castlelike and palatial are similar. True or False?
+Answer:","[' True', ' False']",0
+"surprise and expected are similar. True or False?
+Answer:","[' True', ' False']",1
+"cloaca and sewer are similar. True or False?
+Answer:","[' True', ' False']",0
+"surprise and known already are similar. True or False?
+Answer:","[' True', ' False']",1
+"aftershock and foreshock are similar. True or False?
+Answer:","[' True', ' False']",1
+"shirer and william lawrence shirer are similar. True or False?
+Answer:","[' True', ' False']",0
+"in turn and out turn are similar. True or False?
+Answer:","[' True', ' False']",1
+"canalisation and canalization are similar. True or False?
+Answer:","[' True', ' False']",0
+"make note and write down are similar. True or False?
+Answer:","[' True', ' False']",0
+"parallel port and parallel interface are similar. True or False?
+Answer:","[' True', ' False']",0
+"multiplayer and solitaire are similar. True or False?
+Answer:","[' True', ' False']",1
+"huzzah and hooray are similar. True or False?
+Answer:","[' True', ' False']",0
+"swiftness and promptness are similar. True or False?
+Answer:","[' True', ' False']",0
+"piemontese and piedmontese are similar. True or False?
+Answer:","[' True', ' False']",0
+"black alder and english alder are similar. True or False?
+Answer:","[' True', ' False']",0
+"emerge and come to light are similar. True or False?
+Answer:","[' True', ' False']",0
+"christian year and liturgical year are similar. True or False?
+Answer:","[' True', ' False']",0
+"omnishambles and fiasco are similar. True or False?
+Answer:","[' True', ' False']",0
+"syncopal and nonsyncopal are similar. True or False?
+Answer:","[' True', ' False']",1
+"forgivably and unpardonably are similar. True or False?
+Answer:","[' True', ' False']",1
+"sweetbriar and sweetbrier are similar. True or False?
+Answer:","[' True', ' False']",0
+"racecourse and runway are similar. True or False?
+Answer:","[' True', ' False']",0
+"wrong and right are similar. True or False?
+Answer:","[' True', ' False']",1
+"none and having are similar. True or False?
+Answer:","[' True', ' False']",1
+"undammed and dammed are similar. True or False?
+Answer:","[' True', ' False']",1
+"conciliatory and unconciliatory are similar. True or False?
+Answer:","[' True', ' False']",1
+"relativity theory and relativity are similar. True or False?
+Answer:","[' True', ' False']",0
+"coder and decoder are similar. True or False?
+Answer:","[' True', ' False']",1
+"outer class and inner class are similar. True or False?
+Answer:","[' True', ' False']",1
+"reply and ignore are similar. True or False?
+Answer:","[' True', ' False']",1
+"hypsochromic and bathochromic are similar. True or False?
+Answer:","[' True', ' False']",1
+"countersink and counterbore are similar. True or False?
+Answer:","[' True', ' False']",0
+"confutable and inconfutable are similar. True or False?
+Answer:","[' True', ' False']",1
+"stylised and conventionalised are similar. True or False?
+Answer:","[' True', ' False']",0
+"genus trichostema and trichostema are similar. True or False?
+Answer:","[' True', ' False']",0
+"teensy and itsy bitsy are similar. True or False?
+Answer:","[' True', ' False']",0
+"infertile and fertile are similar. True or False?
+Answer:","[' True', ' False']",1
+"matrilateral and patrilateral are similar. True or False?
+Answer:","[' True', ' False']",1
+"cross and pleased are similar. True or False?
+Answer:","[' True', ' False']",1
+"body and mind are similar. True or False?
+Answer:","[' True', ' False']",1
+"mitchell and reginald joseph mitchell are similar. True or False?
+Answer:","[' True', ' False']",0
+"attempt and fail are similar. True or False?
+Answer:","[' True', ' False']",1
+"downslide and upswing are similar. True or False?
+Answer:","[' True', ' False']",1
+"occlusion and blockage are similar. True or False?
+Answer:","[' True', ' False']",0
+"hoagie and sub are similar. True or False?
+Answer:","[' True', ' False']",0
+"metal and stone are similar. True or False?
+Answer:","[' True', ' False']",1
+"writable and read only are similar. True or False?
+Answer:","[' True', ' False']",1
+"post and before are similar. True or False?
+Answer:","[' True', ' False']",1
+"wreck and make are similar. True or False?
+Answer:","[' True', ' False']",1
+"straight and curved are similar. True or False?
+Answer:","[' True', ' False']",1
+"magnesia and periclase are similar. True or False?
+Answer:","[' True', ' False']",0
+"conformity and nonconformity are similar. True or False?
+Answer:","[' True', ' False']",1
+"work and unemployment are similar. True or False?
+Answer:","[' True', ' False']",1
+"microheterogeneity and macroheterogeneity are similar. True or False?
+Answer:","[' True', ' False']",1
+"general contractor and prime contractor are similar. True or False?
+Answer:","[' True', ' False']",0
+"slowness and awkwardness are similar. True or False?
+Answer:","[' True', ' False']",0
+"square and straightforward are similar. True or False?
+Answer:","[' True', ' False']",0
+"microalga and macroalga are similar. True or False?
+Answer:","[' True', ' False']",1
+"satisfied and pleased are similar. True or False?
+Answer:","[' True', ' False']",0
+"dialetheism and law of noncontradiction are similar. True or False?
+Answer:","[' True', ' False']",1
+"lyophile and lyophobic are similar. True or False?
+Answer:","[' True', ' False']",1
+"earthy and down to earth are similar. True or False?
+Answer:","[' True', ' False']",0
+"only just and hardly are similar. True or False?
+Answer:","[' True', ' False']",0
+"sugar mill and cane mill are similar. True or False?
+Answer:","[' True', ' False']",0
+"anti vaccinationist and vaccinationist are similar. True or False?
+Answer:","[' True', ' False']",1
+"apiculturist and apiarist are similar. True or False?
+Answer:","[' True', ' False']",0
+"cyberpessimism and cyberoptimism are similar. True or False?
+Answer:","[' True', ' False']",1
+"turn and twist are similar. True or False?
+Answer:","[' True', ' False']",1
+"discretionary spending and nondiscretionary spending are similar. True or False?
+Answer:","[' True', ' False']",1
+"order rajiformes and rajiformes are similar. True or False?
+Answer:","[' True', ' False']",0
+"pass and spend are similar. True or False?
+Answer:","[' True', ' False']",0
+"gray and colorful are similar. True or False?
+Answer:","[' True', ' False']",1
+"flybridge and flying bridge are similar. True or False?
+Answer:","[' True', ' False']",0
+"centre and edge are similar. True or False?
+Answer:","[' True', ' False']",1
+"defective and perfect are similar. True or False?
+Answer:","[' True', ' False']",1
+"respect and disregard are similar. True or False?
+Answer:","[' True', ' False']",1
+"rule in and rule out are similar. True or False?
+Answer:","[' True', ' False']",1
+"orchid cactus and epiphyllum are similar. True or False?
+Answer:","[' True', ' False']",0
+"underdog and safe bet are similar. True or False?
+Answer:","[' True', ' False']",1
+"rule out and allow are similar. True or False?
+Answer:","[' True', ' False']",1
+"tty and teleprinter are similar. True or False?
+Answer:","[' True', ' False']",0
+"salix lucida and shining willow are similar. True or False?
+Answer:","[' True', ' False']",0
+"concretization and abstraction are similar. True or False?
+Answer:","[' True', ' False']",1
+"biphosphoglycerate and diphosphoglycerate are similar. True or False?
+Answer:","[' True', ' False']",0
+"purple ground cherry and tomatillo are similar. True or False?
+Answer:","[' True', ' False']",0
+"red light and green light are similar. True or False?
+Answer:","[' True', ' False']",1
+"apparent and hidden are similar. True or False?
+Answer:","[' True', ' False']",1
+"windmeter and wind gauge are similar. True or False?
+Answer:","[' True', ' False']",0
+"multi owner and multitenant are similar. True or False?
+Answer:","[' True', ' False']",1
+"runnable and nonrunnable are similar. True or False?
+Answer:","[' True', ' False']",1
+"downtempo and uptempo are similar. True or False?
+Answer:","[' True', ' False']",1
+"exaggerate and overexaggerate are similar. True or False?
+Answer:","[' True', ' False']",0
+"gentle and tough are similar. True or False?
+Answer:","[' True', ' False']",1
+"systema alimentarium and digestive system are similar. True or False?
+Answer:","[' True', ' False']",0
+"stupidity and dumbness are similar. True or False?
+Answer:","[' True', ' False']",0
+"conversely and vice versa are similar. True or False?
+Answer:","[' True', ' False']",0
+"telephone card and calling card are similar. True or False?
+Answer:","[' True', ' False']",0
+"thunder and quit are similar. True or False?
+Answer:","[' True', ' False']",1
+"limp dick and priapism are similar. True or False?
+Answer:","[' True', ' False']",1
+"genus aethionema and aethionema are similar. True or False?
+Answer:","[' True', ' False']",0
+"hueful and hueless are similar. True or False?
+Answer:","[' True', ' False']",1
+"pervert and perv are similar. True or False?
+Answer:","[' True', ' False']",0
+"rock hard and flaccid are similar. True or False?
+Answer:","[' True', ' False']",1
+"non smooth and smooth are similar. True or False?
+Answer:","[' True', ' False']",1
+"roumania and romania are similar. True or False?
+Answer:","[' True', ' False']",0
+"hand and feet are similar. True or False?
+Answer:","[' True', ' False']",1
+"pinnotheres ostreum and oyster crab are similar. True or False?
+Answer:","[' True', ' False']",0
+"force back and repel are similar. True or False?
+Answer:","[' True', ' False']",0
+"calm and frantic are similar. True or False?
+Answer:","[' True', ' False']",1
+"make whoopie and revel are similar. True or False?
+Answer:","[' True', ' False']",0
+"correspond and match are similar. True or False?
+Answer:","[' True', ' False']",0
+"always and at no time are similar. True or False?
+Answer:","[' True', ' False']",1
+"toast notification and toast are similar. True or False?
+Answer:","[' True', ' False']",0
+"secondary and secondary coil are similar. True or False?
+Answer:","[' True', ' False']",0
+"day and night are similar. True or False?
+Answer:","[' True', ' False']",1
+"thatching and thatch are similar. True or False?
+Answer:","[' True', ' False']",0
+"drop and pick are similar. True or False?
+Answer:","[' True', ' False']",1
+"drop and onto are similar. True or False?
+Answer:","[' True', ' False']",1
+"gita and bhagavad gita are similar. True or False?
+Answer:","[' True', ' False']",0
+"lend and borrow are similar. True or False?
+Answer:","[' True', ' False']",1
+"condescension and disdain are similar. True or False?
+Answer:","[' True', ' False']",0
+"anti circer and pro circer are similar. True or False?
+Answer:","[' True', ' False']",1
+"cleared and exculpated are similar. True or False?
+Answer:","[' True', ' False']",0
+"identical and different are similar. True or False?
+Answer:","[' True', ' False']",1
+"ruthful and remorseful are similar. True or False?
+Answer:","[' True', ' False']",0
+"torturable and untorturable are similar. True or False?
+Answer:","[' True', ' False']",1
+"positiveness and favorableness are similar. True or False?
+Answer:","[' True', ' False']",0
+"inoxidizable and oxidizable are similar. True or False?
+Answer:","[' True', ' False']",1
+"without and with are similar. True or False?
+Answer:","[' True', ' False']",1
+"give in and intransigent are similar. True or False?
+Answer:","[' True', ' False']",1
+"brotherlike and unbrotherlike are similar. True or False?
+Answer:","[' True', ' False']",1
+"equating and equation are similar. True or False?
+Answer:","[' True', ' False']",0
+"punch down and punch up are similar. True or False?
+Answer:","[' True', ' False']",1
+"lash and strap are similar. True or False?
+Answer:","[' True', ' False']",0
+"frost and dew are similar. True or False?
+Answer:","[' True', ' False']",1
+"well and badly are similar. True or False?
+Answer:","[' True', ' False']",1
+"music and random noise are similar. True or False?
+Answer:","[' True', ' False']",1
+"back cover and front cover are similar. True or False?
+Answer:","[' True', ' False']",1
+"arrangement and disarray are similar. True or False?
+Answer:","[' True', ' False']",1
+"undam and dam are similar. True or False?
+Answer:","[' True', ' False']",1
+"subclass and superset are similar. True or False?
+Answer:","[' True', ' False']",1
+"plo and palestine liberation organization are similar. True or False?
+Answer:","[' True', ' False']",0
+"package and parcel are similar. True or False?
+Answer:","[' True', ' False']",0
+"beguile and juggle are similar. True or False?
+Answer:","[' True', ' False']",0
+"communicable and incommunicable are similar. True or False?
+Answer:","[' True', ' False']",1
+"flightless and volant are similar. True or False?
+Answer:","[' True', ' False']",1
+"earth and mother earth are similar. True or False?
+Answer:","[' True', ' False']",0
+"virgo and virgoan are similar. True or False?
+Answer:","[' True', ' False']",0
+"call and receive are similar. True or False?
+Answer:","[' True', ' False']",1
+"xenophobia and xenophily are similar. True or False?
+Answer:","[' True', ' False']",1
+"standard and colloquial are similar. True or False?
+Answer:","[' True', ' False']",1
+"two baser and double are similar. True or False?
+Answer:","[' True', ' False']",0
+"sewn and stitched are similar. True or False?
+Answer:","[' True', ' False']",0
+"juanita doe and juan doe are similar. True or False?
+Answer:","[' True', ' False']",1
+"unsuccessfully and successfully are similar. True or False?
+Answer:","[' True', ' False']",1
+"uncoinable and coinable are similar. True or False?
+Answer:","[' True', ' False']",1
+"chemosorptive and chemisorptive are similar. True or False?
+Answer:","[' True', ' False']",0
+"famous and personality are similar. True or False?
+Answer:","[' True', ' False']",1
+"falsify and cook are similar. True or False?
+Answer:","[' True', ' False']",0
+"steel and soft are similar. True or False?
+Answer:","[' True', ' False']",1
+"co defendant and codefendant are similar. True or False?
+Answer:","[' True', ' False']",0
+"tasmania and tassie are similar. True or False?
+Answer:","[' True', ' False']",0
+"subfamily philadelphaceae and philadelphaceae are similar. True or False?
+Answer:","[' True', ' False']",0
+"destroyer and build up are similar. True or False?
+Answer:","[' True', ' False']",1
+"studly and hunky are similar. True or False?
+Answer:","[' True', ' False']",0
+"boundary and circumference are similar. True or False?
+Answer:","[' True', ' False']",0
+"regnant and reigning are similar. True or False?
+Answer:","[' True', ' False']",0
+"heteroerotic and homoerotic are similar. True or False?
+Answer:","[' True', ' False']",1
+"fiddle and fudge are similar. True or False?
+Answer:","[' True', ' False']",0
+"grey nomad and snowbird are similar. True or False?
+Answer:","[' True', ' False']",0
+"underact and overact are similar. True or False?
+Answer:","[' True', ' False']",1
+"jacob's staff and ocotillo are similar. True or False?
+Answer:","[' True', ' False']",0
+"misanthrope and philanthrope are similar. True or False?
+Answer:","[' True', ' False']",1
+"destigmatization and stigmatization are similar. True or False?
+Answer:","[' True', ' False']",1
+"rise and lay are similar. True or False?
+Answer:","[' True', ' False']",1
+"kind and cruel are similar. True or False?
+Answer:","[' True', ' False']",1
+"beta vulgaris and beet are similar. True or False?
+Answer:","[' True', ' False']",0
+"connect and apart are similar. True or False?
+Answer:","[' True', ' False']",1
+"streptosolen jamesonii and marmalade bush are similar. True or False?
+Answer:","[' True', ' False']",0
+"art and junk are similar. True or False?
+Answer:","[' True', ' False']",1
+"samhain and halloween are similar. True or False?
+Answer:","[' True', ' False']",0
+"tautosyllabic and heterosyllabic are similar. True or False?
+Answer:","[' True', ' False']",1
+"steam and dry are similar. True or False?
+Answer:","[' True', ' False']",1
+"baby tooth and milk tooth are similar. True or False?
+Answer:","[' True', ' False']",0
+"good graces and good books are similar. True or False?
+Answer:","[' True', ' False']",0
+"cannulization and cannulation are similar. True or False?
+Answer:","[' True', ' False']",0
+"breedable and unbreedable are similar. True or False?
+Answer:","[' True', ' False']",1
+"chaste tree and agnus castus are similar. True or False?
+Answer:","[' True', ' False']",0
+"turn down and accept are similar. True or False?
+Answer:","[' True', ' False']",1
+"white box testing and grey box testing are similar. True or False?
+Answer:","[' True', ' False']",1
+"trinitrotoluene and trinitrotoluol are similar. True or False?
+Answer:","[' True', ' False']",0
+"closeness and nearness are similar. True or False?
+Answer:","[' True', ' False']",0
+"remote control and clicker are similar. True or False?
+Answer:","[' True', ' False']",0
+"clever and ineffectual are similar. True or False?
+Answer:","[' True', ' False']",1
+"ex libris and bookplate are similar. True or False?
+Answer:","[' True', ' False']",0
+"nosuh and yassuh are similar. True or False?
+Answer:","[' True', ' False']",1
+"peace and violence are similar. True or False?
+Answer:","[' True', ' False']",1
+"peculiar and common are similar. True or False?
+Answer:","[' True', ' False']",1
+"cove and covess are similar. True or False?
+Answer:","[' True', ' False']",1
+"continent and ocean are similar. True or False?
+Answer:","[' True', ' False']",1
+"flooded and unflooded are similar. True or False?
+Answer:","[' True', ' False']",1
+"inhale and breathe are similar. True or False?
+Answer:","[' True', ' False']",1
+"horse blanket and saddle blanket are similar. True or False?
+Answer:","[' True', ' False']",0
+"pisciform and ichthyomorph are similar. True or False?
+Answer:","[' True', ' False']",0
+"meru and meru peak are similar. True or False?
+Answer:","[' True', ' False']",0
+"exaggerate and understate are similar. True or False?
+Answer:","[' True', ' False']",1
+"sacrament of eucharist and holy eucharist are similar. True or False?
+Answer:","[' True', ' False']",0
+"on wagon and off wagon are similar. True or False?
+Answer:","[' True', ' False']",1
+"offsuit and suited are similar. True or False?
+Answer:","[' True', ' False']",1
+"navy and air are similar. True or False?
+Answer:","[' True', ' False']",1
+"taraktogenos kurzii and chaulmoogra are similar. True or False?
+Answer:","[' True', ' False']",0
+"elect and against are similar. True or False?
+Answer:","[' True', ' False']",1
+"dispensation and exemption are similar. True or False?
+Answer:","[' True', ' False']",0
+"pony and big horse are similar. True or False?
+Answer:","[' True', ' False']",1
+"assistance dog and service dog are similar. True or False?
+Answer:","[' True', ' False']",0
+"cross country skier and downhill skier are similar. True or False?
+Answer:","[' True', ' False']",1
+"kurchatovium and unnilquadium are similar. True or False?
+Answer:","[' True', ' False']",0
+"allotypic and allotypical are similar. True or False?
+Answer:","[' True', ' False']",0
+"stonelike and rocklike are similar. True or False?
+Answer:","[' True', ' False']",0
+"fishing and piscatology are similar. True or False?
+Answer:","[' True', ' False']",0
+"everyday and workaday are similar. True or False?
+Answer:","[' True', ' False']",0
+"potamogeton crispus and curleyleaf pondweed are similar. True or False?
+Answer:","[' True', ' False']",0
+"mollify and assuage are similar. True or False?
+Answer:","[' True', ' False']",0
+"trisphosphate and triphosphate are similar. True or False?
+Answer:","[' True', ' False']",0
+"outlooking and inspecting are similar. True or False?
+Answer:","[' True', ' False']",0
+"flavorful and flavoursome are similar. True or False?
+Answer:","[' True', ' False']",0
+"plurality and singularity are similar. True or False?
+Answer:","[' True', ' False']",1
+"railfanning and train spotting are similar. True or False?
+Answer:","[' True', ' False']",0
+"freedom and slavery are similar. True or False?
+Answer:","[' True', ' False']",1
+"plantable and unplantable are similar. True or False?
+Answer:","[' True', ' False']",1
+"print and cursive are similar. True or False?
+Answer:","[' True', ' False']",1
+"secondary source and secondary work are similar. True or False?
+Answer:","[' True', ' False']",0
+"fiendlike and demonic are similar. True or False?
+Answer:","[' True', ' False']",0
+"bandyleg and bowleg are similar. True or False?
+Answer:","[' True', ' False']",0
+"aluminium trihydride and aluminium hydride are similar. True or False?
+Answer:","[' True', ' False']",0
+"witch grass and dog grass are similar. True or False?
+Answer:","[' True', ' False']",0
+"normophilia and paraphilia are similar. True or False?
+Answer:","[' True', ' False']",1
+"read and write are similar. True or False?
+Answer:","[' True', ' False']",1
+"danau and danube are similar. True or False?
+Answer:","[' True', ' False']",0
+"petrogr and petrog are similar. True or False?
+Answer:","[' True', ' False']",0
+"digenetic and heteroxenous are similar. True or False?
+Answer:","[' True', ' False']",0
+"angerless and angerful are similar. True or False?
+Answer:","[' True', ' False']",1
+"emission and discharge are similar. True or False?
+Answer:","[' True', ' False']",0
+"cipher and encipher are similar. True or False?
+Answer:","[' True', ' False']",0
+"bundle and parcel are similar. True or False?
+Answer:","[' True', ' False']",0
+"caption and subtitle are similar. True or False?
+Answer:","[' True', ' False']",0
+"unhyphenate and hyphenate are similar. True or False?
+Answer:","[' True', ' False']",1
+"absofreakinlutely and abso fucking lutely are similar. True or False?
+Answer:","[' True', ' False']",0
+"reward and punishment are similar. True or False?
+Answer:","[' True', ' False']",1
+"mana flood and mana screw are similar. True or False?
+Answer:","[' True', ' False']",1
+"pawn and queen are similar. True or False?
+Answer:","[' True', ' False']",1
+"unerasable and unrecordable are similar. True or False?
+Answer:","[' True', ' False']",1
+"language independent and language dependent are similar. True or False?
+Answer:","[' True', ' False']",1
+"only just and scarcely are similar. True or False?
+Answer:","[' True', ' False']",0
+"specter and ghost are similar. True or False?
+Answer:","[' True', ' False']",0
+"irritation and soothing are similar. True or False?
+Answer:","[' True', ' False']",1
+"bigoted and tolerant are similar. True or False?
+Answer:","[' True', ' False']",1
+"as for and about are similar. True or False?
+Answer:","[' True', ' False']",0
+"monospace and proportional are similar. True or False?
+Answer:","[' True', ' False']",1
+"think up and come up with are similar. True or False?
+Answer:","[' True', ' False']",0
+"rock and sand are similar. True or False?
+Answer:","[' True', ' False']",1
+"altruistically and misanthropically are similar. True or False?
+Answer:","[' True', ' False']",1
+"danger and secure are similar. True or False?
+Answer:","[' True', ' False']",1
+"low resolution and high resolution are similar. True or False?
+Answer:","[' True', ' False']",1
+"care and being mean are similar. True or False?
+Answer:","[' True', ' False']",1
+"glad and cranky are similar. True or False?
+Answer:","[' True', ' False']",1
+"put on and take off are similar. True or False?
+Answer:","[' True', ' False']",1
+"batonic and iconic are similar. True or False?
+Answer:","[' True', ' False']",1
+"allocentric and egocentric are similar. True or False?
+Answer:","[' True', ' False']",1
+"port orford cedar and oregon cedar are similar. True or False?
+Answer:","[' True', ' False']",0
+"genus colutea and colutea are similar. True or False?
+Answer:","[' True', ' False']",0
+"geocentrism and heliocentrism are similar. True or False?
+Answer:","[' True', ' False']",1
+"neighbour and person are similar. True or False?
+Answer:","[' True', ' False']",1
+"crowd and alone are similar. True or False?
+Answer:","[' True', ' False']",1
+"side bitch and main bitch are similar. True or False?
+Answer:","[' True', ' False']",1
+"unluckily and luckily are similar. True or False?
+Answer:","[' True', ' False']",1
+"switchblade knife and switchblade are similar. True or False?
+Answer:","[' True', ' False']",0
+"family cricetidae and cricetidae are similar. True or False?
+Answer:","[' True', ' False']",0
+"chemical oxygen generator and oxygen candle are similar. True or False?
+Answer:","[' True', ' False']",0
+"laughter and giggle are similar. True or False?
+Answer:","[' True', ' False']",0
+"apple and pears are similar. True or False?
+Answer:","[' True', ' False']",1
+"possibly and certainly are similar. True or False?
+Answer:","[' True', ' False']",1
+"colony and country are similar. True or False?
+Answer:","[' True', ' False']",1
+"indivisibility and unmergeability are similar. True or False?
+Answer:","[' True', ' False']",1
+"elegant and clumsy are similar. True or False?
+Answer:","[' True', ' False']",1
+"sorrel and brownish orange are similar. True or False?
+Answer:","[' True', ' False']",0
+"butterface and butterbody are similar. True or False?
+Answer:","[' True', ' False']",1
+"compaction and crush are similar. True or False?
+Answer:","[' True', ' False']",0
+"feed and starve are similar. True or False?
+Answer:","[' True', ' False']",1
+"airable and unairable are similar. True or False?
+Answer:","[' True', ' False']",1
+"abundant and scarce are similar. True or False?
+Answer:","[' True', ' False']",1
+"spark off and trip are similar. True or False?
+Answer:","[' True', ' False']",0
+"representative sample and stratified sample are similar. True or False?
+Answer:","[' True', ' False']",0
+"thiodiphenylamine and phenothiazine are similar. True or False?
+Answer:","[' True', ' False']",0
+"wide and narrow are similar. True or False?
+Answer:","[' True', ' False']",1
+"disconfirming and negative are similar. True or False?
+Answer:","[' True', ' False']",0
+"toe cheese and toe jam are similar. True or False?
+Answer:","[' True', ' False']",0
+"overarousal and underarousal are similar. True or False?
+Answer:","[' True', ' False']",1
+"division and together are similar. True or False?
+Answer:","[' True', ' False']",1
+"relation and general are similar. True or False?
+Answer:","[' True', ' False']",1
+"disclose and withhold are similar. True or False?
+Answer:","[' True', ' False']",1
+"malevolent and benevolent are similar. True or False?
+Answer:","[' True', ' False']",1
+"bridgmanite and silicate perovskite are similar. True or False?
+Answer:","[' True', ' False']",0
+"decreation and creation are similar. True or False?
+Answer:","[' True', ' False']",1
+"mumpsimus and sumpsimus are similar. True or False?
+Answer:","[' True', ' False']",1
+"move and easy are similar. True or False?
+Answer:","[' True', ' False']",1
+"despite and contempt are similar. True or False?
+Answer:","[' True', ' False']",0
+"chick and guy are similar. True or False?
+Answer:","[' True', ' False']",1
+"orchestrate and mastermind are similar. True or False?
+Answer:","[' True', ' False']",0
+"rat and denounce are similar. True or False?
+Answer:","[' True', ' False']",0
+"chrysarobin and araroba are similar. True or False?
+Answer:","[' True', ' False']",0
+"platform and podium are similar. True or False?
+Answer:","[' True', ' False']",0
+"grip and hang out are similar. True or False?
+Answer:","[' True', ' False']",0
+"adjudicate and judge are similar. True or False?
+Answer:","[' True', ' False']",0
+"hardcore and mild are similar. True or False?
+Answer:","[' True', ' False']",1
+"western osprey and osprey are similar. True or False?
+Answer:","[' True', ' False']",0
+"muscicapa grisola and spotted flycatcher are similar. True or False?
+Answer:","[' True', ' False']",0
+"big and small are similar. True or False?
+Answer:","[' True', ' False']",1
+"intensifier and downtoner are similar. True or False?
+Answer:","[' True', ' False']",1
+"sticking plaster and adhesive bandage are similar. True or False?
+Answer:","[' True', ' False']",0
+"odd lot and round lot are similar. True or False?
+Answer:","[' True', ' False']",1
+"uncle and aunty are similar. True or False?
+Answer:","[' True', ' False']",1
+"play joke on and hoax are similar. True or False?
+Answer:","[' True', ' False']",0
+"infer and generalize are similar. True or False?
+Answer:","[' True', ' False']",0
+"natural reserve and wildlife reserve are similar. True or False?
+Answer:","[' True', ' False']",0
+"lead and pencil are similar. True or False?
+Answer:","[' True', ' False']",1
+"chophouse and steakhouse are similar. True or False?
+Answer:","[' True', ' False']",0
+"sweet lime and sweet limetta are similar. True or False?
+Answer:","[' True', ' False']",0
+"nice and horrible are similar. True or False?
+Answer:","[' True', ' False']",1
+"hamamelis virginiana and virginian witch hazel are similar. True or False?
+Answer:","[' True', ' False']",0
+"temporality and temporalty are similar. True or False?
+Answer:","[' True', ' False']",0
+"scrupulous and ethical are similar. True or False?
+Answer:","[' True', ' False']",0
+"softcode and hardcode are similar. True or False?
+Answer:","[' True', ' False']",1
+"soft and loud are similar. True or False?
+Answer:","[' True', ' False']",1
+"clinker block and cinder block are similar. True or False?
+Answer:","[' True', ' False']",0
+"bad old days and good old days are similar. True or False?
+Answer:","[' True', ' False']",1
+"wordless and wordful are similar. True or False?
+Answer:","[' True', ' False']",1
+"charity and jacob's ladder are similar. True or False?
+Answer:","[' True', ' False']",0
+"demonstrable and indemonstrable are similar. True or False?
+Answer:","[' True', ' False']",1
+"implicitly and explicitly are similar. True or False?
+Answer:","[' True', ' False']",1
+"cut and tape are similar. True or False?
+Answer:","[' True', ' False']",1
+"asian and east asian are similar. True or False?
+Answer:","[' True', ' False']",0
+"rebirth and metempsychosis are similar. True or False?
+Answer:","[' True', ' False']",0
+"hiv positive and hiv negative are similar. True or False?
+Answer:","[' True', ' False']",1
+"cent and dollars are similar. True or False?
+Answer:","[' True', ' False']",1
+"protection and security are similar. True or False?
+Answer:","[' True', ' False']",0
+"thou and you are similar. True or False?
+Answer:","[' True', ' False']",1
+"finity and endlessness are similar. True or False?
+Answer:","[' True', ' False']",1
+"machismo and machoism are similar. True or False?
+Answer:","[' True', ' False']",0
+"unsellable and salable are similar. True or False?
+Answer:","[' True', ' False']",1
+"trace element and nutrient are similar. True or False?
+Answer:","[' True', ' False']",1
+"black and dark are similar. True or False?
+Answer:","[' True', ' False']",0
+"shoe repairing and shoemaking are similar. True or False?
+Answer:","[' True', ' False']",0
+"pro circ and anti circ are similar. True or False?
+Answer:","[' True', ' False']",1
+"venesection and phlebotomy are similar. True or False?
+Answer:","[' True', ' False']",0
+"oxygen and empty space are similar. True or False?
+Answer:","[' True', ' False']",1
+"mimosa pudica and sensitive plant are similar. True or False?
+Answer:","[' True', ' False']",0
+"fiction and fact are similar. True or False?
+Answer:","[' True', ' False']",1
+"politically incorrect and politically correct are similar. True or False?
+Answer:","[' True', ' False']",1
+"inconquerable and conquerable are similar. True or False?
+Answer:","[' True', ' False']",1
+"physoclist and physostome are similar. True or False?
+Answer:","[' True', ' False']",1
+"small ticket and big ticket are similar. True or False?
+Answer:","[' True', ' False']",1
+"unabideable and abideable are similar. True or False?
+Answer:","[' True', ' False']",1
+"t shirt and jersey are similar. True or False?
+Answer:","[' True', ' False']",0
+"cochlearia officinalis and scurvy grass are similar. True or False?
+Answer:","[' True', ' False']",0
+"formal fallacy and informal fallacy are similar. True or False?
+Answer:","[' True', ' False']",1
+"republic of indonesia and indonesia are similar. True or False?
+Answer:","[' True', ' False']",0
+"anarcha feminism and anarchist feminism are similar. True or False?
+Answer:","[' True', ' False']",0
+"abrogate and promulgate are similar. True or False?
+Answer:","[' True', ' False']",1
+"tighten and stiffen are similar. True or False?
+Answer:","[' True', ' False']",0
+"arise and surface are similar. True or False?
+Answer:","[' True', ' False']",0
+"inevitably and evitably are similar. True or False?
+Answer:","[' True', ' False']",1
+"diacetoxyscirpenol and das are similar. True or False?
+Answer:","[' True', ' False']",0
+"casualty and casualty department are similar. True or False?
+Answer:","[' True', ' False']",0
+"law latin and apothecary's latin are similar. True or False?
+Answer:","[' True', ' False']",0
+"arrival and departure are similar. True or False?
+Answer:","[' True', ' False']",1
+"antiblackness and problackness are similar. True or False?
+Answer:","[' True', ' False']",1
+"lower airway and upper airway are similar. True or False?
+Answer:","[' True', ' False']",1
+"nonketoic and ketoic are similar. True or False?
+Answer:","[' True', ' False']",1
+"panthera tigris and tiger are similar. True or False?
+Answer:","[' True', ' False']",0
+"transmutation and transformation are similar. True or False?
+Answer:","[' True', ' False']",0
+"blue channel cat and blue catfish are similar. True or False?
+Answer:","[' True', ' False']",0
+"upper limit and lower limit are similar. True or False?
+Answer:","[' True', ' False']",1
+"dysbiosis and eubiosis are similar. True or False?
+Answer:","[' True', ' False']",1
+"new style calendar and gregorian calendar are similar. True or False?
+Answer:","[' True', ' False']",0
+"anglophilic and anglophobic are similar. True or False?
+Answer:","[' True', ' False']",1
+"sour and sourness are similar. True or False?
+Answer:","[' True', ' False']",0
+"allied and confederative are similar. True or False?
+Answer:","[' True', ' False']",0
+"seeded and unseeded are similar. True or False?
+Answer:","[' True', ' False']",1
+"intracellular and extracellular are similar. True or False?
+Answer:","[' True', ' False']",1
+"self chastisement and self punishment are similar. True or False?
+Answer:","[' True', ' False']",0
+"insipidness and boringness are similar. True or False?
+Answer:","[' True', ' False']",0
+"comprador bourgeoisie and national bourgeoisie are similar. True or False?
+Answer:","[' True', ' False']",1
+"fibreglass and fibreglass wool are similar. True or False?
+Answer:","[' True', ' False']",0
+"quantitatively and qualitatively are similar. True or False?
+Answer:","[' True', ' False']",1
+"veracious and untruthful are similar. True or False?
+Answer:","[' True', ' False']",1
+"fill and emptying are similar. True or False?
+Answer:","[' True', ' False']",1
+"trunkfish and boxfish are similar. True or False?
+Answer:","[' True', ' False']",0
+"defense and offense are similar. True or False?
+Answer:","[' True', ' False']",1
+"man and female person are similar. True or False?
+Answer:","[' True', ' False']",1
+"jalopy and bus are similar. True or False?
+Answer:","[' True', ' False']",0
+"cyberstudies and cybersociology are similar. True or False?
+Answer:","[' True', ' False']",0
+"build and demolition are similar. True or False?
+Answer:","[' True', ' False']",1
+"tax and refund are similar. True or False?
+Answer:","[' True', ' False']",1
+"continent and incontinent are similar. True or False?
+Answer:","[' True', ' False']",1
+"inimical and friendly are similar. True or False?
+Answer:","[' True', ' False']",1
+"white livered and chickenhearted are similar. True or False?
+Answer:","[' True', ' False']",0
+"quantified and unquantified are similar. True or False?
+Answer:","[' True', ' False']",1
+"jail and prison are similar. True or False?
+Answer:","[' True', ' False']",0
+"minority government and minority cabinet are similar. True or False?
+Answer:","[' True', ' False']",0
+"transitively and intransitively are similar. True or False?
+Answer:","[' True', ' False']",1
+"computer address and address are similar. True or False?
+Answer:","[' True', ' False']",0
+"zoom in and zoom out are similar. True or False?
+Answer:","[' True', ' False']",1
+"biconvex and convexo convex are similar. True or False?
+Answer:","[' True', ' False']",0
+"downgaze and upgaze are similar. True or False?
+Answer:","[' True', ' False']",1
+"luck into and stumble upon are similar. True or False?
+Answer:","[' True', ' False']",0
+"flat footed and flatfooted are similar. True or False?
+Answer:","[' True', ' False']",0
+"hostile and friendly are similar. True or False?
+Answer:","[' True', ' False']",1
+"laughable and ridiculous are similar. True or False?
+Answer:","[' True', ' False']",0
+"onto and off of are similar. True or False?
+Answer:","[' True', ' False']",1
+"flunkey and lackey are similar. True or False?
+Answer:","[' True', ' False']",0
+"ur science and proto science are similar. True or False?
+Answer:","[' True', ' False']",0
+"decline and reject are similar. True or False?
+Answer:","[' True', ' False']",0
+"walk and run are similar. True or False?
+Answer:","[' True', ' False']",1
+"untweetable and tweetable are similar. True or False?
+Answer:","[' True', ' False']",1
+"sea and beach are similar. True or False?
+Answer:","[' True', ' False']",1
+"unremarkable and jejune are similar. True or False?
+Answer:","[' True', ' False']",0
+"greek church and greek orthodox church are similar. True or False?
+Answer:","[' True', ' False']",0
+"birthday and dead day are similar. True or False?
+Answer:","[' True', ' False']",1
+"batch and continuous are similar. True or False?
+Answer:","[' True', ' False']",1
+"algebraic and transcendental are similar. True or False?
+Answer:","[' True', ' False']",1
+"anaerobic and aerobic are similar. True or False?
+Answer:","[' True', ' False']",1
+"lillooet and st at imc are similar. True or False?
+Answer:","[' True', ' False']",0
+"aimless and directionless are similar. True or False?
+Answer:","[' True', ' False']",0
+"syrian hamster and golden hamster are similar. True or False?
+Answer:","[' True', ' False']",0
+"outer and inner are similar. True or False?
+Answer:","[' True', ' False']",1
+"introduce and conclusion are similar. True or False?
+Answer:","[' True', ' False']",1
+"history and present are similar. True or False?
+Answer:","[' True', ' False']",1
+"altophobia and bathophobia are similar. True or False?
+Answer:","[' True', ' False']",1
+"godunov and boris fyodorovich godunov are similar. True or False?
+Answer:","[' True', ' False']",0
+"day and week are similar. True or False?
+Answer:","[' True', ' False']",1
+"bird and chick are similar. True or False?
+Answer:","[' True', ' False']",0
+"granth sahib and adi granth are similar. True or False?
+Answer:","[' True', ' False']",0
+"bellist and bell ringer are similar. True or False?
+Answer:","[' True', ' False']",0
+"voiceless and breathed are similar. True or False?
+Answer:","[' True', ' False']",0
+"free and buy are similar. True or False?
+Answer:","[' True', ' False']",1
+"defined and undefined are similar. True or False?
+Answer:","[' True', ' False']",1
+"reversible and irreversible are similar. True or False?
+Answer:","[' True', ' False']",1
+"shadowy and shadowed are similar. True or False?
+Answer:","[' True', ' False']",0
+"renounce and foreswear are similar. True or False?
+Answer:","[' True', ' False']",0
+"sms and text message are similar. True or False?
+Answer:","[' True', ' False']",0
+"tribasic sodium phosphate and trisodium phosphate are similar. True or False?
+Answer:","[' True', ' False']",0
+"albino and hypermelanoid are similar. True or False?
+Answer:","[' True', ' False']",1
+"inner automorphism and outer automorphism are similar. True or False?
+Answer:","[' True', ' False']",1
+"nonvolatile and volatile are similar. True or False?
+Answer:","[' True', ' False']",1
+"jettison and chuck are similar. True or False?
+Answer:","[' True', ' False']",0
+"scientific name and common name are similar. True or False?
+Answer:","[' True', ' False']",1
+"metatungstic acid and polytungstic acid are similar. True or False?
+Answer:","[' True', ' False']",0
+"this evening and this morning are similar. True or False?
+Answer:","[' True', ' False']",1
+"gold and silver are similar. True or False?
+Answer:","[' True', ' False']",1
+"muslim and non muslim are similar. True or False?
+Answer:","[' True', ' False']",1
+"hemin and protohemin are similar. True or False?
+Answer:","[' True', ' False']",0
+"usonian and prairie are similar. True or False?
+Answer:","[' True', ' False']",0
+"good faith and bad faith are similar. True or False?
+Answer:","[' True', ' False']",1
+"compose and formulate are similar. True or False?
+Answer:","[' True', ' False']",0
+"delundung and linsang are similar. True or False?
+Answer:","[' True', ' False']",0
+"small game and big game are similar. True or False?
+Answer:","[' True', ' False']",1
+"decoupling and coupling are similar. True or False?
+Answer:","[' True', ' False']",1
+"decrease and increase are similar. True or False?
+Answer:","[' True', ' False']",1
+"week and strong are similar. True or False?
+Answer:","[' True', ' False']",1
+"poor and adequate are similar. True or False?
+Answer:","[' True', ' False']",1
+"acer negundo californicum and california box elder are similar. True or False?
+Answer:","[' True', ' False']",0
+"outboard and outboard motorboat are similar. True or False?
+Answer:","[' True', ' False']",0
+"pleasure and displeasure are similar. True or False?
+Answer:","[' True', ' False']",1
+"ricebird and bobolink are similar. True or False?
+Answer:","[' True', ' False']",0
+"high and short are similar. True or False?
+Answer:","[' True', ' False']",1
+"general and special are similar. True or False?
+Answer:","[' True', ' False']",1
+"vicia orobus and bitter betch are similar. True or False?
+Answer:","[' True', ' False']",0
+"knuckle under and yield are similar. True or False?
+Answer:","[' True', ' False']",0
+"reduce and augment are similar. True or False?
+Answer:","[' True', ' False']",1
+"loose and tense are similar. True or False?
+Answer:","[' True', ' False']",1
+"unsigned and signed are similar. True or False?
+Answer:","[' True', ' False']",1
+"organize and mess are similar. True or False?
+Answer:","[' True', ' False']",1
+"subjective and objective are similar. True or False?
+Answer:","[' True', ' False']",1
+"bindle and swag are similar. True or False?
+Answer:","[' True', ' False']",0
+"fish and mammal are similar. True or False?
+Answer:","[' True', ' False']",1
+"surcharge and discount are similar. True or False?
+Answer:","[' True', ' False']",1
+"romanophile and romanophobe are similar. True or False?
+Answer:","[' True', ' False']",1
+"insertion and origin are similar. True or False?
+Answer:","[' True', ' False']",1
+"my foot and my ass are similar. True or False?
+Answer:","[' True', ' False']",0
+"superiority and inferiority are similar. True or False?
+Answer:","[' True', ' False']",1
+"demersal and planktonic are similar. True or False?
+Answer:","[' True', ' False']",1
+"debt and savings are similar. True or False?
+Answer:","[' True', ' False']",1
+"well fitting and conforming are similar. True or False?
+Answer:","[' True', ' False']",0
+"sortedness and unsortedness are similar. True or False?
+Answer:","[' True', ' False']",1
+"harmfulness and harmlessness are similar. True or False?
+Answer:","[' True', ' False']",1
+"double edged sword and two edged sword are similar. True or False?
+Answer:","[' True', ' False']",0
+"hysteroid and hysteroidal are similar. True or False?
+Answer:","[' True', ' False']",0
+"hypoammonemia and hyperammonemia are similar. True or False?
+Answer:","[' True', ' False']",1
+"anger and happiness are similar. True or False?
+Answer:","[' True', ' False']",1
+"sahul and australia new guinea are similar. True or False?
+Answer:","[' True', ' False']",0
+"early riser and late riser are similar. True or False?
+Answer:","[' True', ' False']",1
+"grafting and graft are similar. True or False?
+Answer:","[' True', ' False']",0
+"bechance and befall are similar. True or False?
+Answer:","[' True', ' False']",0
+"white hole and black hole are similar. True or False?
+Answer:","[' True', ' False']",1
+"birthless and deathless are similar. True or False?
+Answer:","[' True', ' False']",1
+"wamble cropped and crapulous are similar. True or False?
+Answer:","[' True', ' False']",0
+"adrenomyeloneuropathy and adrenoleukodystrophy are similar. True or False?
+Answer:","[' True', ' False']",0
+"interest and disinterest are similar. True or False?
+Answer:","[' True', ' False']",1
+"chrysanthemum ptarmiciflorum and dusty miller are similar. True or False?
+Answer:","[' True', ' False']",0
+"shear thinning and shear thickening are similar. True or False?
+Answer:","[' True', ' False']",1
+"uncharming and charming are similar. True or False?
+Answer:","[' True', ' False']",1
+"overculture and uberculture are similar. True or False?
+Answer:","[' True', ' False']",0
+"leading and starring are similar. True or False?
+Answer:","[' True', ' False']",0
+"inhumanly and humanly are similar. True or False?
+Answer:","[' True', ' False']",1
+"insubmergible and submergible are similar. True or False?
+Answer:","[' True', ' False']",1
+"anti aircraft and archie are similar. True or False?
+Answer:","[' True', ' False']",0
+"south caucasus and transcaucasus are similar. True or False?
+Answer:","[' True', ' False']",0
+"undergang and overgang are similar. True or False?
+Answer:","[' True', ' False']",1
+"fair and dark are similar. True or False?
+Answer:","[' True', ' False']",1
+"bullet and blanks are similar. True or False?
+Answer:","[' True', ' False']",1
+"intransigent and give in are similar. True or False?
+Answer:","[' True', ' False']",1
+"chop off and cut off are similar. True or False?
+Answer:","[' True', ' False']",0
+"intermandibular and interramal are similar. True or False?
+Answer:","[' True', ' False']",0
+"super bowl and superb owl are similar. True or False?
+Answer:","[' True', ' False']",0
+"travelling wave and transverse wave are similar. True or False?
+Answer:","[' True', ' False']",1
+"lunar month and lunation are similar. True or False?
+Answer:","[' True', ' False']",0
+"prescriptivist and descriptivist are similar. True or False?
+Answer:","[' True', ' False']",1
+"deny and confirm are similar. True or False?
+Answer:","[' True', ' False']",1
+"retard and come forward are similar. True or False?
+Answer:","[' True', ' False']",1
+"doubtfulness and doubt are similar. True or False?
+Answer:","[' True', ' False']",0
+"lampoon and parody are similar. True or False?
+Answer:","[' True', ' False']",0
+"harvest and autumn are similar. True or False?
+Answer:","[' True', ' False']",0
+"unobjective and unverifiable are similar. True or False?
+Answer:","[' True', ' False']",0
+"with prejudice and without prejudice are similar. True or False?
+Answer:","[' True', ' False']",1
+"grandson and granddaughter are similar. True or False?
+Answer:","[' True', ' False']",1
+"impede and delay are similar. True or False?
+Answer:","[' True', ' False']",0
+"twinkle and glimmer are similar. True or False?
+Answer:","[' True', ' False']",0
+"northside and southside are similar. True or False?
+Answer:","[' True', ' False']",1
+"wizard and assistant are similar. True or False?
+Answer:","[' True', ' False']",0
+"actuating and activating are similar. True or False?
+Answer:","[' True', ' False']",0
+"old and aged are similar. True or False?
+Answer:","[' True', ' False']",0
+"subduable and unsubduable are similar. True or False?
+Answer:","[' True', ' False']",1
+"dramatics and histrionics are similar. True or False?
+Answer:","[' True', ' False']",0
+"hard liquor and soft drink are similar. True or False?
+Answer:","[' True', ' False']",1
+"santalic acid and santalin are similar. True or False?
+Answer:","[' True', ' False']",0
+"dismount and get on are similar. True or False?
+Answer:","[' True', ' False']",1
+"red backed lemming and gray lemming are similar. True or False?
+Answer:","[' True', ' False']",0
+"piscatory and piscatorial are similar. True or False?
+Answer:","[' True', ' False']",0
+"flood tide and ebb are similar. True or False?
+Answer:","[' True', ' False']",1
+"stole and give are similar. True or False?
+Answer:","[' True', ' False']",1
+"order charales and charales are similar. True or False?
+Answer:","[' True', ' False']",0
+"supergeeky and supernerdy are similar. True or False?
+Answer:","[' True', ' False']",0
+"genus phoca and phoca are similar. True or False?
+Answer:","[' True', ' False']",0
+"chairman and chair are similar. True or False?
+Answer:","[' True', ' False']",0
+"weary and tire are similar. True or False?
+Answer:","[' True', ' False']",0
+"laurel and laurels are similar. True or False?
+Answer:","[' True', ' False']",0
+"modesty and lack are similar. True or False?
+Answer:","[' True', ' False']",1
+"argot and jargon are similar. True or False?
+Answer:","[' True', ' False']",0
+"adventure and lazy are similar. True or False?
+Answer:","[' True', ' False']",1
+"stretch and shrink are similar. True or False?
+Answer:","[' True', ' False']",1
+"hives and urtication are similar. True or False?
+Answer:","[' True', ' False']",0
+"shadoof and dhenkli are similar. True or False?
+Answer:","[' True', ' False']",0
+"overqualified and underqualified are similar. True or False?
+Answer:","[' True', ' False']",1
+"behind and in front of are similar. True or False?
+Answer:","[' True', ' False']",1
+"gradable and ungradable are similar. True or False?
+Answer:","[' True', ' False']",1
+"private life and public life are similar. True or False?
+Answer:","[' True', ' False']",1
+"zhou and chou are similar. True or False?
+Answer:","[' True', ' False']",0
+"phallocratic and gynocratic are similar. True or False?
+Answer:","[' True', ' False']",1
+"fistulina hepatica and beefsteak fungus are similar. True or False?
+Answer:","[' True', ' False']",0
+"coconut tree and coconut are similar. True or False?
+Answer:","[' True', ' False']",0
+"treble recorder and flageolet are similar. True or False?
+Answer:","[' True', ' False']",0
+"hypericum maculatum and st peter's wort are similar. True or False?
+Answer:","[' True', ' False']",0
+"greek clover and fenugreek are similar. True or False?
+Answer:","[' True', ' False']",0
+"baby and old person are similar. True or False?
+Answer:","[' True', ' False']",1
+"charming and charmless are similar. True or False?
+Answer:","[' True', ' False']",1
+"boyscout and scout are similar. True or False?
+Answer:","[' True', ' False']",0
+"caodaism and cao dai are similar. True or False?
+Answer:","[' True', ' False']",0
+"u.s congress and congress are similar. True or False?
+Answer:","[' True', ' False']",0
+"whipping and thrashing are similar. True or False?
+Answer:","[' True', ' False']",0
+"cry and happy are similar. True or False?
+Answer:","[' True', ' False']",1
+"test harness and automated test framework are similar. True or False?
+Answer:","[' True', ' False']",0
+"wake and wake island are similar. True or False?
+Answer:","[' True', ' False']",0

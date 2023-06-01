@@ -13,6 +13,7 @@ TaskType = Literal[
     "sequence_prob",
     "logodds",
     "absolute_logodds",
+    "hitrate"
 ]
 
 
@@ -45,6 +46,12 @@ class NumericExample(Example):
 class SequenceProbExample(Example):
     prompt: str
     completion: str
+
+@dataclass
+class HitRateExample(Example):
+    prompt: str
+    completion: list[str]
+
 
 
 @dataclass
@@ -96,6 +103,15 @@ class Dataset:
         examples = []
         for _, row in df.iterrows():
             example = SequenceProbExample(row["prompt"], row["completion"])
+            examples.append(example)
+        return Dataset(examples)
+
+
+    @classmethod
+    def hitrate_from_df(cls, df: pd.DataFrame) -> Dataset:
+        examples = []
+        for _, row in df.iterrows():
+            example = HitRateExample(row["prompt"], row["completion"])
             examples.append(example)
         return Dataset(examples)
 

@@ -20,7 +20,9 @@ InstructGPT3Model = Literal[
     "text-ada-001",
     "text-babbage-001",
     "text-curie-001",
-    "text-davinci-001",
+    "text-davinci-003",
+    "text-davinci-001"
+
 ]
 
 OpenAIModel = Literal[BaseGPT3Model, InstructGPT3Model]
@@ -39,7 +41,7 @@ class APIParameters:
 
 OPENAI_API_BASE_URL = "https://api.openai.com/v1/engines"
 load_dotenv()
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_KEY = "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"
 
 def call_api(
     prompt: Union[str, list[str]],

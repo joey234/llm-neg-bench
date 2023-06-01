@@ -1,0 +1,16 @@
+{
+  "dataset": null,
+  "dataset_path": "sar_test_8shots.csv",
+  "exp_dir": "sar/8shots/gpt3/acc",
+  "models": [
+    "text-ada-001",
+    "text-babbage-001",
+    "text-curie-001",
+    "text-davinci-003"
+  ],
+  "use_gpu": false,
+  "contrastive_search": false,
+  "batch_size": 100,
+  "task_type": "classification_acc",
+  "logging_level": "info"
+}

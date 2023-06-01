@@ -59,7 +59,7 @@ def main():
     device = "cuda:0" if args.use_gpu and torch.cuda.is_available() else "cpu"
     model_names = args.models
     for model_name in tqdm(model_names):
-        run_model(model_name, data, write_dir, device, args.batch_size, args.task_type)
+        run_model(model_name, data, write_dir, device, args.batch_size, args.task_type, args.contrastive_search)
 
     # final step to add all results to a jsonl
     labelled_df = load_df(data_path)
@@ -100,6 +100,8 @@ def load_data(dataset_path: Path, task_type: TaskType) -> Dataset:
         dataset = Dataset.numeric_from_df(df)
     elif task_type == "sequence_prob":
         dataset = Dataset.sequence_prob_from_df(df)
+    elif task_type == "hitrate":
+        dataset = Dataset.hitrate_from_df(df)    
     elif task_type == "logodds" or task_type == "absolute_logodds":
         # we can just reuse the classification dataset type
         dataset = Dataset.logodds_from_df(df)
@@ -124,6 +126,7 @@ def run_model(
     device: Device,
     batch_size: int,
     task_type: TaskType,
+    contrastive_search: bool
 ):
     """This function needs to run the model on the data and
     write the results to write_path incrementally."""
@@ -137,6 +140,9 @@ def run_model(
         field_names = ["index", "estimate"]
     elif task_type in ["logodds", "absolute_logodds"]:
         field_names = ["index", "logodds_difference", "correct", "total_logprob"]
+    elif task_type in ["hitrate"]:
+        field_names = ["index", "WHR@1", "WHR@3", "WHR@5"]
+
     else:
         raise ValueError(f"unknown task type {task_type}")
 
@@ -148,7 +154,7 @@ def run_model(
         # TODO: Fix padding so I can use >1 batch size for transformers models as well
         for start_index in tqdm(range(0, n_data, batch_size)):
             examples = data.examples[start_index : start_index + batch_size]
-            outputs = model(examples, task_type)
+            outputs = model(examples, task_type, write_dir, contrastive_search)
             # we don't always have a full batch so just use the length of the actual output rather than the batch size
             n_outputs = len(list(outputs.values())[0])
             rows = [{"index": start_index + offset} for offset in range(n_outputs)]
@@ -206,12 +212,26 @@ def parse_args(args):
             "text-babbage-001",
             "text-curie-001",
             "text-davinci-001",
+            "text-davinci-003",
             "opt-125m",
             "opt-350m",
             "opt-1.3b",
             "opt-2.7b",
             "opt-6.7b",
             "opt-13b",
+            "gpt-neox-20B",
+            "flan-t5-small",
+            "flan-t5-base",
+            "flan-t5-large",
+            "flan-t5-xl",
+            "flan-t5-xxl",
+            "T0pp",
+            "T0_3B",
+            "t5-small",
+            "t5-base",
+            "t5-large",
+            "t5-3b",
+            "t5-11b"
         ],
         required=True,
     )
@@ -220,6 +240,13 @@ def parse_args(args):
         action="store_true",
         help="Whether to use a GPU (if available)",
     )
+    parser.add_argument(
+        "--contrastive-search",
+        type=bool,
+        default=False,
+        help="Whether to use contrastive search decoding strategy",
+    )
+
 
     parser.add_argument(
         "--batch-size",
@@ -239,6 +266,7 @@ def parse_args(args):
             "sequence_prob",
             "logodds",
             "absolute_logodds",
+            "hitrate"
         ],
     )
     parser.add_argument(

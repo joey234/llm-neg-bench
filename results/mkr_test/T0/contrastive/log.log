@@ -1,0 +1,4 @@
+2022-11-17 11:06:52,000 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='mkrnq_prompt.csv', exp_dir='mkr_test/T0/contrastive', models=['T0_3B'], use_gpu=True, batch_size=1, task_type='hitrate', logging_level='info')
+2022-11-17 11:06:52,000 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/mkr_test/T0/contrastive
+2022-11-17 11:06:52,002 [INFO] Copied data

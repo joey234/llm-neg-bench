@@ -1,0 +1,13 @@
+{
+  "dataset": null,
+  "dataset_path": "nan_nli_gpt3_prompts.csv",
+  "exp_dir": "nan/gpt3_prompts/T0/contrastive/loss",
+  "models": [
+    "T0_3B",
+    "T0pp"
+  ],
+  "use_gpu": true,
+  "batch_size": 1,
+  "task_type": "classification",
+  "logging_level": "info"
+}

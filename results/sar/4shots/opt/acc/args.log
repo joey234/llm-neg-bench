@@ -1,0 +1,17 @@
+{
+  "dataset": null,
+  "dataset_path": "sar_test_4shots.csv",
+  "exp_dir": "sar/4shots/opt/acc",
+  "models": [
+    "opt-125m",
+    "opt-350m",
+    "opt-1.3b",
+    "opt-2.7b",
+    "opt-6.7b",
+    "opt-13b"
+  ],
+  "use_gpu": true,
+  "batch_size": 1,
+  "task_type": "classification_acc",
+  "logging_level": "info"
+}

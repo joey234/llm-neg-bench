@@ -1,0 +1,15 @@
+{
+  "dataset": null,
+  "dataset_path": "neqa.csv",
+  "exp_dir": "neqa/gpt2/acc",
+  "models": [
+    "gpt2",
+    "gpt2-medium",
+    "gpt2-large",
+    "gpt2-xl"
+  ],
+  "use_gpu": true,
+  "batch_size": 1,
+  "task_type": "classification_acc",
+  "logging_level": "info"
+}

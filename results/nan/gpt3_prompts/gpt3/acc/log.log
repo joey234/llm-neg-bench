@@ -1,0 +1,4 @@
+2023-01-18 17:19:10,576 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='nan_gpt3_prompts.csv', exp_dir='nan/gpt3_prompts/gpt3/acc', models=['text-ada-001', 'text-babbage-001', 'text-curie-001', 'text-davinci-003'], use_gpu=False, contrastive_search=False, batch_size=100, task_type='classification_acc', logging_level='info')
+2023-01-18 17:19:10,576 [INFO] Saving to results to /home/hungthinht/inverse-scaling-eval-pipeline/results/nan/gpt3_prompts/gpt3/acc
+2023-01-18 17:19:10,577 [INFO] Copied data

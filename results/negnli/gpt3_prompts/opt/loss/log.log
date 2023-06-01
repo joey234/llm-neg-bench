@@ -1,0 +1,8 @@
+2022-11-24 15:15:25,531 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='negnli_gpt3_prompts.csv', exp_dir='negnli/gpt3_prompts/opt/loss', models=['opt-125m', 'opt-350m', 'opt-1.3b', 'opt-2.7b', 'opt-6.7b', 'opt-13b'], use_gpu=True, batch_size=1, task_type='classification', logging_level='info')
+2022-11-24 15:15:25,532 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/negnli/gpt3_prompts/opt/loss
+2022-11-24 15:15:25,536 [INFO] Copied data
+2022-11-28 14:31:47,417 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='negnli_gpt3_prompts.csv', exp_dir='negnli/gpt3_prompts/opt/loss', models=['opt-6.7b', 'opt-13b'], use_gpu=True, batch_size=1, task_type='classification', logging_level='info')
+2022-11-28 14:31:47,417 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/negnli/gpt3_prompts/opt/loss
+2022-11-28 14:31:47,420 [INFO] Copied data

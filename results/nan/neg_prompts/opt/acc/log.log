@@ -1,0 +1,12 @@
+2022-11-29 00:41:31,824 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='nan_neg_prompts.csv', exp_dir='nan/neg_prompts/opt/acc', models=['opt-125m', 'opt-350m', 'opt-1.3b', 'opt-2.7b', 'opt-6.7b', 'opt-13b'], use_gpu=True, batch_size=1, task_type='classification_acc', logging_level='info')
+2022-11-29 00:41:31,824 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/nan/neg_prompts/opt/acc
+2022-11-29 00:41:31,825 [INFO] Copied data
+2023-01-06 11:35:37,231 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='nan_neg_prompts.csv', exp_dir='nan/neg_prompts/opt/acc', models=['opt-6.7b'], use_gpu=True, contrastive_search=False, batch_size=1, task_type='classification_acc', logging_level='info')
+2023-01-06 11:35:37,231 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/nan/neg_prompts/opt/acc
+2023-01-06 11:35:37,266 [INFO] Copied data
+2023-01-06 17:04:15,408 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='nan_neg_prompts.csv', exp_dir='nan/neg_prompts/opt/acc', models=['opt-125m', 'opt-350m', 'opt-1.3b', 'opt-2.7b', 'opt-6.7b'], use_gpu=True, contrastive_search=False, batch_size=1, task_type='classification_acc', logging_level='info')
+2023-01-06 17:04:15,408 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/nan/neg_prompts/opt/acc
+2023-01-06 17:04:15,413 [INFO] Copied data

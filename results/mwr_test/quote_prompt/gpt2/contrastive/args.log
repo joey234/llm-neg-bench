@@ -1,0 +1,16 @@
+{
+  "dataset": null,
+  "dataset_path": "mwr_quote_prompt.csv",
+  "exp_dir": "mwr_test/quote_prompt/gpt2/contrastive",
+  "models": [
+    "gpt2",
+    "gpt2-medium",
+    "gpt2-large",
+    "gpt2-xl"
+  ],
+  "use_gpu": true,
+  "contrastive_search": true,
+  "batch_size": 1,
+  "task_type": "hitrate",
+  "logging_level": "info"
+}

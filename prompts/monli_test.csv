@@ -1,0 +1,401 @@
+prompt,classes,answer_index
+"the man does not own a dog
+Questions: the man does not own a mammal True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a mammal
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a dog
+Questions: the man does not own an animal True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own an animal
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a dog
+Questions: the man does not own a pinscher True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a pinscher
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a sheepdog True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a sheepdog
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a greyhound True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a greyhound
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a hound True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a hound
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a husky True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a husky
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a dachshund True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a dachshund
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a Chihuahua True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a Chihuahua
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a spaniel True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a spaniel
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a pug True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a pug
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a beagle True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a beagle
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a malamute True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a malamute
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a Maltese True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a Maltese
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a Doberman True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a Doberman
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a bulldog True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a bulldog
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a collie True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a collie
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a poodle True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a poodle
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a Pomeranian True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a Pomeranian
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a retriever True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a retriever
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a schnauzer True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a schnauzer
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a terrier True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a terrier
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a corgi True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a corgi
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a Rottweiler True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a Rottweiler
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a Shetland True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a Shetland
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"the man does not own a dog
+Questions: the man does not own a dalmatian True, False, or Neither?","[' True',' False',' Neither']",0
+"the man does not own a dalmatian
+Questions: the man does not own a dog True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed mammal as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed mammal as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed animal as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed animal as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed pug as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed pug as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed husky as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed husky as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed corgi as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed corgi as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed hound as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed hound as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed bulldog as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed bulldog as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed terrier as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed terrier as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed poodle as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed poodle as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed dalmatian as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed dalmatian as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed Shetland as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed Shetland as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed pinscher as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed pinscher as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed dachshund as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed dachshund as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed Doberman as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed Doberman as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed Pomeranian as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed Pomeranian as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed beagle as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed beagle as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed retriever as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed retriever as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed Rottweiler as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed Rottweiler as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed malamute as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed malamute as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed schnauzer as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed schnauzer as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed greyhound as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed greyhound as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"The girl will not get a stuffed dog as a gift.
+Questions: The girl will not get a stuffed Chihuahua as a gift. True, False, or Neither?","[' True',' False',' Neither']",0
+"The girl will not get a stuffed Chihuahua as a gift.
+Questions: The girl will not get a stuffed dog as a gift. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a house. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a house.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a casino. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a casino.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a chapel. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a chapel.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a restaurant. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a restaurant.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a cabin. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a cabin.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a school. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a school.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a court. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a court.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside an opera. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside an opera.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a monastery. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a monastery.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a pub. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a pub.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a steakhouse. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a steakhouse.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a courthouse. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a courthouse.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a cathedral. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a cathedral.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a club. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a club.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a villa. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a villa.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside an embassy. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside an embassy.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a temple. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a temple.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a hotel. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a hotel.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a bungalow. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a bungalow.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a cafeteria. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a cafeteria.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a dormitory. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a dormitory.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a planetarium. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a planetarium.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a diner. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a diner.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a cafe. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a cafe.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a clinic. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a clinic.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a skyscraper. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a skyscraper.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a hospital. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a hospital.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a manor. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a manor.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a cinema. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a cinema.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a motel. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a motel.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside a library. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside a library.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A person reading a paper is not currently sitting inside a building.
+Questions: A person reading a paper is not currently sitting inside an inn. True, False, or Neither?","[' True',' False',' Neither']",0
+"A person reading a paper is not currently sitting inside an inn.
+Questions: A person reading a paper is not currently sitting inside a building. True, False, or Neither?","[' True',' False',' Neither']",2
+"A dog did not catch any ball.
+Questions: A dog did not catch any basketball. True, False, or Neither?","[' True',' False',' Neither']",0
+"A dog did not catch any basketball.
+Questions: A dog did not catch any ball. True, False, or Neither?","[' True',' False',' Neither']",2
+"A dog did not catch any ball.
+Questions: A dog did not catch any football. True, False, or Neither?","[' True',' False',' Neither']",0
+"A dog did not catch any football.
+Questions: A dog did not catch any ball. True, False, or Neither?","[' True',' False',' Neither']",2
+"A dog did not catch any ball.
+Questions: A dog did not catch any handball. True, False, or Neither?","[' True',' False',' Neither']",0
+"A dog did not catch any handball.
+Questions: A dog did not catch any ball. True, False, or Neither?","[' True',' False',' Neither']",2
+"A dog did not catch any ball.
+Questions: A dog did not catch any softball. True, False, or Neither?","[' True',' False',' Neither']",0
+"A dog did not catch any softball.
+Questions: A dog did not catch any ball. True, False, or Neither?","[' True',' False',' Neither']",2
+"A dog did not catch any ball.
+Questions: A dog did not catch any racquetball. True, False, or Neither?","[' True',' False',' Neither']",0
+"A dog did not catch any racquetball.
+Questions: A dog did not catch any ball. True, False, or Neither?","[' True',' False',' Neither']",2
+"A dog did not catch any ball.
+Questions: A dog did not catch any volleyball. True, False, or Neither?","[' True',' False',' Neither']",0
+"A dog did not catch any volleyball.
+Questions: A dog did not catch any ball. True, False, or Neither?","[' True',' False',' Neither']",2
+"A dog did not catch any ball.
+Questions: A dog did not catch any baseball. True, False, or Neither?","[' True',' False',' Neither']",0
+"A dog did not catch any baseball.
+Questions: A dog did not catch any ball. True, False, or Neither?","[' True',' False',' Neither']",2
+"The players did not have a ball.
+Questions: The players did not have a baseball. True, False, or Neither?","[' True',' False',' Neither']",0
+"The players did not have a baseball.
+Questions: The players did not have a ball. True, False, or Neither?","[' True',' False',' Neither']",2
+"The players did not have a ball.
+Questions: The players did not have a basketball. True, False, or Neither?","[' True',' False',' Neither']",0
+"The players did not have a basketball.
+Questions: The players did not have a ball. True, False, or Neither?","[' True',' False',' Neither']",2
+"The players did not have a ball.
+Questions: The players did not have a volleyball. True, False, or Neither?","[' True',' False',' Neither']",0
+"The players did not have a volleyball.
+Questions: The players did not have a ball. True, False, or Neither?","[' True',' False',' Neither']",2
+"The players did not have a ball.
+Questions: The players did not have a handball. True, False, or Neither?","[' True',' False',' Neither']",0
+"The players did not have a handball.
+Questions: The players did not have a ball. True, False, or Neither?","[' True',' False',' Neither']",2
+"The players did not have a ball.
+Questions: The players did not have a football. True, False, or Neither?","[' True',' False',' Neither']",0
+"The players did not have a football.
+Questions: The players did not have a ball. True, False, or Neither?","[' True',' False',' Neither']",2
+"The players did not have a ball.
+Questions: The players did not have a racquetball. True, False, or Neither?","[' True',' False',' Neither']",0
+"The players did not have a racquetball.
+Questions: The players did not have a ball. True, False, or Neither?","[' True',' False',' Neither']",2
+"The players did not have a ball.
+Questions: The players did not have a softball. True, False, or Neither?","[' True',' False',' Neither']",0
+"The players did not have a softball.
+Questions: The players did not have a ball. True, False, or Neither?","[' True',' False',' Neither']",2
+"The man is not steering a car
+Questions: The man is not steering a taxi True, False, or Neither?","[' True',' False',' Neither']",0
+"The man is not steering a taxi
+Questions: The man is not steering a car True, False, or Neither?","[' True',' False',' Neither']",2
+"The man is not steering a car
+Questions: The man is not steering a SUV True, False, or Neither?","[' True',' False',' Neither']",0
+"The man is not steering a SUV
+Questions: The man is not steering a car True, False, or Neither?","[' True',' False',' Neither']",2
+"The man is not steering a car
+Questions: The man is not steering a subcompact True, False, or Neither?","[' True',' False',' Neither']",0
+"The man is not steering a subcompact
+Questions: The man is not steering a car True, False, or Neither?","[' True',' False',' Neither']",2
+"The man is not steering a car
+Questions: The man is not steering a convertible True, False, or Neither?","[' True',' False',' Neither']",0
+"The man is not steering a convertible
+Questions: The man is not steering a car True, False, or Neither?","[' True',' False',' Neither']",2
+"The man is not steering a car
+Questions: The man is not steering a jeep True, False, or Neither?","[' True',' False',' Neither']",0
+"The man is not steering a jeep
+Questions: The man is not steering a car True, False, or Neither?","[' True',' False',' Neither']",2
+"The man is not steering a car
+Questions: The man is not steering a sedan True, False, or Neither?","[' True',' False',' Neither']",0
+"The man is not steering a sedan
+Questions: The man is not steering a car True, False, or Neither?","[' True',' False',' Neither']",2

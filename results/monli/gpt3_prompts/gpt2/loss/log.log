@@ -1,0 +1,4 @@
+2022-11-28 15:29:35,335 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='monli_test.csv', exp_dir='monli/gpt3_prompts/gpt2/loss', models=['gpt2', 'gpt2-medium', 'gpt2-large', 'gpt2-xl'], use_gpu=True, batch_size=1, task_type='classification', logging_level='info')
+2022-11-28 15:29:35,335 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/monli/gpt3_prompts/gpt2/loss
+2022-11-28 15:29:35,337 [INFO] Copied data

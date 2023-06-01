@@ -1,0 +1,1201 @@
+prompt,classes,answer_index
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a mammal.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a mammal.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own an animal.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own an animal.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a pinscher.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a pinscher.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a sheepdog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a sheepdog.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a greyhound.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a greyhound.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a hound.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a hound.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a husky.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a husky.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a dachshund.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a dachshund.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a Chihuahua.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a Chihuahua.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a spaniel.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a spaniel.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a pug.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a pug.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a beagle.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a beagle.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a malamute.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a malamute.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a Maltese.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a Maltese.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a Doberman.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a Doberman.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a bulldog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a bulldog.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a collie.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a collie.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a poodle.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a poodle.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a Pomeranian.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a Pomeranian.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a retriever.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a retriever.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a schnauzer.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a schnauzer.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a terrier.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a terrier.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a corgi.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a corgi.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a Rottweiler.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a Rottweiler.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a Shetland.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a Shetland.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""the man does not own a dog.
+Can we infer that ""the man does not own a dalmatian.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""the man does not own a dalmatian.
+Can we infer that ""the man does not own a dog.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed mammal as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed mammal as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed animal as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed animal as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed pug as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed pug as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed husky as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed husky as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed corgi as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed corgi as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed hound as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed hound as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed bulldog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed bulldog as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed terrier as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed terrier as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed poodle as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed poodle as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed dalmatian as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed dalmatian as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed Shetland as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed Shetland as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed pinscher as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed pinscher as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed dachshund as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed dachshund as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed Doberman as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed Doberman as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed Pomeranian as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed Pomeranian as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed beagle as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed beagle as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed retriever as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed retriever as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed Rottweiler as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed Rottweiler as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed malamute as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed malamute as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed schnauzer as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed schnauzer as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed greyhound as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed greyhound as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The girl will not get a stuffed dog as a gift..
+Can we infer that ""The girl will not get a stuffed Chihuahua as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The girl will not get a stuffed Chihuahua as a gift..
+Can we infer that ""The girl will not get a stuffed dog as a gift..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a house..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a house..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a casino..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a casino..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a chapel..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a chapel..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a restaurant..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a restaurant..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a cabin..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a cabin..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a school..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a school..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a court..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a court..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside an opera..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside an opera..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a monastery..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a monastery..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a pub..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a pub..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a steakhouse..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a steakhouse..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a courthouse..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a courthouse..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a cathedral..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a cathedral..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a club..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a club..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a villa..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a villa..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside an embassy..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside an embassy..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a temple..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a temple..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a hotel..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a hotel..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a bungalow..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a bungalow..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a cafeteria..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a cafeteria..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a dormitory..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a dormitory..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a planetarium..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a planetarium..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a diner..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a diner..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a cafe..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a cafe..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a clinic..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a clinic..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a skyscraper..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a skyscraper..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a hospital..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a hospital..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a manor..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a manor..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a cinema..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a cinema..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a motel..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a motel..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside a library..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside a library..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A person reading a paper is not currently sitting inside a building..
+Can we infer that ""A person reading a paper is not currently sitting inside an inn..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A person reading a paper is not currently sitting inside an inn..
+Can we infer that ""A person reading a paper is not currently sitting inside a building..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A dog did not catch any ball..
+Can we infer that ""A dog did not catch any basketball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A dog did not catch any basketball..
+Can we infer that ""A dog did not catch any ball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A dog did not catch any ball..
+Can we infer that ""A dog did not catch any football..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A dog did not catch any football..
+Can we infer that ""A dog did not catch any ball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A dog did not catch any ball..
+Can we infer that ""A dog did not catch any handball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A dog did not catch any handball..
+Can we infer that ""A dog did not catch any ball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A dog did not catch any ball..
+Can we infer that ""A dog did not catch any softball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A dog did not catch any softball..
+Can we infer that ""A dog did not catch any ball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A dog did not catch any ball..
+Can we infer that ""A dog did not catch any racquetball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A dog did not catch any racquetball..
+Can we infer that ""A dog did not catch any ball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A dog did not catch any ball..
+Can we infer that ""A dog did not catch any volleyball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A dog did not catch any volleyball..
+Can we infer that ""A dog did not catch any ball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""A dog did not catch any ball..
+Can we infer that ""A dog did not catch any baseball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""A dog did not catch any baseball..
+Can we infer that ""A dog did not catch any ball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The players did not have a ball..
+Can we infer that ""The players did not have a baseball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The players did not have a baseball..
+Can we infer that ""The players did not have a ball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The players did not have a ball..
+Can we infer that ""The players did not have a basketball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The players did not have a basketball..
+Can we infer that ""The players did not have a ball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The players did not have a ball..
+Can we infer that ""The players did not have a volleyball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The players did not have a volleyball..
+Can we infer that ""The players did not have a ball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The players did not have a ball..
+Can we infer that ""The players did not have a handball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The players did not have a handball..
+Can we infer that ""The players did not have a ball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The players did not have a ball..
+Can we infer that ""The players did not have a football..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The players did not have a football..
+Can we infer that ""The players did not have a ball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The players did not have a ball..
+Can we infer that ""The players did not have a racquetball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The players did not have a racquetball..
+Can we infer that ""The players did not have a ball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The players did not have a ball..
+Can we infer that ""The players did not have a softball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The players did not have a softball..
+Can we infer that ""The players did not have a ball..""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The man is not steering a car.
+Can we infer that ""The man is not steering a taxi.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The man is not steering a taxi.
+Can we infer that ""The man is not steering a car.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The man is not steering a car.
+Can we infer that ""The man is not steering a SUV.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The man is not steering a SUV.
+Can we infer that ""The man is not steering a car.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The man is not steering a car.
+Can we infer that ""The man is not steering a subcompact.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The man is not steering a subcompact.
+Can we infer that ""The man is not steering a car.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The man is not steering a car.
+Can we infer that ""The man is not steering a convertible.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The man is not steering a convertible.
+Can we infer that ""The man is not steering a car.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The man is not steering a car.
+Can we infer that ""The man is not steering a jeep.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The man is not steering a jeep.
+Can we infer that ""The man is not steering a car.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1
+"Suppose ""The man is not steering a car.
+Can we infer that ""The man is not steering a sedan.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",0
+"Suppose ""The man is not steering a sedan.
+Can we infer that ""The man is not steering a car.""?
+OPTIONS
+- Yes
+- No
+Answer:","[' Yes',' No']",1

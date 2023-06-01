@@ -1,0 +1,517 @@
+prompt,classes,answer_index
+"Not all people have had the opportunities you have had.
+Questions: Some people have not had the opportunities you have had. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not all people have had the opportunities you have had.
+Questions: Some people have had the opportunities you have had. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not all people have had the opportunities you have had.
+Questions: Every person has had the opportunities you have had. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not all people have had the opportunities you have had.
+Questions: Not every person has had the opportunities you have had. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not all people have had the opportunities you have had.
+Questions: All people have not had the opportunities you have had. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not all people have had the opportunities you have had.
+Questions: All people have had the opportunities you have had. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not all people have had the opportunities you have had.
+Questions: Not all people have had the opportunities you have not had. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not all people have had the opportunities you have had.
+Questions: No one has had the opportunities you have had. True, False, or Neither?","[' True',' False',' Neither']",1
+"I saw nothing at all.
+Questions: I didn't see anything at all. True, False, or Neither?","[' True',' False',' Neither']",0
+"I saw nothing at all.
+Questions: I saw something. True, False, or Neither?","[' True',' False',' Neither']",1
+"I saw nothing at all.
+Questions: I did not see something. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not often do we see her lose her cool like that.
+Questions: We do not see her lose her cool like that often. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not often do we see her lose her cool like that.
+Questions: She does not lose her cool like that often. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not often do we see her lose her cool like that.
+Questions: We see her lose her cool like that often. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not often do we see her lose her cool like that.
+Questions: Sometimes we see her lose her cool like that. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not often do we see her lose her cool like that.
+Questions: Sometimes we do not see her lose her cool like that. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not often do we see her lose her cool like that.
+Questions: We do not see her often. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not often do we see her lose her cool like that.
+Questions: We do not see her lose her cool like him often. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not one person supported the proposal.
+Questions: Some people supported the proposal. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not one person supported the proposal.
+Questions: Some people did not support the proposal. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not one person supported the proposal.
+Questions: Everyone supported the proposal. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not one person supported the proposal.
+Questions: Everyone did not support the proposal. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not one person supported the proposal.
+Questions: No one supported the proposal. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not one person supported the proposal.
+Questions: No one did not support the proposal. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not one person supported the proposal.
+Questions: One person did not support the proposal. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not one person supported the proposal.
+Questions: One person supported the proposal. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not one person supported the proposal.
+Questions: Two people did not support the proposal. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not one person supported the proposal.
+Questions: Two people supported the proposal. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not one person supported the proposal.
+Questions: Twenty people did not support the proposal. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not one person supported the proposal.
+Questions: Twenty people supported the proposal. True, False, or Neither?","[' True',' False',' Neither']",1
+"They had found not one mistake.
+Questions: They had found more than one mistake. True, False, or Neither?","[' True',' False',' Neither']",0
+"They had found not one mistake.
+Questions: They had not found more than one mistake. True, False, or Neither?","[' True',' False',' Neither']",1
+"They had found not one mistake.
+Questions: They had found less than one mistake. True, False, or Neither?","[' True',' False',' Neither']",1
+"They had found not one mistake.
+Questions: They had found two mistakes. True, False, or Neither?","[' True',' False',' Neither']",2
+"They had found not one mistake.
+Questions: They had not found two mistakes. True, False, or Neither?","[' True',' False',' Neither']",1
+"They had found not one mistake.
+Questions: They had found twenty mistakes. True, False, or Neither?","[' True',' False',' Neither']",2
+"They had found not one mistake.
+Questions: They had not found twenty mistakes. True, False, or Neither?","[' True',' False',' Neither']",2
+"They had found not one mistake.
+Questions: They had found some mistakes. True, False, or Neither?","[' True',' False',' Neither']",0
+"They had found not one mistake.
+Questions: They had found not all mistakes. True, False, or Neither?","[' True',' False',' Neither']",2
+"They had found not one mistake.
+Questions: They had found all mistakes. True, False, or Neither?","[' True',' False',' Neither']",2
+"They had found not one mistake.
+Questions: They had not found even one mistake. True, False, or Neither?","[' True',' False',' Neither']",1
+"They had found not one mistake.
+Questions: They had found not every mistake. True, False, or Neither?","[' True',' False',' Neither']",2
+"They had found not one mistake.
+Questions: They had found every mistake. True, False, or Neither?","[' True',' False',' Neither']",2
+"They had found not one mistake.
+Questions: They had not found only one mistake. True, False, or Neither?","[' True',' False',' Neither']",0
+"They had found not one mistake.
+Questions: They had not found any mistakes. True, False, or Neither?","[' True',' False',' Neither']",1
+"They had found not one mistake.
+Questions: They had not found some mistakes. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not one, not two, but three of them made the mistake.
+Questions: Three of them made the mistake. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not one, not two, but three of them made the mistake.
+Questions: Three of them did not make the mistake. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not one, not two, but three of them made the mistake.
+Questions: More than three of them made the mistake. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not one, not two, but three of them made the mistake.
+Questions: More than two of them made the mistake. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not one, not two, but three of them made the mistake.
+Questions: More than one of them made the mistake. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not one, not two, but three of them made the mistake.
+Questions: More than three of them did not make the mistake. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not one, not two, but three of them made the mistake.
+Questions: More than two of them did not make the mistake. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not one, not two, but three of them made the mistake.
+Questions: More than one of them did not make the mistake. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not one, not two, but three of them made the mistake.
+Questions: Less than three of them made the mistake. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not one, not two, but three of them made the mistake.
+Questions: Less than two of them made the mistake. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not one, not two, but three of them made the mistake.
+Questions: Less than four of them made the mistake. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not one, not two, but three of them made the mistake.
+Questions: One of them made the mistake. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not one, not two, but three of them made the mistake.
+Questions: Two of them made the mistake. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not one, not two, but three of them made the mistake.
+Questions: One of them did not make the mistake. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not one, not two, but three of them made the mistake.
+Questions: Two of them did not make the mistake. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not two years ago this company was ranked in the top ten.
+Questions: Less than two years ago this company was ranked in the top ten. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not two years ago this company was ranked in the top ten.
+Questions: More than two years ago this company was ranked in the top ten. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not two years ago this company was ranked in the top ten.
+Questions: Less than two years ago this company was not ranked in the top ten. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not two years ago this company was ranked in the top ten.
+Questions: More than two years ago this company was not ranked in the top ten. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not two years ago this company was ranked in the top ten.
+Questions: Two years ago this company was not ranked in the top ten. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not two years ago this company was ranked in the top ten.
+Questions: Two years ago this company was ranked in the top ten. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not two years ago this company was ranked in the top ten.
+Questions: Twenty years ago this company was not ranked in the top ten. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not two years ago this company was ranked in the top ten.
+Questions: Twenty years ago this company was ranked in the top ten. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not two years ago this company was ranked in the top ten.
+Questions: One year ago this company was ranked in the top ten. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not two years ago this company was ranked in the top ten.
+Questions: One year ago this company was not ranked in the top ten. True, False, or Neither?","[' True',' False',' Neither']",0
+"He was here not ten minutes ago.
+Questions: He was here less than ten minutes ago. True, False, or Neither?","[' True',' False',' Neither']",0
+"He was here not ten minutes ago.
+Questions: He was not here less than ten minutes ago. True, False, or Neither?","[' True',' False',' Neither']",1
+"He was here not ten minutes ago.
+Questions: He was here more than ten minutes ago. True, False, or Neither?","[' True',' False',' Neither']",2
+"He was here not ten minutes ago.
+Questions: He was not here more than ten minutes ago. True, False, or Neither?","[' True',' False',' Neither']",2
+"He was here not ten minutes ago.
+Questions: He was not here ten minutes ago. True, False, or Neither?","[' True',' False',' Neither']",1
+"He was here not ten minutes ago.
+Questions: He was here ten minutes ago. True, False, or Neither?","[' True',' False',' Neither']",0
+"He was here not ten minutes ago.
+Questions: He was here one minute ago. True, False, or Neither?","[' True',' False',' Neither']",1
+"He was here not ten minutes ago.
+Questions: He was not here one minute ago True, False, or Neither?","[' True',' False',' Neither']",0
+"He was here not ten minutes ago.
+Questions: He was here twenty minutes ago. True, False, or Neither?","[' True',' False',' Neither']",2
+"He was here not ten minutes ago.
+Questions: He was not here twenty minutes ago True, False, or Neither?","[' True',' False',' Neither']",2
+"His speech had caused not a little confusion.
+Questions: His speech had not caused a little confusion. True, False, or Neither?","[' True',' False',' Neither']",0
+"His speech had caused not a little confusion.
+Questions: His speech had caused a little confusion. True, False, or Neither?","[' True',' False',' Neither']",1
+"His speech had caused not a little confusion.
+Questions: His speech had not caused confusion. True, False, or Neither?","[' True',' False',' Neither']",1
+"His speech had caused not a little confusion.
+Questions: His speech had caused confusion. True, False, or Neither?","[' True',' False',' Neither']",0
+"His speech had caused not a little confusion.
+Questions: His speech had caused a not little confusion. True, False, or Neither?","[' True',' False',' Neither']",0
+"His speech had caused not a little confusion.
+Questions: His speech had caused much confusion. True, False, or Neither?","[' True',' False',' Neither']",0
+"His speech had caused not a little confusion.
+Questions: His speech had not caused much confusion. True, False, or Neither?","[' True',' False',' Neither']",1
+"A mistake would be costly and not a little embarrassing.
+Questions: A mistake would not be costly and a little embarassing True, False, or Neither?","[' True',' False',' Neither']",1
+"A mistake would be costly and not a little embarrassing.
+Questions: A mistake would be costly and very embarassing True, False, or Neither?","[' True',' False',' Neither']",0
+"A mistake would be costly and not a little embarrassing.
+Questions: A mistake would not be costly and very embarassing True, False, or Neither?","[' True',' False',' Neither']",1
+"A mistake would be costly and not a little embarrassing.
+Questions: A mistake would not be costly and not a little embarassing True, False, or Neither?","[' True',' False',' Neither']",1
+"Not even Ed approved of the plan
+Questions: Even Ed did not approve of the plan. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not even Ed approved of the plan
+Questions: Even Ed approved of the plan. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not even Ed approved of the plan
+Questions: Not only Ed approved of the plan. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not even Ed approved of the plan
+Questions: Only Ed approved of the plan. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not even Ed approved of the plan
+Questions: Only Ed did not approve of the plan. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not even Ed approved of the plan
+Questions: Not even Ed or Sally approve of the plan. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not only Ed approved of the plan.
+Questions: Ed was not the only one who approved of the plan. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not only Ed approved of the plan.
+Questions: Not even Ed approved of the plan. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not only Ed approved of the plan.
+Questions: Ed approved of the plan. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not only Ed approved of the plan.
+Questions: Ed not only approved of the plan. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not only Ed approved of the plan.
+Questions: Only Ed approved of the plan. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not only Ed approved of the plan.
+Questions: Ed and some others approved of the plan. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not even then did he lose patience.
+Questions: Even then, he did not lose patience. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not even then did he lose patience.
+Questions: He did not lose patience even then. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not even then did he lose patience.
+Questions: Not only then did he lose patience. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not even then did he lose patience.
+Questions: Only then did he lose patience. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not only was the acting appalling, the movie was far too long.
+Questions: The movie was far too long and the acting was appalling. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not only was the acting appalling, the movie was far too long.
+Questions: The movie was not only far too long but the acting was also appalling. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not only was the acting appalling, the movie was far too long.
+Questions: The movie was far too long but the acting was not appalling. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not only was the acting appalling, the movie was far too long.
+Questions: The movie was not far too long but the acting was appalling. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not only was the acting appalling, the movie was far too long.
+Questions: The movie was not far too long and the acting was not appalling. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not only was the acting appalling, the movie was far too long.
+Questions: The movie was too long and not even the acting was not appalling. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not only was the acting appalling, the movie was far too long.
+Questions: The movie was not too long and not even the acting was appalling. True, False, or Neither?","[' True',' False',' Neither']",1
+"We had a not very amicable discussion.
+Questions: We did not have a very amicable discussion. True, False, or Neither?","[' True',' False',' Neither']",0
+"We had a not very amicable discussion.
+Questions: We did not have a discussion. True, False, or Neither?","[' True',' False',' Neither']",1
+"We had a not very amicable discussion.
+Questions: We had a very amicable discussion. True, False, or Neither?","[' True',' False',' Neither']",1
+"We had a not very amicable discussion.
+Questions: We had a very not amicable discussion. True, False, or Neither?","[' True',' False',' Neither']",2
+"It somehow sounded not quite right.
+Questions: It somehow did not sound quite right. True, False, or Neither?","[' True',' False',' Neither']",0
+"It somehow sounded not quite right.
+Questions: It somehow did not sound right. True, False, or Neither?","[' True',' False',' Neither']",0
+"It somehow sounded not quite right.
+Questions: It somehow sounded quite not right. True, False, or Neither?","[' True',' False',' Neither']",2
+"It somehow sounded not quite right.
+Questions: It somehow sounded quite right. True, False, or Neither?","[' True',' False',' Neither']",1
+"It was so not funny.
+Questions: It was not so funny. True, False, or Neither?","[' True',' False',' Neither']",0
+"It was so not funny.
+Questions: It was not funny. True, False, or Neither?","[' True',' False',' Neither']",0
+"It was so not funny.
+Questions: It was so boring. True, False, or Neither?","[' True',' False',' Neither']",2
+"I found his story not wholly convincing.
+Questions: I did not find his story wholly convincing. True, False, or Neither?","[' True',' False',' Neither']",0
+"I found his story not wholly convincing.
+Questions: I found his story wholly not convincing. True, False, or Neither?","[' True',' False',' Neither']",1
+"I found his story not wholly convincing.
+Questions: I found his story wholly convincing. True, False, or Neither?","[' True',' False',' Neither']",1
+"I found his story not wholly convincing.
+Questions: I did not find his story wholly not convincing. True, False, or Neither?","[' True',' False',' Neither']",0
+"He spoke not very confidently.
+Questions: He did not speak very confidently. True, False, or Neither?","[' True',' False',' Neither']",0
+"He spoke not very confidently.
+Questions: He spoke very not confidently. True, False, or Neither?","[' True',' False',' Neither']",1
+"He spoke not very confidently.
+Questions: He spoke very confidently. True, False, or Neither?","[' True',' False',' Neither']",1
+"He spoke not very confidently.
+Questions: He did not speak not very confidently. True, False, or Neither?","[' True',' False',' Neither']",1
+"He spoke not very confidently.
+Questions: He did not speak very not confidently. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not many of them had been damaged.
+Questions: Many of them had not been damaged. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not many of them had been damaged.
+Questions: Many of them had been damaged. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not many of them had been damaged.
+Questions: Some of them had been damaged. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not many of them had been damaged.
+Questions: Some of them had not been damaged. True, False, or Neither?","[' True',' False',' Neither']",1
+"It was a not undistinguished private university with a large endowment.
+Questions: It was not an undistinguished private university with a large endowment. True, False, or Neither?","[' True',' False',' Neither']",0
+"It was a not undistinguished private university with a large endowment.
+Questions: It was not a distinguished private university with a large endowment. True, False, or Neither?","[' True',' False',' Neither']",2
+"It was a not undistinguished private university with a large endowment.
+Questions: It was a distinguished private university with a large endowment. True, False, or Neither?","[' True',' False',' Neither']",2
+"It was a not undistinguished private university with a large endowment.
+Questions: It was an undistinguished private university with a large endowment. True, False, or Neither?","[' True',' False',' Neither']",1
+"She had a not inconsiderable income.
+Questions: She did not have a considerable income. True, False, or Neither?","[' True',' False',' Neither']",2
+"She had a not inconsiderable income.
+Questions: She had a considerable income. True, False, or Neither?","[' True',' False',' Neither']",2
+"She had a not inconsiderable income.
+Questions: She had a not considerable income. True, False, or Neither?","[' True',' False',' Neither']",2
+"She had a not inconsiderable income.
+Questions: She did not have an inconsiderable income. True, False, or Neither?","[' True',' False',' Neither']",0
+"She had a not inconsiderable income.
+Questions: She had an inconsiderable income. True, False, or Neither?","[' True',' False',' Neither']",1
+"They had fixed the walls, and purchased some not inelegant furniture.
+Questions: They had fixed the walls, and did not purchase any inelegant furniture. True, False, or Neither?","[' True',' False',' Neither']",0
+"They had fixed the walls, and purchased some not inelegant furniture.
+Questions: They had fixed the walls, but did not purchase any elegant furniture. True, False, or Neither?","[' True',' False',' Neither']",2
+"They had fixed the walls, and purchased some not inelegant furniture.
+Questions: They had fixed the walls, but purchased some not elegant furniture. True, False, or Neither?","[' True',' False',' Neither']",2
+"They had fixed the walls, and purchased some not inelegant furniture.
+Questions: They had fixed the walls, and purchased some inelegant furniture. True, False, or Neither?","[' True',' False',' Neither']",1
+"They had fixed the walls, and purchased some not inelegant furniture.
+Questions: They had fixed the walls, and purchased some elegant furniture. True, False, or Neither?","[' True',' False',' Neither']",2
+"That model is not available.
+Questions: That model is unavailable. True, False, or Neither?","[' True',' False',' Neither']",0
+"Such mistakes are not common.
+Questions: Such mistakes are uncommon. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not unexpectedly, Charles was late for the meeting.
+Questions: Unexpectedly, Charles was not late for the meeting. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not unexpectedly, Charles was late for the meeting.
+Questions: Unexpectedly, Charles was late for the meeting. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not unexpectedly, Charles was late for the meeting.
+Questions: Expectedly, Charles was late for the meeting. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not unexpectedly, Charles was late for the meeting.
+Questions: Expectedly, Charles was not late for the meeting. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not unreasonably, he asked for payment in advance.
+Questions: Unreasonably, he did not ask for payment in advance. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not unreasonably, he asked for payment in advance.
+Questions: Unreasonably, he asked for payment in advance. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not unreasonably, he asked for payment in advance.
+Questions: Reasonably, he asked for payment in advance. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not unreasonably, he asked for payment in advance.
+Questions: Reasonably, he did not ask for payment in advance. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not surprisingly, they didn't want any part of it.
+Questions: Surprisingly, they didn't want any part of it. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not surprisingly, they didn't want any part of it.
+Questions: Surprisingly, they wanted some part of it. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not surprisingly, they didn't want any part of it.
+Questions: Not unsurprisingly, they didn't want any part of it. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not surprisingly, they didn't want any part of it.
+Questions: Not surprisingly, they wanted some part of it. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not at any stage of the proceedings did she contemplate giving up.
+Questions: She did not contemplate giving up at any stage of the proceedings. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not at any stage of the proceedings did she contemplate giving up.
+Questions: She did not contemplate giving up. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not at any stage of the proceedings did she contemplate giving up.
+Questions: She contemplated giving up at some stages of the proceedings. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not at any stage of the proceedings did she contemplate giving up.
+Questions: At no stage of the proceedings did she contemplate giving up. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not at any stage of the proceedings did she contemplate giving up.
+Questions: She did not contemplate giving up at some stages of the proceedings. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not for the first time, she felt utterly betrayed.
+Questions: She did not feel utterly betrayed for the first time. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not for the first time, she felt utterly betrayed.
+Questions: She did not feel utterly betrayed for the second time. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not for the first time, she felt utterly betrayed.
+Questions: She did not feel utterly betrayed for the twentieth time. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not for the first time, she felt utterly betrayed.
+Questions: She had not felt utterly betrayed before. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not for the first time, she felt utterly betrayed.
+Questions: She had felt utterly betrayed before. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not for the first time, she felt utterly betrayed.
+Questions: She did not feel utterly betrayed. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not for the first time, she felt utterly betrayed.
+Questions: She felt utterly betrayed for the first time. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not for the first time, she felt utterly betrayed.
+Questions: She felt utterly betrayed for the second time. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not for the first time, she felt utterly betrayed.
+Questions: She felt utterly betrayed for the twentieth time. True, False, or Neither?","[' True',' False',' Neither']",2
+"Not for the first time, she felt utterly betrayed.
+Questions: It was not the first time that she felt utterly betrayed. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not an accomplished dancer, he moved rather clumsily.
+Questions: Though not an accomplished dancer, he did not move clumsily. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not an accomplished dancer, he moved rather clumsily.
+Questions: Being an accomplished dancer, he did not move clumsily. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not an accomplished dancer, he moved rather clumsily.
+Questions: Though being an accomplished dancer, he moved rather clumsily. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not an accomplished dancer, he moved rather clumsily.
+Questions: He moved rather clumsily because he was not an accomplished dancer. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not under any illusions about the matter, he continued to be cautious.
+Questions: Under some illusions about the matter, he did not continue to be cautious. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not under any illusions about the matter, he continued to be cautious.
+Questions: Under some illusions about the matter, he continued to be cautious. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not under any illusions about the matter, he continued to be cautious.
+Questions: Though not under any illusions about the matter, he did not continue to be cautious. True, False, or Neither?","[' True',' False',' Neither']",1
+"Not under any illusions about the matter, he continued to be cautious.
+Questions: He continued to be cautious because he was not under any illusions about the matter. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not under any illusions about the matter, he continued to be cautious.
+Questions: He continued to be cautious. True, False, or Neither?","[' True',' False',' Neither']",0
+"Not under any illusions about the matter, he continued to be cautious.
+Questions: He didn't continue to be cautious. True, False, or Neither?","[' True',' False',' Neither']",1
+"We need someone not afraid of taking risks.
+Questions: We do not need someone afraid of taking risks. True, False, or Neither?","[' True',' False',' Neither']",0
+"We need someone not afraid of taking risks.
+Questions: We do not need someone not afraid of taking risks. True, False, or Neither?","[' True',' False',' Neither']",1
+"We need someone not afraid of taking risks.
+Questions: We need someone afraid of taking risks. True, False, or Neither?","[' True',' False',' Neither']",1
+"There are spare blankets in here, not that you'll have any need of them.
+Questions: There are no spare blankets in here, not that you'll have any need of them. True, False, or Neither?","[' True',' False',' Neither']",1
+"There are spare blankets in here, not that you'll have any need of them.
+Questions: There are no spare blankets in here, you'll need them. True, False, or Neither?","[' True',' False',' Neither']",1
+"There are spare blankets in here, not that you'll have any need of them.
+Questions: There are spare blankets in here, you will not have any need of them. True, False, or Neither?","[' True',' False',' Neither']",0
+"There are spare blankets in here, not that you'll have any need of them.
+Questions: There are spare blankets in here, you'll need them. True, False, or Neither?","[' True',' False',' Neither']",1
+"They are now leaving not on Friday, but on Saturday.
+Questions: They are now leaving on Friday, not on Saturday. True, False, or Neither?","[' True',' False',' Neither']",1
+"They are now leaving not on Friday, but on Saturday.
+Questions: They are now leaving on Saturday instead of Friday. True, False, or Neither?","[' True',' False',' Neither']",0
+"They are now leaving not on Friday, but on Saturday.
+Questions: They are now leaving not on Saturday, but on Friday. True, False, or Neither?","[' True',' False',' Neither']",1
+"They are now leaving not on Friday, but on Saturday.
+Questions: They are now leaving on Saturday. True, False, or Neither?","[' True',' False',' Neither']",0
+"They are now leaving not on Friday, but on Saturday.
+Questions: They are now not leaving on Saturday. True, False, or Neither?","[' True',' False',' Neither']",1
+"They are now leaving not on Friday, but on Saturday.
+Questions: They are now leaving on Friday. True, False, or Neither?","[' True',' False',' Neither']",1
+"They are now leaving on Saturday, not on Friday.
+Questions: They are now leaving not on Saturday, but on Friday. True, False, or Neither?","[' True',' False',' Neither']",1
+"They are now leaving on Saturday, not on Friday.
+Questions: They are now leaving on Saturday instead of Friday. True, False, or Neither?","[' True',' False',' Neither']",0
+"They are now leaving on Saturday, not on Friday.
+Questions: They are now leaving not on Friday, but on Saturday. True, False, or Neither?","[' True',' False',' Neither']",0
+"They are now leaving on Saturday, not on Friday.
+Questions: They are now leaving on Saturday. True, False, or Neither?","[' True',' False',' Neither']",0
+"They are now leaving on Saturday, not on Friday.
+Questions: They are now not leaving on Saturday. True, False, or Neither?","[' True',' False',' Neither']",1
+"They are now leaving on Saturday, not on Friday.
+Questions: They are now not leaving on Friday. True, False, or Neither?","[' True',' False',' Neither']",0
+"They've invited you and your brother, but not me.
+Questions: They've invited you and your brother, and me. True, False, or Neither?","[' True',' False',' Neither']",1
+"They've invited you and your brother, but not me.
+Questions: They've invited not you and your brother, but me. True, False, or Neither?","[' True',' False',' Neither']",1
+"They've invited you and your brother, but not me.
+Questions: They've invited not you and your brother, nor me. True, False, or Neither?","[' True',' False',' Neither']",1
+"They've invited you and your brother, but not me.
+Questions: They've invited me. True, False, or Neither?","[' True',' False',' Neither']",1
+"They've invited you and your brother, but not me.
+Questions: They've invited you. True, False, or Neither?","[' True',' False',' Neither']",0
+"They've invited you and your brother, but not me.
+Questions: They've invited your brother. True, False, or Neither?","[' True',' False',' Neither']",0
+"They've invited you and your brother, but not me.
+Questions: They have not invited me. True, False, or Neither?","[' True',' False',' Neither']",0
+"They've invited you and your brother, but not me.
+Questions: They have not invited your brother. True, False, or Neither?","[' True',' False',' Neither']",1
+"They've invited you and your brother, but not me.
+Questions: They have not invited you. True, False, or Neither?","[' True',' False',' Neither']",1
+"They've invited you and your brother, but not me.
+Questions: They've invited you and me, but not your brother. True, False, or Neither?","[' True',' False',' Neither']",1
+"The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.
+Questions: The night turned cold under a sky with stars that twinkled, not shone, in the diamond-clear air. True, False, or Neither?","[' True',' False',' Neither']",1
+"The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.
+Questions: The night turned cold under a sky with stars that did not twinkle, but shone, in the diamond-clear air. True, False, or Neither?","[' True',' False',' Neither']",0
+"The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.
+Questions: The night turned cold under a sky with stars that did not shine, but twinkled, in the diamond-clear air. True, False, or Neither?","[' True',' False',' Neither']",1
+"The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.
+Questions: The night turned cold under a sky with stars that shone and twinkled in the diamond-clear air. True, False, or Neither?","[' True',' False',' Neither']",1
+"She rarely goes out these days.
+Questions: She doesn't go out often these days. True, False, or Neither?","[' True',' False',' Neither']",0
+"She rarely goes out these days.
+Questions: She never goes out these days. True, False, or Neither?","[' True',' False',' Neither']",1
+"She rarely goes out these days.
+Questions: She doesn't go out these days. True, False, or Neither?","[' True',' False',' Neither']",1
+"She rarely goes out these days.
+Questions: She goes out these days, but not often. True, False, or Neither?","[' True',' False',' Neither']",0
+"This phone hardly lags.
+Questions: This phone never lags. True, False, or Neither?","[' True',' False',' Neither']",1
+"This phone hardly lags.
+Questions: This phone does not lag. True, False, or Neither?","[' True',' False',' Neither']",1
+"This phone hardly lags.
+Questions: This phone does not lag often. True, False, or Neither?","[' True',' False',' Neither']",0
+"This phone hardly lags.
+Questions: This phone lags, but not often. True, False, or Neither?","[' True',' False',' Neither']",0
+"Little of the liquid spilled.
+Questions: Not much of the liquid spilled. True, False, or Neither?","[' True',' False',' Neither']",0
+"Little of the liquid spilled.
+Questions: None of the liquid spilled. True, False, or Neither?","[' True',' False',' Neither']",1
+"Little of the liquid spilled.
+Questions: Lots of the liquid spilled. True, False, or Neither?","[' True',' False',' Neither']",1
+"Little of the liquid spilled.
+Questions: The liquid spilled, but not much. True, False, or Neither?","[' True',' False',' Neither']",0
+"One seldom sees such birds.
+Questions: One doesn't often see such birds. True, False, or Neither?","[' True',' False',' Neither']",0
+"One seldom sees such birds.
+Questions: One doesn't see such birds. True, False, or Neither?","[' True',' False',' Neither']",1
+"One seldom sees such birds.
+Questions: One sees such birds, but not often. True, False, or Neither?","[' True',' False',' Neither']",0
+"One seldom sees such birds.
+Questions: One never sees such birds. True, False, or Neither?","[' True',' False',' Neither']",1
+"None of them supported her.
+Questions: Few of them supported her. True, False, or Neither?","[' True',' False',' Neither']",1
+"None of them supported her.
+Questions: Not one of them supported her. True, False, or Neither?","[' True',' False',' Neither']",0
+"None of them supported her.
+Questions: One of them supported her. True, False, or Neither?","[' True',' False',' Neither']",1
+"None of them supported her.
+Questions: One of them did not support her. True, False, or Neither?","[' True',' False',' Neither']",0
+"None of them supported her.
+Questions: Two of them supported her. True, False, or Neither?","[' True',' False',' Neither']",1
+"None of them supported her.
+Questions: Two of them did not support her. True, False, or Neither?","[' True',' False',' Neither']",0
+"None of them supported her.
+Questions: Twenty of them supported her. True, False, or Neither?","[' True',' False',' Neither']",1
+"None of them supported her.
+Questions: Twenty of them did not support her. True, False, or Neither?","[' True',' False',' Neither']",0
+"You can not answer their letters: you're not legally required to respond.
+Questions: You can answer their letters. True, False, or Neither?","[' True',' False',' Neither']",2
+"You can not answer their letters.
+Questions: You don't have to answer their letters. True, False, or Neither?","[' True',' False',' Neither']",0
+"They must not read it.
+Questions: It is required that they not read it. True, False, or Neither?","[' True',' False',' Neither']",0
+"They must not read it.
+Questions: They need not read it. True, False, or Neither?","[' True',' False',' Neither']",2
+"They must not read it.
+Questions: They should not read it. True, False, or Neither?","[' True',' False',' Neither']",0
+"We were friends at no time.
+Questions: We were friends in no time. True, False, or Neither?","[' True',' False',' Neither']",1
+"We were friends at no time.
+Questions: We were not friends. True, False, or Neither?","[' True',' False',' Neither']",0
+"I can't stop reading this book.
+Questions: I am not reading this book. True, False, or Neither?","[' True',' False',' Neither']",1
+"I can't stop reading this book.
+Questions: I am reading this book. True, False, or Neither?","[' True',' False',' Neither']",0

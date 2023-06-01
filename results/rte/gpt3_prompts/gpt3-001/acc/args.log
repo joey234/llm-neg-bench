@@ -1,0 +1,13 @@
+{
+  "dataset": null,
+  "dataset_path": "rte_gpt3_prompts.csv",
+  "exp_dir": "rte/gpt3_prompts/gpt3-001/acc",
+  "models": [
+    "text-davinci-001"
+  ],
+  "use_gpu": false,
+  "contrastive_search": false,
+  "batch_size": 100,
+  "task_type": "classification_acc",
+  "logging_level": "info"
+}

@@ -1,0 +1,16 @@
+{
+  "dataset": null,
+  "dataset_path": "rte_neg_prompts.csv",
+  "exp_dir": "rte/neg_prompts/gpt3/acc",
+  "models": [
+    "text-ada-001",
+    "text-babbage-001",
+    "text-curie-001",
+    "text-davinci-003"
+  ],
+  "use_gpu": false,
+  "contrastive_search": false,
+  "batch_size": 100,
+  "task_type": "classification_acc",
+  "logging_level": "info"
+}

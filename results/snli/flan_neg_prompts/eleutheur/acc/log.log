@@ -1,0 +1,4 @@
+2023-01-12 15:40:28,286 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='snli_flan_neg_prompts.csv', exp_dir='snli/flan_neg_prompts/eleutheur/acc', models=['gpt-neo-125M', 'gpt-neo-1.3B', 'gpt-neo-2.7B', 'gpt-j-6B'], use_gpu=True, contrastive_search=False, batch_size=1, task_type='classification_acc', logging_level='info')
+2023-01-12 15:40:28,286 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/snli/flan_neg_prompts/eleutheur/acc
+2023-01-12 15:40:28,289 [INFO] Copied data

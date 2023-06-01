@@ -1,0 +1,4 @@
+2022-11-11 18:32:12,206 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='nan_nli_prompt.csv', exp_dir='nan/gpt2/contrastive/acc', models=['gpt2', 'gpt2-medium', 'gpt2-large', 'gpt2-xl'], use_gpu=True, batch_size=1, task_type='classification_acc', logging_level='info')
+2022-11-11 18:32:12,206 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/nan/gpt2/contrastive/acc
+2022-11-11 18:32:12,207 [INFO] Copied data

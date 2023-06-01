@@ -1,0 +1,1033 @@
+prompt,classes,answer_index
+"The question requires reasoning about negation.
+Not all people have had the opportunities you have had.
+Question: Some people have not had the opportunities you have had. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not all people have had the opportunities you have had.
+Question: Some people have had the opportunities you have had. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not all people have had the opportunities you have had.
+Question: Every person has had the opportunities you have had. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not all people have had the opportunities you have had.
+Question: Not every person has had the opportunities you have had. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not all people have had the opportunities you have had.
+Question: All people have not had the opportunities you have had. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not all people have had the opportunities you have had.
+Question: All people have had the opportunities you have had. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not all people have had the opportunities you have had.
+Question: Not all people have had the opportunities you have not had. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not all people have had the opportunities you have had.
+Question: No one has had the opportunities you have had. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+I saw nothing at all.
+Question: I didn't see anything at all. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+I saw nothing at all.
+Question: I saw something. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+I saw nothing at all.
+Question: I did not see something. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not often do we see her lose her cool like that.
+Question: We do not see her lose her cool like that often. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not often do we see her lose her cool like that.
+Question: She does not lose her cool like that often. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not often do we see her lose her cool like that.
+Question: We see her lose her cool like that often. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not often do we see her lose her cool like that.
+Question: Sometimes we see her lose her cool like that. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not often do we see her lose her cool like that.
+Question: Sometimes we do not see her lose her cool like that. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not often do we see her lose her cool like that.
+Question: We do not see her often. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not often do we see her lose her cool like that.
+Question: We do not see her lose her cool like him often. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not one person supported the proposal.
+Question: Some people supported the proposal. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not one person supported the proposal.
+Question: Some people did not support the proposal. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not one person supported the proposal.
+Question: Everyone supported the proposal. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not one person supported the proposal.
+Question: Everyone did not support the proposal. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not one person supported the proposal.
+Question: No one supported the proposal. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not one person supported the proposal.
+Question: No one did not support the proposal. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not one person supported the proposal.
+Question: One person did not support the proposal. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not one person supported the proposal.
+Question: One person supported the proposal. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not one person supported the proposal.
+Question: Two people did not support the proposal. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not one person supported the proposal.
+Question: Two people supported the proposal. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not one person supported the proposal.
+Question: Twenty people did not support the proposal. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not one person supported the proposal.
+Question: Twenty people supported the proposal. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They had found not one mistake.
+Question: They had found more than one mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+They had found not one mistake.
+Question: They had not found more than one mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They had found not one mistake.
+Question: They had found less than one mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They had found not one mistake.
+Question: They had found two mistakes. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+They had found not one mistake.
+Question: They had not found two mistakes. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They had found not one mistake.
+Question: They had found twenty mistakes. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+They had found not one mistake.
+Question: They had not found twenty mistakes. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+They had found not one mistake.
+Question: They had found some mistakes. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+They had found not one mistake.
+Question: They had found not all mistakes. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+They had found not one mistake.
+Question: They had found all mistakes. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+They had found not one mistake.
+Question: They had not found even one mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They had found not one mistake.
+Question: They had found not every mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+They had found not one mistake.
+Question: They had found every mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+They had found not one mistake.
+Question: They had not found only one mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+They had found not one mistake.
+Question: They had not found any mistakes. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They had found not one mistake.
+Question: They had not found some mistakes. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not one, not two, but three of them made the mistake.
+Question: Three of them made the mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not one, not two, but three of them made the mistake.
+Question: Three of them did not make the mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not one, not two, but three of them made the mistake.
+Question: More than three of them made the mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not one, not two, but three of them made the mistake.
+Question: More than two of them made the mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not one, not two, but three of them made the mistake.
+Question: More than one of them made the mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not one, not two, but three of them made the mistake.
+Question: More than three of them did not make the mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not one, not two, but three of them made the mistake.
+Question: More than two of them did not make the mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not one, not two, but three of them made the mistake.
+Question: More than one of them did not make the mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not one, not two, but three of them made the mistake.
+Question: Less than three of them made the mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not one, not two, but three of them made the mistake.
+Question: Less than two of them made the mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not one, not two, but three of them made the mistake.
+Question: Less than four of them made the mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not one, not two, but three of them made the mistake.
+Question: One of them made the mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not one, not two, but three of them made the mistake.
+Question: Two of them made the mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not one, not two, but three of them made the mistake.
+Question: One of them did not make the mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not one, not two, but three of them made the mistake.
+Question: Two of them did not make the mistake. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not two years ago this company was ranked in the top ten.
+Question: Less than two years ago this company was ranked in the top ten. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not two years ago this company was ranked in the top ten.
+Question: More than two years ago this company was ranked in the top ten. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not two years ago this company was ranked in the top ten.
+Question: Less than two years ago this company was not ranked in the top ten. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not two years ago this company was ranked in the top ten.
+Question: More than two years ago this company was not ranked in the top ten. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not two years ago this company was ranked in the top ten.
+Question: Two years ago this company was not ranked in the top ten. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not two years ago this company was ranked in the top ten.
+Question: Two years ago this company was ranked in the top ten. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not two years ago this company was ranked in the top ten.
+Question: Twenty years ago this company was not ranked in the top ten. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not two years ago this company was ranked in the top ten.
+Question: Twenty years ago this company was ranked in the top ten. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not two years ago this company was ranked in the top ten.
+Question: One year ago this company was ranked in the top ten. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not two years ago this company was ranked in the top ten.
+Question: One year ago this company was not ranked in the top ten. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+He was here not ten minutes ago.
+Question: He was here less than ten minutes ago. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+He was here not ten minutes ago.
+Question: He was not here less than ten minutes ago. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+He was here not ten minutes ago.
+Question: He was here more than ten minutes ago. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+He was here not ten minutes ago.
+Question: He was not here more than ten minutes ago. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+He was here not ten minutes ago.
+Question: He was not here ten minutes ago. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+He was here not ten minutes ago.
+Question: He was here ten minutes ago. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+He was here not ten minutes ago.
+Question: He was here one minute ago. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+He was here not ten minutes ago.
+Question: He was not here one minute ago True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+He was here not ten minutes ago.
+Question: He was here twenty minutes ago. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+He was here not ten minutes ago.
+Question: He was not here twenty minutes ago True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+His speech had caused not a little confusion.
+Question: His speech had not caused a little confusion. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+His speech had caused not a little confusion.
+Question: His speech had caused a little confusion. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+His speech had caused not a little confusion.
+Question: His speech had not caused confusion. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+His speech had caused not a little confusion.
+Question: His speech had caused confusion. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+His speech had caused not a little confusion.
+Question: His speech had caused a not little confusion. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+His speech had caused not a little confusion.
+Question: His speech had caused much confusion. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+His speech had caused not a little confusion.
+Question: His speech had not caused much confusion. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+A mistake would be costly and not a little embarrassing.
+Question: A mistake would not be costly and a little embarassing True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+A mistake would be costly and not a little embarrassing.
+Question: A mistake would be costly and very embarassing True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+A mistake would be costly and not a little embarrassing.
+Question: A mistake would not be costly and very embarassing True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+A mistake would be costly and not a little embarrassing.
+Question: A mistake would not be costly and not a little embarassing True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not even Ed approved of the plan
+Question: Even Ed did not approve of the plan. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not even Ed approved of the plan
+Question: Even Ed approved of the plan. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not even Ed approved of the plan
+Question: Not only Ed approved of the plan. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not even Ed approved of the plan
+Question: Only Ed approved of the plan. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not even Ed approved of the plan
+Question: Only Ed did not approve of the plan. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not even Ed approved of the plan
+Question: Not even Ed or Sally approve of the plan. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not only Ed approved of the plan.
+Question: Ed was not the only one who approved of the plan. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not only Ed approved of the plan.
+Question: Not even Ed approved of the plan. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not only Ed approved of the plan.
+Question: Ed approved of the plan. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not only Ed approved of the plan.
+Question: Ed not only approved of the plan. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not only Ed approved of the plan.
+Question: Only Ed approved of the plan. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not only Ed approved of the plan.
+Question: Ed and some others approved of the plan. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not even then did he lose patience.
+Question: Even then, he did not lose patience. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not even then did he lose patience.
+Question: He did not lose patience even then. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not even then did he lose patience.
+Question: Not only then did he lose patience. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not even then did he lose patience.
+Question: Only then did he lose patience. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not only was the acting appalling, the movie was far too long.
+Question: The movie was far too long and the acting was appalling. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not only was the acting appalling, the movie was far too long.
+Question: The movie was not only far too long but the acting was also appalling. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not only was the acting appalling, the movie was far too long.
+Question: The movie was far too long but the acting was not appalling. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not only was the acting appalling, the movie was far too long.
+Question: The movie was not far too long but the acting was appalling. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not only was the acting appalling, the movie was far too long.
+Question: The movie was not far too long and the acting was not appalling. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not only was the acting appalling, the movie was far too long.
+Question: The movie was too long and not even the acting was not appalling. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not only was the acting appalling, the movie was far too long.
+Question: The movie was not too long and not even the acting was appalling. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+We had a not very amicable discussion.
+Question: We did not have a very amicable discussion. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+We had a not very amicable discussion.
+Question: We did not have a discussion. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+We had a not very amicable discussion.
+Question: We had a very amicable discussion. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+We had a not very amicable discussion.
+Question: We had a very not amicable discussion. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+It somehow sounded not quite right.
+Question: It somehow did not sound quite right. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+It somehow sounded not quite right.
+Question: It somehow did not sound right. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+It somehow sounded not quite right.
+Question: It somehow sounded quite not right. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+It somehow sounded not quite right.
+Question: It somehow sounded quite right. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+It was so not funny.
+Question: It was not so funny. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+It was so not funny.
+Question: It was not funny. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+It was so not funny.
+Question: It was so boring. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+I found his story not wholly convincing.
+Question: I did not find his story wholly convincing. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+I found his story not wholly convincing.
+Question: I found his story wholly not convincing. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+I found his story not wholly convincing.
+Question: I found his story wholly convincing. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+I found his story not wholly convincing.
+Question: I did not find his story wholly not convincing. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+He spoke not very confidently.
+Question: He did not speak very confidently. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+He spoke not very confidently.
+Question: He spoke very not confidently. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+He spoke not very confidently.
+Question: He spoke very confidently. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+He spoke not very confidently.
+Question: He did not speak not very confidently. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+He spoke not very confidently.
+Question: He did not speak very not confidently. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not many of them had been damaged.
+Question: Many of them had not been damaged. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not many of them had been damaged.
+Question: Many of them had been damaged. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not many of them had been damaged.
+Question: Some of them had been damaged. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not many of them had been damaged.
+Question: Some of them had not been damaged. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+It was a not undistinguished private university with a large endowment.
+Question: It was not an undistinguished private university with a large endowment. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+It was a not undistinguished private university with a large endowment.
+Question: It was not a distinguished private university with a large endowment. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+It was a not undistinguished private university with a large endowment.
+Question: It was a distinguished private university with a large endowment. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+It was a not undistinguished private university with a large endowment.
+Question: It was an undistinguished private university with a large endowment. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+She had a not inconsiderable income.
+Question: She did not have a considerable income. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+She had a not inconsiderable income.
+Question: She had a considerable income. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+She had a not inconsiderable income.
+Question: She had a not considerable income. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+She had a not inconsiderable income.
+Question: She did not have an inconsiderable income. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+She had a not inconsiderable income.
+Question: She had an inconsiderable income. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They had fixed the walls, and purchased some not inelegant furniture.
+Question: They had fixed the walls, and did not purchase any inelegant furniture. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+They had fixed the walls, and purchased some not inelegant furniture.
+Question: They had fixed the walls, but did not purchase any elegant furniture. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+They had fixed the walls, and purchased some not inelegant furniture.
+Question: They had fixed the walls, but purchased some not elegant furniture. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+They had fixed the walls, and purchased some not inelegant furniture.
+Question: They had fixed the walls, and purchased some inelegant furniture. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They had fixed the walls, and purchased some not inelegant furniture.
+Question: They had fixed the walls, and purchased some elegant furniture. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+That model is not available.
+Question: That model is unavailable. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Such mistakes are not common.
+Question: Such mistakes are uncommon. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not unexpectedly, Charles was late for the meeting.
+Question: Unexpectedly, Charles was not late for the meeting. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not unexpectedly, Charles was late for the meeting.
+Question: Unexpectedly, Charles was late for the meeting. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not unexpectedly, Charles was late for the meeting.
+Question: Expectedly, Charles was late for the meeting. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not unexpectedly, Charles was late for the meeting.
+Question: Expectedly, Charles was not late for the meeting. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not unreasonably, he asked for payment in advance.
+Question: Unreasonably, he did not ask for payment in advance. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not unreasonably, he asked for payment in advance.
+Question: Unreasonably, he asked for payment in advance. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not unreasonably, he asked for payment in advance.
+Question: Reasonably, he asked for payment in advance. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not unreasonably, he asked for payment in advance.
+Question: Reasonably, he did not ask for payment in advance. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not surprisingly, they didn't want any part of it.
+Question: Surprisingly, they didn't want any part of it. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not surprisingly, they didn't want any part of it.
+Question: Surprisingly, they wanted some part of it. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not surprisingly, they didn't want any part of it.
+Question: Not unsurprisingly, they didn't want any part of it. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not surprisingly, they didn't want any part of it.
+Question: Not surprisingly, they wanted some part of it. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not at any stage of the proceedings did she contemplate giving up.
+Question: She did not contemplate giving up at any stage of the proceedings. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not at any stage of the proceedings did she contemplate giving up.
+Question: She did not contemplate giving up. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not at any stage of the proceedings did she contemplate giving up.
+Question: She contemplated giving up at some stages of the proceedings. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not at any stage of the proceedings did she contemplate giving up.
+Question: At no stage of the proceedings did she contemplate giving up. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not at any stage of the proceedings did she contemplate giving up.
+Question: She did not contemplate giving up at some stages of the proceedings. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not for the first time, she felt utterly betrayed.
+Question: She did not feel utterly betrayed for the first time. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not for the first time, she felt utterly betrayed.
+Question: She did not feel utterly betrayed for the second time. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not for the first time, she felt utterly betrayed.
+Question: She did not feel utterly betrayed for the twentieth time. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not for the first time, she felt utterly betrayed.
+Question: She had not felt utterly betrayed before. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not for the first time, she felt utterly betrayed.
+Question: She had felt utterly betrayed before. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not for the first time, she felt utterly betrayed.
+Question: She did not feel utterly betrayed. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not for the first time, she felt utterly betrayed.
+Question: She felt utterly betrayed for the first time. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not for the first time, she felt utterly betrayed.
+Question: She felt utterly betrayed for the second time. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not for the first time, she felt utterly betrayed.
+Question: She felt utterly betrayed for the twentieth time. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+Not for the first time, she felt utterly betrayed.
+Question: It was not the first time that she felt utterly betrayed. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not an accomplished dancer, he moved rather clumsily.
+Question: Though not an accomplished dancer, he did not move clumsily. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not an accomplished dancer, he moved rather clumsily.
+Question: Being an accomplished dancer, he did not move clumsily. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not an accomplished dancer, he moved rather clumsily.
+Question: Though being an accomplished dancer, he moved rather clumsily. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not an accomplished dancer, he moved rather clumsily.
+Question: He moved rather clumsily because he was not an accomplished dancer. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not under any illusions about the matter, he continued to be cautious.
+Question: Under some illusions about the matter, he did not continue to be cautious. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not under any illusions about the matter, he continued to be cautious.
+Question: Under some illusions about the matter, he continued to be cautious. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not under any illusions about the matter, he continued to be cautious.
+Question: Though not under any illusions about the matter, he did not continue to be cautious. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Not under any illusions about the matter, he continued to be cautious.
+Question: He continued to be cautious because he was not under any illusions about the matter. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not under any illusions about the matter, he continued to be cautious.
+Question: He continued to be cautious. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Not under any illusions about the matter, he continued to be cautious.
+Question: He didn't continue to be cautious. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+We need someone not afraid of taking risks.
+Question: We do not need someone afraid of taking risks. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+We need someone not afraid of taking risks.
+Question: We do not need someone not afraid of taking risks. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+We need someone not afraid of taking risks.
+Question: We need someone afraid of taking risks. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+There are spare blankets in here, not that you'll have any need of them.
+Question: There are no spare blankets in here, not that you'll have any need of them. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+There are spare blankets in here, not that you'll have any need of them.
+Question: There are no spare blankets in here, you'll need them. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+There are spare blankets in here, not that you'll have any need of them.
+Question: There are spare blankets in here, you will not have any need of them. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+There are spare blankets in here, not that you'll have any need of them.
+Question: There are spare blankets in here, you'll need them. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They are now leaving not on Friday, but on Saturday.
+Question: They are now leaving on Friday, not on Saturday. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They are now leaving not on Friday, but on Saturday.
+Question: They are now leaving on Saturday instead of Friday. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+They are now leaving not on Friday, but on Saturday.
+Question: They are now leaving not on Saturday, but on Friday. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They are now leaving not on Friday, but on Saturday.
+Question: They are now leaving on Saturday. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+They are now leaving not on Friday, but on Saturday.
+Question: They are now not leaving on Saturday. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They are now leaving not on Friday, but on Saturday.
+Question: They are now leaving on Friday. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They are now leaving on Saturday, not on Friday.
+Question: They are now leaving not on Saturday, but on Friday. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They are now leaving on Saturday, not on Friday.
+Question: They are now leaving on Saturday instead of Friday. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+They are now leaving on Saturday, not on Friday.
+Question: They are now leaving not on Friday, but on Saturday. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+They are now leaving on Saturday, not on Friday.
+Question: They are now leaving on Saturday. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+They are now leaving on Saturday, not on Friday.
+Question: They are now not leaving on Saturday. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They are now leaving on Saturday, not on Friday.
+Question: They are now not leaving on Friday. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+They've invited you and your brother, but not me.
+Question: They've invited you and your brother, and me. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They've invited you and your brother, but not me.
+Question: They've invited not you and your brother, but me. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They've invited you and your brother, but not me.
+Question: They've invited not you and your brother, nor me. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They've invited you and your brother, but not me.
+Question: They've invited me. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They've invited you and your brother, but not me.
+Question: They've invited you. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+They've invited you and your brother, but not me.
+Question: They've invited your brother. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+They've invited you and your brother, but not me.
+Question: They have not invited me. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+They've invited you and your brother, but not me.
+Question: They have not invited your brother. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They've invited you and your brother, but not me.
+Question: They have not invited you. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+They've invited you and your brother, but not me.
+Question: They've invited you and me, but not your brother. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.
+Question: The night turned cold under a sky with stars that twinkled, not shone, in the diamond-clear air. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.
+Question: The night turned cold under a sky with stars that did not twinkle, but shone, in the diamond-clear air. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.
+Question: The night turned cold under a sky with stars that did not shine, but twinkled, in the diamond-clear air. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+The night turned cold under a sky with stars that shone, not twinkled, in the diamond-clear air.
+Question: The night turned cold under a sky with stars that shone and twinkled in the diamond-clear air. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+She rarely goes out these days.
+Question: She doesn't go out often these days. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+She rarely goes out these days.
+Question: She never goes out these days. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+She rarely goes out these days.
+Question: She doesn't go out these days. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+She rarely goes out these days.
+Question: She goes out these days, but not often. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+This phone hardly lags.
+Question: This phone never lags. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+This phone hardly lags.
+Question: This phone does not lag. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+This phone hardly lags.
+Question: This phone does not lag often. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+This phone hardly lags.
+Question: This phone lags, but not often. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Little of the liquid spilled.
+Question: Not much of the liquid spilled. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+Little of the liquid spilled.
+Question: None of the liquid spilled. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Little of the liquid spilled.
+Question: Lots of the liquid spilled. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+Little of the liquid spilled.
+Question: The liquid spilled, but not much. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+One seldom sees such birds.
+Question: One doesn't often see such birds. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+One seldom sees such birds.
+Question: One doesn't see such birds. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+One seldom sees such birds.
+Question: One sees such birds, but not often. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+One seldom sees such birds.
+Question: One never sees such birds. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+None of them supported her.
+Question: Few of them supported her. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+None of them supported her.
+Question: Not one of them supported her. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+None of them supported her.
+Question: One of them supported her. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+None of them supported her.
+Question: One of them did not support her. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+None of them supported her.
+Question: Two of them supported her. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+None of them supported her.
+Question: Two of them did not support her. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+None of them supported her.
+Question: Twenty of them supported her. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+None of them supported her.
+Question: Twenty of them did not support her. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+You can not answer their letters: you're not legally required to respond.
+Question: You can answer their letters. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+You can not answer their letters.
+Question: You don't have to answer their letters. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+They must not read it.
+Question: It is required that they not read it. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+They must not read it.
+Question: They need not read it. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",2
+"The question requires reasoning about negation.
+They must not read it.
+Question: They should not read it. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+We were friends at no time.
+Question: We were friends in no time. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+We were friends at no time.
+Question: We were not friends. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0
+"The question requires reasoning about negation.
+I can't stop reading this book.
+Question: I am not reading this book. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",1
+"The question requires reasoning about negation.
+I can't stop reading this book.
+Question: I am reading this book. True, False, or Neither?
+Answer:","[' True',' False',' Neither']",0

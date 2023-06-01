@@ -1,0 +1,4 @@
+2023-02-06 14:58:50,054 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='rte_gpt3_prompts.csv', exp_dir='rte/gpt3_prompts/gpt3-001/acc', models=['text-davinci-001'], use_gpu=False, contrastive_search=False, batch_size=100, task_type='classification_acc', logging_level='info')
+2023-02-06 14:58:50,054 [INFO] Saving to results to /home/hungthinht/inverse-scaling-eval-pipeline/results/rte/gpt3_prompts/gpt3-001/acc
+2023-02-06 14:58:50,054 [INFO] Copied data

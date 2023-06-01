@@ -1,0 +1,16 @@
+{
+  "dataset": null,
+  "dataset_path": "sar_test_normal_prompt.csv",
+  "exp_dir": "sar_debug/opt/acc",
+  "models": [
+    "opt-125m",
+    "opt-350m",
+    "opt-1.3b",
+    "opt-2.7b"
+  ],
+  "use_gpu": true,
+  "contrastive_search": false,
+  "batch_size": 1,
+  "task_type": "classification_acc",
+  "logging_level": "info"
+}

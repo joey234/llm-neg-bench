@@ -1,0 +1,4 @@
+2022-11-11 18:28:59,171 [INFO] Logging set up with args
+Namespace(dataset=None, dataset_path='nan_nli_prompt.csv', exp_dir='nan/eleutheur/contrastive/loss', models=['gpt-neo-125M', 'gpt-neo-1.3B', 'gpt-neo-2.7B', 'gpt-j-6B'], use_gpu=True, batch_size=1, task_type='classification', logging_level='info')
+2022-11-11 18:28:59,172 [INFO] Saving to results to /data/gpfs/projects/punim0478/thinh/llms/inverse-scaling-eval-pipeline/results/nan/eleutheur/contrastive/loss
+2022-11-11 18:28:59,196 [INFO] Copied data
